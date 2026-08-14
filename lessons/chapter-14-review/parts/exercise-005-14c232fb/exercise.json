@@ -1,0 +1,95 @@
+{
+  "id": "exercise_14c232fb-3937-4de5-81f0-d211d308c386",
+  "type": "multiple-choice",
+  "instruction": "かくじ",
+  "prompt": [
+    {
+      "id": "prompt_14c232fb-3937-4de5-81f0-d211d308c386",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What does かくじ mean?"
+        }
+      }
+    },
+    {
+      "id": "content_word_14c232fb-3937-4de5-81f0-d211d308c386",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_14c232fb-3937-4de5-81f0-d211d308c386",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_9cc79ee7-50c8-4c7f-97f1-9d38342e2eab",
+      "body": [
+        {
+          "id": "fragment_option_9cc79ee7-50c8-4c7f-97f1-9d38342e2eab",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_aa374473-6984-40e2-bebb-a89eae1c8a38",
+      "body": [
+        {
+          "id": "fragment_option_aa374473-6984-40e2-bebb-a89eae1c8a38",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "lower jaw"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_2b42c579-e740-41b5-ac86-13467a5f8398",
+      "body": [
+        {
+          "id": "fragment_option_2b42c579-e740-41b5-ac86-13467a5f8398",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "tooth"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_9cc79ee7-50c8-4c7f-97f1-9d38342e2eab"
+    ]
+  },
+  "legacy": {
+    "variantId": "14c232fb-3937-4de5-81f0-d211d308c386",
+    "type": "mcq"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "exercise_006584a6-faec-4fcc-903f-39c91d28c702",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 12",
+  "prompt": [
+    {
+      "id": "content_word_006584a6-faec-4fcc-903f-39c91d28c702",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3c87cdb3-faed-4565-bf4d-1fbf02413a1f",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_006584a6-faec-4fcc-903f-39c91d28c702",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'dream' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_006584a6-faec-4fcc-903f-39c91d28c702"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_006584a6-faec-4fcc-903f-39c91d28c702",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_006584a6-faec-4fcc-903f-39c91d28c702",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いみ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "006584a6-faec-4fcc-903f-39c91d28c702",
+    "type": "word_cloze"
+  }
+}

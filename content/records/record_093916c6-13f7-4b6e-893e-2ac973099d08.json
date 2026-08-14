@@ -1,0 +1,18 @@
+{
+  "id": "record_093916c6-13f7-4b6e-893e-2ac973099d08",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "めんそーれー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "welcome"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "093916c6-13f7-4b6e-893e-2ac973099d08",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

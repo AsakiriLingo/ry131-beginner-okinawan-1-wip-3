@@ -1,0 +1,18 @@
+{
+  "id": "record_fd390318-89f3-4862-a7db-e5fccf3e4135",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うぅんちゅー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "father or mother's younger brother"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "fd390318-89f3-4862-a7db-e5fccf3e4135",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

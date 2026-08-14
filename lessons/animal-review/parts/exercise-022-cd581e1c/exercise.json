@@ -1,0 +1,138 @@
+{
+  "id": "exercise_cd581e1c-db16-444f-8d59-4870af88f692",
+  "type": "word-order",
+  "instruction": "Translate: a cat's tail",
+  "prompt": [
+    {
+      "id": "content_word_cd581e1c-db16-444f-8d59-4870af88f692",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d98644a8-4072-4e05-bdbb-b11b2cc02ccd",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_cd581e1c-db16-444f-8d59-4870af88f692_1",
+      "body": [
+        {
+          "id": "fragment_token_cd581e1c-db16-444f-8d59-4870af88f692_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_cd581e1c-db16-444f-8d59-4870af88f692_2",
+      "body": [
+        {
+          "id": "fragment_token_cd581e1c-db16-444f-8d59-4870af88f692_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ぬ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_cd581e1c-db16-444f-8d59-4870af88f692_3",
+      "body": [
+        {
+          "id": "fragment_token_cd581e1c-db16-444f-8d59-4870af88f692_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "じゅー"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_cd581e1c-db16-444f-8d59-4870af88f692_1",
+      "body": [
+        {
+          "id": "fragment_distractor_cd581e1c-db16-444f-8d59-4870af88f692_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "てぃー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_cd581e1c-db16-444f-8d59-4870af88f692_2",
+      "body": [
+        {
+          "id": "fragment_distractor_cd581e1c-db16-444f-8d59-4870af88f692_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19e6f6ca-699f-48a0-b5ca-4ef503c7fa7e",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_cd581e1c-db16-444f-8d59-4870af88f692_3",
+      "body": [
+        {
+          "id": "fragment_distractor_cd581e1c-db16-444f-8d59-4870af88f692_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "てぃー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_cd581e1c-db16-444f-8d59-4870af88f692_4",
+      "body": [
+        {
+          "id": "fragment_distractor_cd581e1c-db16-444f-8d59-4870af88f692_4",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19e6f6ca-699f-48a0-b5ca-4ef503c7fa7e",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_cd581e1c-db16-444f-8d59-4870af88f692_1",
+      "token_cd581e1c-db16-444f-8d59-4870af88f692_2",
+      "token_cd581e1c-db16-444f-8d59-4870af88f692_3"
+    ]
+  },
+  "legacy": {
+    "variantId": "cd581e1c-db16-444f-8d59-4870af88f692",
+    "type": "sentence_builder"
+  }
+}

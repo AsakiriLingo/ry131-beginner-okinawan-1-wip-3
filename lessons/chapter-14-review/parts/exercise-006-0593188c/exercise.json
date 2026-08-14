@@ -1,0 +1,110 @@
+{
+  "id": "exercise_0593188c-bdb7-4c74-b790-eac852f5d74e",
+  "type": "fill-blank",
+  "instruction": "数（かじゅ）いん",
+  "prompt": [
+    {
+      "id": "content_word_0593188c-bdb7-4c74-b790-eac852f5d74e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2f645098-0aaf-4802-bb94-8c6d92f63a36",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_0593188c-bdb7-4c74-b790-eac852f5d74e",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2f645098-0aaf-4802-bb94-8c6d92f63a36",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_0593188c-bdb7-4c74-b790-eac852f5d74e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Can you _______ how many stars are visible tonight?"
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "count"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "see"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "wish"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1",
+        "correctOptionIds": [
+          "bank_0593188c-bdb7-4c74-b790-eac852f5d74e_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0593188c-bdb7-4c74-b790-eac852f5d74e",
+    "type": "multi_blank"
+  }
+}

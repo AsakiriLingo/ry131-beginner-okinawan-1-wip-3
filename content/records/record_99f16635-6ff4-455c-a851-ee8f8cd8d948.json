@@ -1,0 +1,18 @@
+{
+  "id": "record_99f16635-6ff4-455c-a851-ee8f8cd8d948",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "いり"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "west"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "99f16635-6ff4-455c-a851-ee8f8cd8d948",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

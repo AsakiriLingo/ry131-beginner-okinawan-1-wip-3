@@ -1,0 +1,18 @@
+{
+  "id": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うぅじゃさ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "father or mother's older brother"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

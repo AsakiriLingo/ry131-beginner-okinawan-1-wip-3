@@ -1,0 +1,79 @@
+{
+  "id": "exercise_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_53615418-bf91-49f5-8d90-4f23a206430e",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'ga' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "が"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+    "type": "word_cloze"
+  }
+}

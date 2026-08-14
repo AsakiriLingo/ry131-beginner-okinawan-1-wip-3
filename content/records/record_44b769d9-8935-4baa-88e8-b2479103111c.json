@@ -1,0 +1,18 @@
+{
+  "id": "record_44b769d9-8935-4baa-88e8-b2479103111c",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "鏡（かがん）"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "mirror"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "44b769d9-8935-4baa-88e8-b2479103111c",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "exercise_a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+  "type": "multiple-choice",
+  "instruction": "間数（えーじゅー）",
+  "prompt": [
+    {
+      "id": "prompt_a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which word means 'fellow' or 'companion'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3fe35b6a-4d27-4fcc-bc00-f08a08526b19",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3fe35b6a-4d27-4fcc-bc00-f08a08526b19",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_b52bfa2a-b8f4-4284-ab35-43b2d71733d9",
+      "body": [
+        {
+          "id": "fragment_option_b52bfa2a-b8f4-4284-ab35-43b2d71733d9",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d592a3b5-4e79-4b27-8708-225556d68787",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_1672d662-d7df-4c68-887c-f2eab12b3cd3",
+      "body": [
+        {
+          "id": "fragment_option_1672d662-d7df-4c68-887c-f2eab12b3cd3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_01d30316-7c12-4443-957e-26411c77dff9",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_fd1cddf7-27ab-448b-be12-77ffd9b93969",
+      "body": [
+        {
+          "id": "fragment_option_fd1cddf7-27ab-448b-be12-77ffd9b93969",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19fd7489-837d-4af6-9aa9-119ad61a16db",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_b52bfa2a-b8f4-4284-ab35-43b2d71733d9"
+    ]
+  },
+  "legacy": {
+    "variantId": "a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+    "type": "mcq"
+  }
+}

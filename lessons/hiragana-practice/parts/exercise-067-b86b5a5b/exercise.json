@@ -1,0 +1,79 @@
+{
+  "id": "exercise_b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7a05d8d9-1a1a-4095-8c8e-09d3260b3648",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'ya' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b86b5a5b-e0e2-47c0-8790-ebda46496c5f"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "や"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+    "type": "word_cloze"
+  }
+}

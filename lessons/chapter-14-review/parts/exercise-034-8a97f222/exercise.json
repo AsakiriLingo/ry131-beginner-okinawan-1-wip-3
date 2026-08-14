@@ -1,0 +1,97 @@
+{
+  "id": "exercise_8a97f222-6683-40ea-9cd3-06e72f58848c",
+  "type": "fill-blank",
+  "instruction": "おーいん",
+  "prompt": [
+    {
+      "id": "content_word_8a97f222-6683-40ea-9cd3-06e72f58848c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_142106eb-00d6-4aef-a133-e1d24c2b2604",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8a97f222-6683-40ea-9cd3-06e72f58848c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_142106eb-00d6-4aef-a133-e1d24c2b2604",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_8a97f222-6683-40ea-9cd3-06e72f58848c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The children started to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8a97f222-6683-40ea-9cd3-06e72f58848c"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_8a97f222-6683-40ea-9cd3-06e72f58848c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " over the last cookie."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_8a97f222-6683-40ea-9cd3-06e72f58848c",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_142106eb-00d6-4aef-a133-e1d24c2b2604",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8a97f222-6683-40ea-9cd3-06e72f58848c",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "fight"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8a97f222-6683-40ea-9cd3-06e72f58848c",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lesson_2800be9d-9ac0-4f18-83c2-fdcc6923d845",
+  "title": "Structure of the Exam",
+  "parts": [
+    {
+      "id": "part_section_463813e6-d163-4916-b1c4-77eed70726ed",
+      "title": "Part 1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-463813e6/document.json"
+      },
+      "legacy": {
+        "sectionId": "463813e6-d163-4916-b1c4-77eed70726ed"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "2800be9d-9ac0-4f18-83c2-fdcc6923d845",
+    "status": "draft"
+  }
+}

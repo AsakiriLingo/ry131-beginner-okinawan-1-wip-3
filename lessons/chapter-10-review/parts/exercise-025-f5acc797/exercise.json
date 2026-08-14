@@ -1,0 +1,102 @@
+{
+  "id": "exercise_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+  "type": "fill-blank",
+  "instruction": "うたいん",
+  "prompt": [
+    {
+      "id": "content_word_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To sing in Okinawan is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_f5acc797-c7cd-4e8e-b6bc-6b88432050df"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_d66d5346-a472-41c8-8784-9177a46ab950",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+    "type": "word_cloze"
+  }
+}

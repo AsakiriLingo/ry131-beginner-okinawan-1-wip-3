@@ -1,0 +1,18 @@
+{
+  "id": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うてぃーん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to fall"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

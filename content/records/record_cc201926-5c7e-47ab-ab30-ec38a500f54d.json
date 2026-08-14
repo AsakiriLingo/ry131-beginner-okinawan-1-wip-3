@@ -1,0 +1,18 @@
+{
+  "id": "record_cc201926-5c7e-47ab-ab30-ec38a500f54d",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "を"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "wo/o"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "cc201926-5c7e-47ab-ab30-ec38a500f54d",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

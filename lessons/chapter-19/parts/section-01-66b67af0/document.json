@@ -1,0 +1,61 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Verbs I",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "For this chapter:",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "This video is meant for students to learn silently while observing what is going on. Please view the images and figure out what it means. Apologies that that the gray text is offset a lot, the video editor did not want to work properly, it seems.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "youtube"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

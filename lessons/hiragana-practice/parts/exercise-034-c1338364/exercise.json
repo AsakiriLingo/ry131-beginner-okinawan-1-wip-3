@@ -1,0 +1,77 @@
+{
+  "id": "exercise_c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_16a58879-e1e7-4774-b999-a8c1564d60d9",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for い is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c1338364-e05a-4044-a8b8-6c880dcfe4d8"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_10b83404-de8b-48ac-87c2-95a98afd9e28",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+    "type": "word_cloze"
+  }
+}

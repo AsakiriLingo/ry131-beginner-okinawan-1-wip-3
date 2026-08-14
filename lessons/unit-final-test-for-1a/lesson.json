@@ -1,0 +1,131 @@
+{
+  "id": "lesson_exercise_group_d395bab7-2dae-431e-903d-655b3816a49e",
+  "title": "Unit Final Test for 1A",
+  "parts": [
+    {
+      "id": "part_exercise_12014c50-a8b6-4a22-9441-54e90442bfc8",
+      "title": "Fill the blank: ならーすん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-001-12014c50/exercise.json"
+      },
+      "legacy": {
+        "variantId": "12014c50-a8b6-4a22-9441-54e90442bfc8",
+        "itemId": "f278111c-3ac3-47b3-bbad-296ec7d27043"
+      }
+    },
+    {
+      "id": "part_exercise_8b4a034b-97f5-4758-b1ca-1e61835c595e",
+      "title": "Build the sentence: Build the Okinawan sentence for 'I will teach you'.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-002-8b4a034b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8b4a034b-97f5-4758-b1ca-1e61835c595e",
+        "itemId": "4b76343f-bb01-4dff-843b-2e91c17f7f6e"
+      }
+    },
+    {
+      "id": "part_exercise_1b6014ae-6edc-4fff-a044-5580964785bc",
+      "title": "Fill the blank: はいさい",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-003-1b6014ae/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1b6014ae-6edc-4fff-a044-5580964785bc",
+        "itemId": "79cf2e40-e3b6-49be-9922-cf6ab2d23ab0"
+      }
+    },
+    {
+      "id": "part_exercise_544dd0b6-c968-49c8-83c0-a78076938c73",
+      "title": "Fill the blank: はいたい",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-004-544dd0b6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "544dd0b6-c968-49c8-83c0-a78076938c73",
+        "itemId": "31424bca-e14c-49d0-8a88-718e5685d890"
+      }
+    },
+    {
+      "id": "part_exercise_fb53c1f3-910c-414c-930d-05fc1eb44108",
+      "title": "Fill the blank: めんそーれー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-005-fb53c1f3/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fb53c1f3-910c-414c-930d-05fc1eb44108",
+        "itemId": "093916c6-13f7-4b6e-893e-2ac973099d08"
+      }
+    },
+    {
+      "id": "part_exercise_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+      "title": "Fill the blank: しるし",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-006-e1a8de0e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e1a8de0e-3586-4330-85ad-59a3d4b72343",
+        "itemId": "2fa0e4be-f126-4dc0-9d2c-41d73bb28d88"
+      }
+    },
+    {
+      "id": "part_exercise_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f",
+      "title": "Build the sentence: Build the sentence: 'To go to the mark'",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-007-3bdb6c64/exercise.json"
+      },
+      "legacy": {
+        "variantId": "3bdb6c64-5157-4c4f-b4a2-42439aaffb2f",
+        "itemId": "7f964d71-0cb9-47a9-848f-6ccbb56f765e"
+      }
+    },
+    {
+      "id": "part_exercise_e815074e-99aa-4ca6-b62f-2e7de8c90f13",
+      "title": "Fill the blank: しぐ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-008-e815074e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e815074e-99aa-4ca6-b62f-2e7de8c90f13",
+        "itemId": "3600bfdb-5dcb-4606-8843-87b2ac52a015"
+      }
+    },
+    {
+      "id": "part_exercise_7b8d9aa3-6ce6-4daa-a9b6-1627ef778c1d",
+      "title": "Fill the blank: いちか",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-009-7b8d9aa3/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7b8d9aa3-6ce6-4daa-a9b6-1627ef778c1d",
+        "itemId": "75f7ce9a-24da-4c29-a70b-6c8cf256ca93"
+      }
+    },
+    {
+      "id": "part_exercise_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+      "title": "Fill the blank: なま",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-010-a3881a45/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+        "itemId": "01dfdac3-b639-4e52-b1df-9b62ee9ea3a7"
+      }
+    }
+  ],
+  "legacy": {
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e",
+    "datasetType": "word_pair",
+    "description": null
+  }
+}

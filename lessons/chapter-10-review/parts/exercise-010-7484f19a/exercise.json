@@ -1,0 +1,91 @@
+{
+  "id": "exercise_7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+  "type": "multiple-choice",
+  "instruction": "うぅーむん",
+  "prompt": [
+    {
+      "id": "prompt_7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which word means 'male'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a0029216-82c6-48a8-8292-05eb93569809",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a0029216-82c6-48a8-8292-05eb93569809",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_c520da9e-ea0b-4d24-83e7-5fd61baf7c44",
+      "body": [
+        {
+          "id": "fragment_option_c520da9e-ea0b-4d24-83e7-5fd61baf7c44",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_9f2c8402-3b0f-411e-bb89-88ddbd1289df",
+      "body": [
+        {
+          "id": "fragment_option_9f2c8402-3b0f-411e-bb89-88ddbd1289df",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_edb020c5-14c1-4d31-bf17-06dced83104d",
+      "body": [
+        {
+          "id": "fragment_option_edb020c5-14c1-4d31-bf17-06dced83104d",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_fadf84ee-356e-4f12-a2d0-6d4762c8db8c",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_c520da9e-ea0b-4d24-83e7-5fd61baf7c44"
+    ]
+  },
+  "legacy": {
+    "variantId": "7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+    "type": "mcq"
+  }
+}

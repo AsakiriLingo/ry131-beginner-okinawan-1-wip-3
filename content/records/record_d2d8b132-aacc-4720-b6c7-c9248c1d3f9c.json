@@ -1,0 +1,18 @@
+{
+  "id": "record_d2d8b132-aacc-4720-b6c7-c9248c1d3f9c",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "じ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ji"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "d2d8b132-aacc-4720-b6c7-c9248c1d3f9c",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

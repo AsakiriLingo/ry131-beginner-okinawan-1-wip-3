@@ -1,0 +1,18 @@
+{
+  "id": "record_b7da7866-37c6-4ebe-a81c-83365a650389",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あんら"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "oil"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "b7da7866-37c6-4ebe-a81c-83365a650389",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

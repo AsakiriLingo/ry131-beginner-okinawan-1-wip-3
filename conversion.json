@@ -1,0 +1,38 @@
+{
+  "slug": "ry131-beginner-okinawan-1-wip-3-d99e4b9b-v1",
+  "title": "RY131: Beginner Okinawan 1 (WIP, 19/30)",
+  "source": {
+    "courseId": "d99e4b9b-f0da-4456-b94f-abc2c728d3a4",
+    "publicationId": "58604196-6132-47ab-9063-c57d70b6cedc",
+    "publicationVersion": 2,
+    "isListed": true
+  },
+  "converted": {
+    "units": 5,
+    "lessons": 38,
+    "parts": 317,
+    "records": 257,
+    "skippedEmptyExerciseGroups": 4
+  },
+  "warnings": [
+    "Remote legacy cover image was recorded as provenance but not downloaded.",
+    "Exercise group Chapter 17 Review contained no exercise variants and was omitted.",
+    "Exercise group Chapter 20 Review contained no exercise variants and was omitted.",
+    "Exercise group Chapter 22 Review contained no exercise variants and was omitted.",
+    "Exercise group Chapter 25 Review contained no exercise variants and was omitted.",
+    "Section 463813e6-d163-4916-b1c4-77eed70726ed had no Tiptap document; a title-only document was created.",
+    "Section af177818-9b25-42d9-936e-77d2a6aba98f had no Tiptap document; a title-only document was created.",
+    "Section 26e35205-c6a2-4584-a6e0-07b174057101 had no Tiptap document; a title-only document was created.",
+    "Section 78f02016-dc7a-4c32-8419-df27d0a30007 had no Tiptap document; a title-only document was created.",
+    "Section 469fbaf4-d1dd-4c1b-8639-487c911e82df had no Tiptap document; a title-only document was created."
+  ],
+  "errors": [],
+  "validatorSummary": {
+    "assets": 0,
+    "collections": 1,
+    "lessons": 38,
+    "parts": 317,
+    "placeholderAssets": 0,
+    "records": 257
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_0ff7b83f-1796-4a10-b881-7f55cce2f55c",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ま"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ma"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "0ff7b83f-1796-4a10-b881-7f55cce2f55c",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

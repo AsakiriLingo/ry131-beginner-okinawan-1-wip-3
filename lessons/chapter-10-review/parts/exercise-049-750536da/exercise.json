@@ -1,0 +1,95 @@
+{
+  "id": "exercise_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+  "type": "fill-blank",
+  "instruction": "うふっちゅ",
+  "prompt": [
+    {
+      "id": "content_word_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fadf84ee-356e-4f12-a2d0-6d4762c8db8c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fadf84ee-356e-4f12-a2d0-6d4762c8db8c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'adult' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_750536da-ccfd-4a95-8c71-aef474c4d5e4"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_fadf84ee-356e-4f12-a2d0-6d4762c8db8c",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_fadf84ee-356e-4f12-a2d0-6d4762c8db8c",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "750536da-ccfd-4a95-8c71-aef474c4d5e4",
+    "type": "word_cloze"
+  }
+}

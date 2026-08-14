@@ -1,0 +1,32 @@
+{
+  "id": "lesson_ccf9b26f-cdcf-4344-be67-f27f6d1978e3",
+  "title": "Temporary Chapter 19 (while the site is not working)",
+  "parts": [
+    {
+      "id": "part_section_6cfce2f7-3632-4560-abab-132bc170295e",
+      "title": "Temporary 19-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-6cfce2f7/document.json"
+      },
+      "legacy": {
+        "sectionId": "6cfce2f7-3632-4560-abab-132bc170295e"
+      }
+    },
+    {
+      "id": "part_section_143d124f-974a-4bd8-baac-fae82b910d4d",
+      "title": "Temporary 19-2",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-02-143d124f/document.json"
+      },
+      "legacy": {
+        "sectionId": "143d124f-974a-4bd8-baac-fae82b910d4d"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "ccf9b26f-cdcf-4344-be67-f27f6d1978e3",
+    "status": "draft"
+  }
+}

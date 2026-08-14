@@ -1,0 +1,108 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Time I: Dates",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "The dates after the name of the month in English (1st to 10th) are as follows:",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "一日（ちーたち）= 1st (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "二日（ふちか）= 2nd (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "三日（みっか）= 3rd (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "四日（ゆっか）= 4th (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "五日（ぐにち）= 5th (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "六日（るくにち）= 6th (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "七日（しちにち）= 7th (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "八日（はちにち）= 8th (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "九日（くにち）= 9th (day of the month)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "十日（とぅか）= 10th (day of the month)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

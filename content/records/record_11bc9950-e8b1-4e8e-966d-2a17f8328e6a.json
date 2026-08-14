@@ -1,0 +1,18 @@
+{
+  "id": "record_11bc9950-e8b1-4e8e-966d-2a17f8328e6a",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Complete the definition."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "11bc9950-e8b1-4e8e-966d-2a17f8328e6a",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

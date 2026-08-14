@@ -1,0 +1,21 @@
+{
+  "id": "lesson_635aee50-06f6-42e7-89dd-62453630676b",
+  "title": "聞ち取い　考ー物 (Listening Questions)",
+  "parts": [
+    {
+      "id": "part_section_af177818-9b25-42d9-936e-77d2a6aba98f",
+      "title": "Part 1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-af177818/document.json"
+      },
+      "legacy": {
+        "sectionId": "af177818-9b25-42d9-936e-77d2a6aba98f"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "635aee50-06f6-42e7-89dd-62453630676b",
+    "status": "draft"
+  }
+}

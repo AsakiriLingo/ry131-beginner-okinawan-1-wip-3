@@ -1,0 +1,110 @@
+{
+  "id": "exercise_ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+  "type": "fill-blank",
+  "instruction": "かーらちゅん",
+  "prompt": [
+    {
+      "id": "content_word_ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_53b0c226-2b19-4f4b-ac93-9fc8f45d5ed1",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_53b0c226-2b19-4f4b-ac93-9fc8f45d5ed1",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "After washing the dishes, she let them _______ on the rack."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "dry"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "soak"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "break"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1",
+        "correctOptionIds": [
+          "bank_ac93f211-2c3b-4ddb-b95e-c5290dc577f7_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+    "type": "multi_blank"
+  }
+}

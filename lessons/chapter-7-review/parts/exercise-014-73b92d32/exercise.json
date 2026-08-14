@@ -1,0 +1,88 @@
+{
+  "id": "exercise_73b92d32-cf3e-4208-8833-cf34d19e2db6",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 3",
+  "prompt": [
+    {
+      "id": "content_word_73b92d32-cf3e-4208-8833-cf34d19e2db6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_9a725d0f-90cd-4003-abc8-dd94024fa42a",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_73b92d32-cf3e-4208-8833-cf34d19e2db6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, another word for 'to say' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_73b92d32-cf3e-4208-8833-cf34d19e2db6"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_73b92d32-cf3e-4208-8833-cf34d19e2db6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_73b92d32-cf3e-4208-8833-cf34d19e2db6",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "っゆん"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いーん"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "73b92d32-cf3e-4208-8833-cf34d19e2db6",
+    "type": "word_cloze"
+  }
+}

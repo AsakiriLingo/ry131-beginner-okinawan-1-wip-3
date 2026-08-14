@@ -1,0 +1,110 @@
+{
+  "id": "exercise_8b4a034b-97f5-4758-b1ca-1e61835c595e",
+  "type": "word-order",
+  "instruction": "Build the Okinawan sentence for 'I will teach you'.",
+  "prompt": [
+    {
+      "id": "content_word_8b4a034b-97f5-4758-b1ca-1e61835c595e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4b76343f-bb01-4dff-843b-2e91c17f7f6e",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_1",
+      "body": [
+        {
+          "id": "fragment_token_8b4a034b-97f5-4758-b1ca-1e61835c595e_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "わん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_2",
+      "body": [
+        {
+          "id": "fragment_token_8b4a034b-97f5-4758-b1ca-1e61835c595e_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "や"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_3",
+      "body": [
+        {
+          "id": "fragment_token_8b4a034b-97f5-4758-b1ca-1e61835c595e_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "(っ)やー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_4",
+      "body": [
+        {
+          "id": "fragment_token_8b4a034b-97f5-4758-b1ca-1e61835c595e_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "んかい"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_5",
+      "body": [
+        {
+          "id": "fragment_token_8b4a034b-97f5-4758-b1ca-1e61835c595e_5",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_f278111c-3ac3-47b3-bbad-296ec7d27043",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_1",
+      "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_2",
+      "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_3",
+      "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_4",
+      "token_8b4a034b-97f5-4758-b1ca-1e61835c595e_5"
+    ]
+  },
+  "legacy": {
+    "variantId": "8b4a034b-97f5-4758-b1ca-1e61835c595e",
+    "type": "sentence_builder"
+  }
+}

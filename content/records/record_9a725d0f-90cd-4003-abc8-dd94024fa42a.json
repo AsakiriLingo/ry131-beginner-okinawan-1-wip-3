@@ -1,0 +1,18 @@
+{
+  "id": "record_9a725d0f-90cd-4003-abc8-dd94024fa42a",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Generated exercise 3"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "9a725d0f-90cd-4003-abc8-dd94024fa42a",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

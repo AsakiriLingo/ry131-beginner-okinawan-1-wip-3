@@ -1,0 +1,49 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Family",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Interact with the top of this page labeled \"My family tree\"",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "https://gungun.sunnyday.jp/hougen/hougen.html#",
+          "type": "text",
+          "marks": [
+            {
+              "type": "link"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_3cb5506d-43ad-469d-8a4a-9effa4caac30",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Build a sentence."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "3cb5506d-43ad-469d-8a4a-9effa4caac30",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

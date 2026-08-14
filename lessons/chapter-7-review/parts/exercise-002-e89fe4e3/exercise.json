@@ -1,0 +1,97 @@
+{
+  "id": "exercise_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+  "type": "fill-blank",
+  "instruction": "あっちゅん",
+  "prompt": [
+    {
+      "id": "content_word_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_935c66df-6bde-4d56-b8c4-f708ae206836",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_935c66df-6bde-4d56-b8c4-f708ae206836",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word あっちゅん can mean 'to walk' or 'to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "' a meeting."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_935c66df-6bde-4d56-b8c4-f708ae206836",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "attend"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+    "type": "word_cloze"
+  }
+}

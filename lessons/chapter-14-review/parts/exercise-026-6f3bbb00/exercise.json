@@ -1,0 +1,95 @@
+{
+  "id": "exercise_6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+  "type": "multiple-choice",
+  "instruction": "おーいん",
+  "prompt": [
+    {
+      "id": "prompt_6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "The word おーゆん means:"
+        }
+      }
+    },
+    {
+      "id": "content_word_6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_27c545b5-cbe4-4bc8-9d82-7ef3349c72af",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_27c545b5-cbe4-4bc8-9d82-7ef3349c72af",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_1707382e-c43d-4974-bb43-bd2c8b7174ba",
+      "body": [
+        {
+          "id": "fragment_option_1707382e-c43d-4974-bb43-bd2c8b7174ba",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_01d30316-7c12-4443-957e-26411c77dff9",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_b81b6786-2091-4974-85b1-8159df16d311",
+      "body": [
+        {
+          "id": "fragment_option_b81b6786-2091-4974-85b1-8159df16d311",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to run"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_e2c072dc-0565-47fa-b0e4-a7e6d8d0df67",
+      "body": [
+        {
+          "id": "fragment_option_e2c072dc-0565-47fa-b0e4-a7e6d8d0df67",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to sleep"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_1707382e-c43d-4974-bb43-bd2c8b7174ba"
+    ]
+  },
+  "legacy": {
+    "variantId": "6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+    "type": "mcq"
+  }
+}

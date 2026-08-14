@@ -1,0 +1,79 @@
+{
+  "id": "exercise_30eefb72-04b2-4c25-b96c-7dbad299c94d",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 19",
+  "prompt": [
+    {
+      "id": "content_word_30eefb72-04b2-4c25-b96c-7dbad299c94d",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bd44e2e7-2589-47fa-9553-598552384e8d",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_30eefb72-04b2-4c25-b96c-7dbad299c94d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'short' (in length, not in height) is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_30eefb72-04b2-4c25-b96c-7dbad299c94d"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_30eefb72-04b2-4c25-b96c-7dbad299c94d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_30eefb72-04b2-4c25-b96c-7dbad299c94d",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いんちゃさん"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "30eefb72-04b2-4c25-b96c-7dbad299c94d",
+    "type": "word_cloze"
+  }
+}

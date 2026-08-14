@@ -1,0 +1,147 @@
+{
+  "id": "exercise_80082e4b-52c7-44b0-a67f-137d9d5e9884",
+  "type": "word-order",
+  "instruction": "うゆん",
+  "prompt": [
+    {
+      "id": "prompt_80082e4b-52c7-44b0-a67f-137d9d5e9884",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'to buy'."
+        }
+      }
+    },
+    {
+      "id": "content_word_80082e4b-52c7-44b0-a67f-137d9d5e9884",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ac556b00-199e-43f3-9013-d72740266672",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_80082e4b-52c7-44b0-a67f-137d9d5e9884",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ac556b00-199e-43f3-9013-d72740266672",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_1",
+      "body": [
+        {
+          "id": "fragment_token_80082e4b-52c7-44b0-a67f-137d9d5e9884_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bd25ab1a-9e35-4939-9223-24979ba4b6b7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_2",
+      "body": [
+        {
+          "id": "fragment_token_80082e4b-52c7-44b0-a67f-137d9d5e9884_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_3",
+      "body": [
+        {
+          "id": "fragment_token_80082e4b-52c7-44b0-a67f-137d9d5e9884_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_4",
+      "body": [
+        {
+          "id": "fragment_token_80082e4b-52c7-44b0-a67f-137d9d5e9884_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "buy"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_80082e4b-52c7-44b0-a67f-137d9d5e9884_1",
+      "body": [
+        {
+          "id": "fragment_distractor_80082e4b-52c7-44b0-a67f-137d9d5e9884_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "plant"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_80082e4b-52c7-44b0-a67f-137d9d5e9884_2",
+      "body": [
+        {
+          "id": "fragment_distractor_80082e4b-52c7-44b0-a67f-137d9d5e9884_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "or"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_1",
+      "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_2",
+      "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_3",
+      "token_80082e4b-52c7-44b0-a67f-137d9d5e9884_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "80082e4b-52c7-44b0-a67f-137d9d5e9884",
+    "type": "sentence_builder"
+  }
+}

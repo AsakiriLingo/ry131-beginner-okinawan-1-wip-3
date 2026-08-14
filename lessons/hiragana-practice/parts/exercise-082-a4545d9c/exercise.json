@@ -1,0 +1,79 @@
+{
+  "id": "exercise_a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+  "type": "fill-blank",
+  "instruction": "Write the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_17d55f96-e6a3-48d0-aad1-ebcc83af6f89",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'kwe' is written as "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_a4545d9c-5216-4b8c-be73-5730f1a9c68b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "くぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+    "type": "word_cloze"
+  }
+}

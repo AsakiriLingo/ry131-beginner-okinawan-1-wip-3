@@ -1,0 +1,95 @@
+{
+  "id": "exercise_60c39980-88cd-4d38-848b-127812bfa524",
+  "type": "fill-blank",
+  "instruction": "うとぅ",
+  "prompt": [
+    {
+      "id": "content_word_60c39980-88cd-4d38-848b-127812bfa524",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_60c39980-88cd-4d38-848b-127812bfa524",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_60c39980-88cd-4d38-848b-127812bfa524",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The word for 'sound/noise' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_60c39980-88cd-4d38-848b-127812bfa524"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_60c39980-88cd-4d38-848b-127812bfa524",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_60c39980-88cd-4d38-848b-127812bfa524",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_60c39980-88cd-4d38-848b-127812bfa524",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "60c39980-88cd-4d38-848b-127812bfa524",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "exercise_d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+  "type": "multiple-choice",
+  "instruction": "鏡（かがん）",
+  "prompt": [
+    {
+      "id": "prompt_d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which object is 鏡（かがん）?"
+        }
+      }
+    },
+    {
+      "id": "content_word_d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_74eaed4d-d446-4c88-bd3b-4456849df946",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_74eaed4d-d446-4c88-bd3b-4456849df946",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_743d895e-97fb-4878-acd9-eda016c81d50",
+      "body": [
+        {
+          "id": "fragment_option_743d895e-97fb-4878-acd9-eda016c81d50",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "a mirror"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_4240b053-23a7-4379-ba94-1d5f5e422409",
+      "body": [
+        {
+          "id": "fragment_option_4240b053-23a7-4379-ba94-1d5f5e422409",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "a book"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_314600f8-31d0-4c62-8d0b-cc64a2d8ba42",
+      "body": [
+        {
+          "id": "fragment_option_314600f8-31d0-4c62-8d0b-cc64a2d8ba42",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "a chair"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_743d895e-97fb-4878-acd9-eda016c81d50"
+    ]
+  },
+  "legacy": {
+    "variantId": "d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+    "type": "mcq"
+  }
+}

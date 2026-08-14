@@ -1,0 +1,95 @@
+{
+  "id": "exercise_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+  "type": "fill-blank",
+  "instruction": "かくじ",
+  "prompt": [
+    {
+      "id": "content_word_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c58e03c9-dcc5-489f-a803-a37391adb7f7",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c58e03c9-dcc5-489f-a803-a37391adb7f7",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The X-ray showed a clear image of his "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ff6ab94a-76c4-4767-aa21-474a36687a4d"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_c58e03c9-dcc5-489f-a803-a37391adb7f7",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ff6ab94a-76c4-4767-aa21-474a36687a4d",
+    "type": "word_cloze"
+  }
+}

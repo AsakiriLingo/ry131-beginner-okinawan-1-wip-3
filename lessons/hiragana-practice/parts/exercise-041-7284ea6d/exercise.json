@@ -1,0 +1,79 @@
+{
+  "id": "exercise_7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7f0e5e5c-71b0-4865-853e-d8db1c77b466",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ほ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_7284ea6d-ba61-4902-9a79-7d4354bd71a8"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ho"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+    "type": "word_cloze"
+  }
+}

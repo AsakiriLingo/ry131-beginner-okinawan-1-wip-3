@@ -1,0 +1,18 @@
+{
+  "id": "record_abc5330f-21f9-42f3-89a5-84cc70b6a0a6",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あらいん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to wash"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "abc5330f-21f9-42f3-89a5-84cc70b6a0a6",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

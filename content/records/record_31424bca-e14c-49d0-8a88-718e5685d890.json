@@ -1,0 +1,18 @@
+{
+  "id": "record_31424bca-e14c-49d0-8a88-718e5685d890",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "はいたい"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ciao (female)"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "31424bca-e14c-49d0-8a88-718e5685d890",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

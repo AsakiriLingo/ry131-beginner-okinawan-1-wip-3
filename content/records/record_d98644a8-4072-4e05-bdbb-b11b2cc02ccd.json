@@ -1,0 +1,18 @@
+{
+  "id": "record_d98644a8-4072-4e05-bdbb-b11b2cc02ccd",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Translate: a cat's tail"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "d98644a8-4072-4e05-bdbb-b11b2cc02ccd",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

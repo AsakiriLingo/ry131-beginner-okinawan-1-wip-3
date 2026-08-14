@@ -1,0 +1,18 @@
+{
+  "id": "record_fa5f2afc-2401-40f8-905e-3bccb0c6106c",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Fill in the blanks"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "fa5f2afc-2401-40f8-905e-3bccb0c6106c",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

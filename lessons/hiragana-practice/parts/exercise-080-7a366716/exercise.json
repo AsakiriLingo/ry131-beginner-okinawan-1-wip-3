@@ -1,0 +1,65 @@
+{
+  "id": "exercise_7a366716-bd03-4651-b19c-04fe53b382d8",
+  "type": "fill-blank",
+  "instruction": "Complete the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_7a366716-bd03-4651-b19c-04fe53b382d8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0e34d50c-f2f2-430b-aae2-bc93cf9a4518",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_7a366716-bd03-4651-b19c-04fe53b382d8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Write 'kwa' in hiragana: "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_7a366716-bd03-4651-b19c-04fe53b382d8"
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_7a366716-bd03-4651-b19c-04fe53b382d8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "くゎ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "7a366716-bd03-4651-b19c-04fe53b382d8",
+    "type": "word_cloze"
+  }
+}

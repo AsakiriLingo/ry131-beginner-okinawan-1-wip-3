@@ -1,0 +1,160 @@
+{
+  "id": "exercise_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+  "type": "fill-blank",
+  "instruction": "うぅばまー",
+  "prompt": [
+    {
+      "id": "content_word_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c4bd8791-c895-464f-b5b7-c7216e9c8220",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c4bd8791-c895-464f-b5b7-c7216e9c8220",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "An ______ is called ______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_1",
+      "body": [
+        {
+          "id": "fragment_bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_2",
+      "body": [
+        {
+          "id": "fragment_bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "uncle"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_3",
+      "body": [
+        {
+          "id": "fragment_bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "cousin"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_1",
+      "body": [
+        {
+          "id": "fragment_bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_2",
+      "body": [
+        {
+          "id": "fragment_bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_3",
+      "body": [
+        {
+          "id": "fragment_bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d134c828-8d19-4a3e-b6a0-f11691bc831b",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word",
+        "correctOptionIds": [
+          "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_english_word_1"
+        ]
+      },
+      {
+        "blankId": "blank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word",
+        "correctOptionIds": [
+          "bank_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec_okinawan_word_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+    "type": "multi_blank"
+  }
+}

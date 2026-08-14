@@ -1,0 +1,15 @@
+{
+  "id": "asset_713a8550-0900-440e-83ef-c86d3a246898",
+  "kind": "audio",
+  "label": "tatoeba-eng-12291880",
+  "availability": "ready",
+  "file": "tatoeba-eng-12291880.mp3",
+  "mimeType": "audio/mpeg",
+  "metadata": {
+    "provider": "Tatoeba",
+    "author": "CK",
+    "sourceUrl": "https://tatoeba.org/en/sentences/show/12291880",
+    "license": "CC BY 2.0 FR",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うとぅすん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to drop"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "c1849fb0-1c90-47bc-9346-b9092d35664d",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

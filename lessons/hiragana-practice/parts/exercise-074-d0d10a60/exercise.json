@@ -1,0 +1,79 @@
+{
+  "id": "exercise_d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+  "type": "fill-blank",
+  "instruction": "Write the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_68ffe28a-1706-4c19-9196-02eea2feedcd",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'kwi' is written as "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_d0d10a60-00e0-41ff-9c1b-8b1b024adde8"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "くぃ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+    "type": "word_cloze"
+  }
+}

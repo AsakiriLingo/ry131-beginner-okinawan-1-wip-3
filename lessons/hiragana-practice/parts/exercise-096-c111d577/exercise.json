@@ -1,0 +1,79 @@
+{
+  "id": "exercise_c111d577-1919-4c23-a47a-72dfce0a8b6b",
+  "type": "fill-blank",
+  "instruction": "Complete the definition.",
+  "prompt": [
+    {
+      "id": "content_word_c111d577-1919-4c23-a47a-72dfce0a8b6b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_428836ea-2682-4b7f-b751-ba6e027b9605",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_c111d577-1919-4c23-a47a-72dfce0a8b6b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The character combination 'うぅ' represents the sound "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c111d577-1919-4c23-a47a-72dfce0a8b6b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_c111d577-1919-4c23-a47a-72dfce0a8b6b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c111d577-1919-4c23-a47a-72dfce0a8b6b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "wu"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c111d577-1919-4c23-a47a-72dfce0a8b6b",
+    "type": "word_cloze"
+  }
+}

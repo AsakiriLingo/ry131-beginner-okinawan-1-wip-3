@@ -1,0 +1,79 @@
+{
+  "id": "exercise_af51abec-b177-4bda-a7ae-98f201524a8e",
+  "type": "fill-blank",
+  "instruction": "Write the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_af51abec-b177-4bda-a7ae-98f201524a8e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_82d189c9-053d-461a-8e33-16070ce50266",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_af51abec-b177-4bda-a7ae-98f201524a8e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'kwa' is written as "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_af51abec-b177-4bda-a7ae-98f201524a8e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_af51abec-b177-4bda-a7ae-98f201524a8e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_af51abec-b177-4bda-a7ae-98f201524a8e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "くゎ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "af51abec-b177-4bda-a7ae-98f201524a8e",
+    "type": "word_cloze"
+  }
+}

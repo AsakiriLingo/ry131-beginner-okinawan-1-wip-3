@@ -1,0 +1,93 @@
+{
+  "id": "exercise_266aff77-afe1-4a44-be56-a8a7be5fb402",
+  "type": "multiple-choice",
+  "instruction": "はちゃー",
+  "prompt": [
+    {
+      "id": "prompt_266aff77-afe1-4a44-be56-a8a7be5fb402",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which Okinawan word means 'bee'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_266aff77-afe1-4a44-be56-a8a7be5fb402",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_266aff77-afe1-4a44-be56-a8a7be5fb402",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_43800ff4-474c-47a4-9913-ab7cd584c49d",
+      "body": [
+        {
+          "id": "fragment_option_43800ff4-474c-47a4-9913-ab7cd584c49d",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_e1e487a5-b747-410b-84ab-29edb1a3abd7",
+      "body": [
+        {
+          "id": "fragment_option_e1e487a5-b747-410b-84ab-29edb1a3abd7",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_531b536a-89b0-432c-a071-8e6671a633d0",
+      "body": [
+        {
+          "id": "fragment_option_531b536a-89b0-432c-a071-8e6671a633d0",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ちちな"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_43800ff4-474c-47a4-9913-ab7cd584c49d"
+    ]
+  },
+  "legacy": {
+    "variantId": "266aff77-afe1-4a44-be56-a8a7be5fb402",
+    "type": "mcq"
+  }
+}

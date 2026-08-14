@@ -1,0 +1,611 @@
+{
+  "id": "lesson_exercise_group_16464b77-aaa8-4766-9769-3f33773b2bde",
+  "title": "Chapter 10 Review",
+  "parts": [
+    {
+      "id": "part_exercise_22269d63-79a6-49da-85a7-d3bd77ee5799",
+      "title": "Fill the blank: っうぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-001-22269d63/exercise.json"
+      },
+      "legacy": {
+        "variantId": "22269d63-79a6-49da-85a7-d3bd77ee5799",
+        "itemId": "0912199d-3455-4527-9946-ab6afa8579a3"
+      }
+    },
+    {
+      "id": "part_exercise_8d495e24-eef9-48cd-bc2a-71f298fe070f",
+      "title": "Multiple choice: っうぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-002-8d495e24/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8d495e24-eef9-48cd-bc2a-71f298fe070f",
+        "itemId": "e1974b8f-99d0-42af-aeb3-9659bd57d51e"
+      }
+    },
+    {
+      "id": "part_exercise_59d91081-f183-466b-8b08-cb74399d096a",
+      "title": "Fill the blanks: っうぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-003-59d91081/exercise.json"
+      },
+      "legacy": {
+        "variantId": "59d91081-f183-466b-8b08-cb74399d096a",
+        "itemId": "c2054386-d118-4cf5-a4b8-136550b4aa99"
+      }
+    },
+    {
+      "id": "part_exercise_fdb169bb-8183-477c-90aa-a6d72bda7166",
+      "title": "Build the sentence: っうぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-004-fdb169bb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fdb169bb-8183-477c-90aa-a6d72bda7166",
+        "itemId": "0e98bbed-ef01-4790-ad37-8fca88043e2d"
+      }
+    },
+    {
+      "id": "part_exercise_0665581b-22c8-4087-a971-3a156a348d1b",
+      "title": "Fill the blank: ういん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-005-0665581b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0665581b-22c8-4087-a971-3a156a348d1b",
+        "itemId": "a6408346-5deb-4b8f-b3a6-69320e696b23"
+      }
+    },
+    {
+      "id": "part_exercise_f2acdf61-55a8-4aa4-be06-b18f91754cb5",
+      "title": "Multiple choice: うゆん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-006-f2acdf61/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f2acdf61-55a8-4aa4-be06-b18f91754cb5",
+        "itemId": "bd25ab1a-9e35-4939-9223-24979ba4b6b7"
+      }
+    },
+    {
+      "id": "part_exercise_9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+      "title": "Fill the blanks: ういん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-007-9e038510/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+        "itemId": "996e4058-bff4-4cfe-8fa3-34790a8f818b"
+      }
+    },
+    {
+      "id": "part_exercise_80082e4b-52c7-44b0-a67f-137d9d5e9884",
+      "title": "Build the sentence: うゆん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-008-80082e4b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "80082e4b-52c7-44b0-a67f-137d9d5e9884",
+        "itemId": "ac556b00-199e-43f3-9013-d72740266672"
+      }
+    },
+    {
+      "id": "part_exercise_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+      "title": "Fill the blank: うぅーむん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-009-d6305d31/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+        "itemId": "e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2"
+      }
+    },
+    {
+      "id": "part_exercise_7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+      "title": "Multiple choice: うぅーむん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-010-7484f19a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7484f19a-ad42-471a-ae76-1e5e4e17a81b",
+        "itemId": "a0029216-82c6-48a8-8292-05eb93569809"
+      }
+    },
+    {
+      "id": "part_exercise_dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+      "title": "Fill the blanks: うぅーむん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-011-dd84aef6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+        "itemId": "7a2fec07-a3cf-42ad-b775-3dbcf2402b4b"
+      }
+    },
+    {
+      "id": "part_exercise_03c39f28-8bcf-4829-9e34-365df75c0a06",
+      "title": "Build the sentence: うぅーむん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-012-03c39f28/exercise.json"
+      },
+      "legacy": {
+        "variantId": "03c39f28-8bcf-4829-9e34-365df75c0a06",
+        "itemId": "dfce6cc6-797a-4da5-ab7a-73c5122fee8c"
+      }
+    },
+    {
+      "id": "part_exercise_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+      "title": "Fill the blank: うぅじゃさ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-013-044eb0ca/exercise.json"
+      },
+      "legacy": {
+        "variantId": "044eb0ca-4d0b-4e05-b701-36a3b106192a",
+        "itemId": "27c3f06b-64a2-49c9-9232-2c3a7d5110a2"
+      }
+    },
+    {
+      "id": "part_exercise_fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+      "title": "Multiple choice: うぅじゃさ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-014-fab15b10/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+        "itemId": "bf5b4b58-ee49-4d6e-a752-5c1ca71fd1d4"
+      }
+    },
+    {
+      "id": "part_exercise_e291376e-bc5f-4b4d-81af-b98a3243a0ab",
+      "title": "Fill the blanks: うぅじゃさ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-015-e291376e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e291376e-bc5f-4b4d-81af-b98a3243a0ab",
+        "itemId": "71cd883a-414c-4845-96fc-d43d5a271b71"
+      }
+    },
+    {
+      "id": "part_exercise_4b72b875-5430-4f5b-9710-dac7830b7db4",
+      "title": "Build the sentence: うぅじゃさ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-016-4b72b875/exercise.json"
+      },
+      "legacy": {
+        "variantId": "4b72b875-5430-4f5b-9710-dac7830b7db4",
+        "itemId": "0ae75a3e-9b57-433a-998e-3d98b6469738"
+      }
+    },
+    {
+      "id": "part_exercise_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+      "title": "Fill the blank: うぅばまー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-017-06d876e8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "06d876e8-4689-4e53-9cd4-d70bc86bb466",
+        "itemId": "46a3b479-c487-40d0-a4a7-dce4fa04f3a9"
+      }
+    },
+    {
+      "id": "part_exercise_ef786202-fa31-4641-9076-c2115feee719",
+      "title": "Multiple choice: うぅばまー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-018-ef786202/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ef786202-fa31-4641-9076-c2115feee719",
+        "itemId": "6bbd80e7-9feb-441d-99d5-d0e238b928a5"
+      }
+    },
+    {
+      "id": "part_exercise_bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+      "title": "Fill the blanks: うぅばまー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-019-bf171f5f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "bf171f5f-2d1f-420f-b1f3-99f0447fb1ec",
+        "itemId": "c4bd8791-c895-464f-b5b7-c7216e9c8220"
+      }
+    },
+    {
+      "id": "part_exercise_2ac53ecb-410f-419f-92e5-9fb6403b579f",
+      "title": "Build the sentence: うぅばまー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-020-2ac53ecb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2ac53ecb-410f-419f-92e5-9fb6403b579f",
+        "itemId": "e4ed84d7-8244-4944-bb67-51c324994be2"
+      }
+    },
+    {
+      "id": "part_exercise_3041cba8-7973-4d40-816d-8d2cea2c9033",
+      "title": "Fill the blank: うぅんちゅー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-021-3041cba8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "3041cba8-7973-4d40-816d-8d2cea2c9033",
+        "itemId": "d134c828-8d19-4a3e-b6a0-f11691bc831b"
+      }
+    },
+    {
+      "id": "part_exercise_edf16fde-5b86-4410-875a-f93614a6f987",
+      "title": "Multiple choice: うぅんちゅー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-022-edf16fde/exercise.json"
+      },
+      "legacy": {
+        "variantId": "edf16fde-5b86-4410-875a-f93614a6f987",
+        "itemId": "fd390318-89f3-4862-a7db-e5fccf3e4135"
+      }
+    },
+    {
+      "id": "part_exercise_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+      "title": "Fill the blanks: うぅんちゅー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-023-c97b6e83/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+        "itemId": "f4f52dc2-82b5-4da2-91b8-95406fd97883"
+      }
+    },
+    {
+      "id": "part_exercise_76548840-7b70-455e-b35d-b3c2530d557d",
+      "title": "Build the sentence: うぅんちゅー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-024-76548840/exercise.json"
+      },
+      "legacy": {
+        "variantId": "76548840-7b70-455e-b35d-b3c2530d557d",
+        "itemId": "d8589a5f-f46c-4aba-85e8-8c30aa0a1cad"
+      }
+    },
+    {
+      "id": "part_exercise_f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+      "title": "Fill the blank: うたいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-025-f5acc797/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f5acc797-c7cd-4e8e-b6bc-6b88432050df",
+        "itemId": "6b61055b-3c6d-4aa0-86b7-f920b1b38194"
+      }
+    },
+    {
+      "id": "part_exercise_541badfe-12f2-476c-af1b-dfb393404e89",
+      "title": "Multiple choice: うたゆん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-026-541badfe/exercise.json"
+      },
+      "legacy": {
+        "variantId": "541badfe-12f2-476c-af1b-dfb393404e89",
+        "itemId": "d66d5346-a472-41c8-8784-9177a46ab950"
+      }
+    },
+    {
+      "id": "part_exercise_04b8d222-7acb-4bc9-8060-8c919c7cab36",
+      "title": "Fill the blanks: うたいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-027-04b8d222/exercise.json"
+      },
+      "legacy": {
+        "variantId": "04b8d222-7acb-4bc9-8060-8c919c7cab36",
+        "itemId": "83aff736-dfe1-4dd0-af01-cf159530e07b"
+      }
+    },
+    {
+      "id": "part_exercise_17464082-41f4-47a3-9802-c2f530323362",
+      "title": "Build the sentence: うたいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-028-17464082/exercise.json"
+      },
+      "legacy": {
+        "variantId": "17464082-41f4-47a3-9802-c2f530323362",
+        "itemId": "a2928130-316b-4ef1-a088-6eaaf6f224f1"
+      }
+    },
+    {
+      "id": "part_exercise_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+      "title": "Fill the blank: うてぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-029-b598c5f8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+        "itemId": "b0fbbc6e-edff-40e6-a9b8-e11999fd3de7"
+      }
+    },
+    {
+      "id": "part_exercise_1f424e9f-47f5-4be6-801a-f32c3ed9e989",
+      "title": "Multiple choice: うてぃゆん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-030-1f424e9f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1f424e9f-47f5-4be6-801a-f32c3ed9e989",
+        "itemId": "09e476ee-bb99-4a03-a1e4-e4e89e75f336"
+      }
+    },
+    {
+      "id": "part_exercise_b7b213f5-6312-4ef1-82d4-20a404443dd7",
+      "title": "Fill the blanks: うてぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-031-b7b213f5/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b7b213f5-6312-4ef1-82d4-20a404443dd7",
+        "itemId": "8357dfde-df79-4a46-ac45-2dccf0ddd3a2"
+      }
+    },
+    {
+      "id": "part_exercise_11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+      "title": "Build the sentence: うてぃーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-032-11f6ad95/exercise.json"
+      },
+      "legacy": {
+        "variantId": "11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+        "itemId": "046663d5-a15f-4055-bf4c-d10a15d7b248"
+      }
+    },
+    {
+      "id": "part_exercise_60c39980-88cd-4d38-848b-127812bfa524",
+      "title": "Fill the blank: うとぅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-033-60c39980/exercise.json"
+      },
+      "legacy": {
+        "variantId": "60c39980-88cd-4d38-848b-127812bfa524",
+        "itemId": "55f44659-5971-4ec3-a26d-632f4dc7aa60"
+      }
+    },
+    {
+      "id": "part_exercise_6eac62c9-1846-4c88-9ac3-92fbf457144e",
+      "title": "Multiple choice: うとぅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-034-6eac62c9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6eac62c9-1846-4c88-9ac3-92fbf457144e",
+        "itemId": "b372a759-461e-4be0-b421-f7e8578ad8c3"
+      }
+    },
+    {
+      "id": "part_exercise_a9382a05-ae16-47ef-8a99-afe8cd25deb1",
+      "title": "Fill the blanks: うとぅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-035-a9382a05/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a9382a05-ae16-47ef-8a99-afe8cd25deb1",
+        "itemId": "dbbeabf2-ed64-4094-b173-32eea84236c1"
+      }
+    },
+    {
+      "id": "part_exercise_fcca5901-8697-4001-8e99-954e0acccbce",
+      "title": "Build the sentence: うとぅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-036-fcca5901/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fcca5901-8697-4001-8e99-954e0acccbce",
+        "itemId": "428ebfe9-72f1-4df5-ae20-f8e931ffa463"
+      }
+    },
+    {
+      "id": "part_exercise_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+      "title": "Fill the blank: うとぅげー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-037-83a9c27c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+        "itemId": "d6960679-220f-4b07-aeb7-003839b9e4f6"
+      }
+    },
+    {
+      "id": "part_exercise_c1ef2239-bc19-4409-a31d-cd9b69778c5f",
+      "title": "Multiple choice: うとぅげー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-038-c1ef2239/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c1ef2239-bc19-4409-a31d-cd9b69778c5f",
+        "itemId": "ebcc442c-637d-4e00-9513-0531d6bcafea"
+      }
+    },
+    {
+      "id": "part_exercise_4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+      "title": "Fill the blanks: うとぅげー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-039-4a7ca9a3/exercise.json"
+      },
+      "legacy": {
+        "variantId": "4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+        "itemId": "7e3607dc-f3b3-465c-8bf9-90d76e986623"
+      }
+    },
+    {
+      "id": "part_exercise_8e748925-1542-4e53-9364-8bb26d0187c3",
+      "title": "Build the sentence: うとぅげー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-040-8e748925/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8e748925-1542-4e53-9364-8bb26d0187c3",
+        "itemId": "dc51eb0a-7449-468b-a351-fd1e6b80a13e"
+      }
+    },
+    {
+      "id": "part_exercise_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+      "title": "Fill the blank: うとぅすん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-041-dec63dd0/exercise.json"
+      },
+      "legacy": {
+        "variantId": "dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+        "itemId": "c1849fb0-1c90-47bc-9346-b9092d35664d"
+      }
+    },
+    {
+      "id": "part_exercise_d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+      "title": "Multiple choice: うとぅすん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-042-d1b7ded8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+        "itemId": "f13c1d13-f23e-4de1-a09a-afaf83924f59"
+      }
+    },
+    {
+      "id": "part_exercise_32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+      "title": "Fill the blanks: うとぅすん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-043-32f3e5da/exercise.json"
+      },
+      "legacy": {
+        "variantId": "32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+        "itemId": "b1784e96-62c8-4277-97a8-74c2c3ea0c7c"
+      }
+    },
+    {
+      "id": "part_exercise_7df6b468-822d-43fd-9848-1be3f96582c5",
+      "title": "Build the sentence: うとぅすん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-044-7df6b468/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7df6b468-822d-43fd-9848-1be3f96582c5",
+        "itemId": "a0b068f9-50b6-4135-acae-27b4d404e5d8"
+      }
+    },
+    {
+      "id": "part_exercise_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+      "title": "Fill the blank: うびーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-045-2d8b0f04/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+        "itemId": "b3846245-cb35-4abf-bf25-e232ae530f9f"
+      }
+    },
+    {
+      "id": "part_exercise_8573515f-ad37-4ef3-8dd5-4a5c0322e918",
+      "title": "Multiple choice: うびゆん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-046-8573515f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8573515f-ad37-4ef3-8dd5-4a5c0322e918",
+        "itemId": "47d62237-c463-48c6-a7f1-7d11c5d769d0"
+      }
+    },
+    {
+      "id": "part_exercise_ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+      "title": "Fill the blanks: うびーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-047-ac81613f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+        "itemId": "95703ba1-2ec0-4af5-986f-3046dea60145"
+      }
+    },
+    {
+      "id": "part_exercise_5d8692bb-7876-4529-891f-13c8f6007fd2",
+      "title": "Build the sentence: うびーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-048-5d8692bb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "5d8692bb-7876-4529-891f-13c8f6007fd2",
+        "itemId": "a83365d2-2d14-48a2-b5a9-e2d100b6cdf1"
+      }
+    },
+    {
+      "id": "part_exercise_750536da-ccfd-4a95-8c71-aef474c4d5e4",
+      "title": "Fill the blank: うふっちゅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-049-750536da/exercise.json"
+      },
+      "legacy": {
+        "variantId": "750536da-ccfd-4a95-8c71-aef474c4d5e4",
+        "itemId": "fadf84ee-356e-4f12-a2d0-6d4762c8db8c"
+      }
+    },
+    {
+      "id": "part_exercise_7b91e1b2-a325-4e77-a9eb-c8d358de04f2",
+      "title": "Multiple choice: うふっちゅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-050-7b91e1b2/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7b91e1b2-a325-4e77-a9eb-c8d358de04f2",
+        "itemId": "12187267-4db2-4f06-91f0-8041b6fd1eba"
+      }
+    }
+  ],
+  "legacy": {
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde",
+    "datasetType": "word_pair",
+    "description": null
+  }
+}

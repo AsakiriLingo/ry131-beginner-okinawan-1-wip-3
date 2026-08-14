@@ -1,0 +1,79 @@
+{
+  "id": "exercise_05bbb657-4bfd-468b-902f-0168b8a8e559",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_05bbb657-4bfd-468b-902f-0168b8a8e559",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ca62544f-a3c2-41e3-972d-20509a1fdca5",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_05bbb657-4bfd-468b-902f-0168b8a8e559",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ぽ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_05bbb657-4bfd-468b-902f-0168b8a8e559"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_05bbb657-4bfd-468b-902f-0168b8a8e559",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_05bbb657-4bfd-468b-902f-0168b8a8e559",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "po"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "05bbb657-4bfd-468b-902f-0168b8a8e559",
+    "type": "word_cloze"
+  }
+}

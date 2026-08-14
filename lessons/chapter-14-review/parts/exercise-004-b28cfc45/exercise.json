@@ -1,0 +1,95 @@
+{
+  "id": "exercise_b28cfc45-23f7-4529-8591-43a872901cf5",
+  "type": "fill-blank",
+  "instruction": "鏡（かがん）",
+  "prompt": [
+    {
+      "id": "content_word_b28cfc45-23f7-4529-8591-43a872901cf5",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f4541861-6acb-4cfd-aaf3-837fe26d7c20",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_b28cfc45-23f7-4529-8591-43a872901cf5",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f4541861-6acb-4cfd-aaf3-837fe26d7c20",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b28cfc45-23f7-4529-8591-43a872901cf5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "He looked at his reflection in the "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b28cfc45-23f7-4529-8591-43a872901cf5"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b28cfc45-23f7-4529-8591-43a872901cf5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_b28cfc45-23f7-4529-8591-43a872901cf5",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_f4541861-6acb-4cfd-aaf3-837fe26d7c20",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b28cfc45-23f7-4529-8591-43a872901cf5",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_f4541861-6acb-4cfd-aaf3-837fe26d7c20",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b28cfc45-23f7-4529-8591-43a872901cf5",
+    "type": "word_cloze"
+  }
+}

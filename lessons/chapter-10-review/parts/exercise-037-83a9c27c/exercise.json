@@ -1,0 +1,95 @@
+{
+  "id": "exercise_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+  "type": "fill-blank",
+  "instruction": "うとぅげー",
+  "prompt": [
+    {
+      "id": "content_word_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d6960679-220f-4b07-aeb7-003839b9e4f6",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d6960679-220f-4b07-aeb7-003839b9e4f6",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'lower jaw' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_83a9c27c-5a8c-48c5-836e-5f63c341dd79"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_d6960679-220f-4b07-aeb7-003839b9e4f6",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_d6960679-220f-4b07-aeb7-003839b9e4f6",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "83a9c27c-5a8c-48c5-836e-5f63c341dd79",
+    "type": "word_cloze"
+  }
+}

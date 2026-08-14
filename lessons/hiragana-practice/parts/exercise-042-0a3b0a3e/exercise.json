@@ -1,0 +1,79 @@
+{
+  "id": "exercise_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_350cfe00-bf5c-427d-bea0-01f5194c2bf4",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ぼ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "bo"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+    "type": "word_cloze"
+  }
+}

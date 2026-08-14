@@ -1,0 +1,18 @@
+{
+  "id": "record_56b2f81b-f27c-4150-bf12-7e28e0cdf9c5",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ろ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ro"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "56b2f81b-f27c-4150-bf12-7e28e0cdf9c5",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

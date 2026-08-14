@@ -1,0 +1,18 @@
+{
+  "id": "record_09d9d0fa-99ce-4747-88b3-5ffd5952ac78",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "絡（から）みーん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to catch (as in capture/arrest)"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "09d9d0fa-99ce-4747-88b3-5ffd5952ac78",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

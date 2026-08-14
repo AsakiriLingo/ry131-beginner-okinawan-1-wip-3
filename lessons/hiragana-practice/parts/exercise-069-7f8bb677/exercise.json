@@ -1,0 +1,196 @@
+{
+  "id": "exercise_7f8bb677-fafb-4336-a948-ba02ade2b4ea",
+  "type": "word-order",
+  "instruction": "Build the sentence",
+  "prompt": [
+    {
+      "id": "content_word_7f8bb677-fafb-4336-a948-ba02ade2b4ea",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7d54ee1d-bf5c-4187-9fa0-d3891f1f53fd",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_1",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "The"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_2",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "symbol"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_3",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_4",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "extends"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_5",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_5",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "the"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_6",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_6",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "vowel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_7",
+      "body": [
+        {
+          "id": "fragment_token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_7",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_7f8bb677-fafb-4336-a948-ba02ade2b4ea_1",
+      "body": [
+        {
+          "id": "fragment_distractor_7f8bb677-fafb-4336-a948-ba02ade2b4ea_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "shortens"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_7f8bb677-fafb-4336-a948-ba02ade2b4ea_2",
+      "body": [
+        {
+          "id": "fragment_distractor_7f8bb677-fafb-4336-a948-ba02ade2b4ea_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "consonant"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_7f8bb677-fafb-4336-a948-ba02ade2b4ea_3",
+      "body": [
+        {
+          "id": "fragment_distractor_7f8bb677-fafb-4336-a948-ba02ade2b4ea_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "marks"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_1",
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_2",
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_3",
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_4",
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_5",
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_6",
+      "token_7f8bb677-fafb-4336-a948-ba02ade2b4ea_7"
+    ]
+  },
+  "legacy": {
+    "variantId": "7f8bb677-fafb-4336-a948-ba02ade2b4ea",
+    "type": "sentence_builder"
+  }
+}

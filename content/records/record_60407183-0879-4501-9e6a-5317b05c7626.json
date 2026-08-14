@@ -1,0 +1,18 @@
+{
+  "id": "record_60407183-0879-4501-9e6a-5317b05c7626",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ぢ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ji"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "60407183-0879-4501-9e6a-5317b05c7626",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

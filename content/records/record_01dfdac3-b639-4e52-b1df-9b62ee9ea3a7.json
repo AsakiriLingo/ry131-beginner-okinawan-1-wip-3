@@ -1,0 +1,22 @@
+{
+  "id": "record_01dfdac3-b639-4e52-b1df-9b62ee9ea3a7",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "なま"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "now"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "なま 、やー(ん)かい　けーいん。"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "01dfdac3-b639-4e52-b1df-9b62ee9ea3a7",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

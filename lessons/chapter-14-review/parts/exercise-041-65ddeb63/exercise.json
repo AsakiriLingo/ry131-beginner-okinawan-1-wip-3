@@ -1,0 +1,97 @@
+{
+  "id": "exercise_65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+  "type": "multiple-choice",
+  "instruction": "間数（えーじゅー）",
+  "prompt": [
+    {
+      "id": "prompt_65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "The word えーじゅー refers to a:"
+        }
+      }
+    },
+    {
+      "id": "content_word_65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e35619dc-da3d-4884-a11c-cf1416c6952d",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e35619dc-da3d-4884-a11c-cf1416c6952d",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_101ea790-0689-49e7-a7dd-76ef8e171525",
+      "body": [
+        {
+          "id": "fragment_option_101ea790-0689-49e7-a7dd-76ef8e171525",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "companion"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_a9e4b503-d66c-4b4b-a511-1f42c1b27acb",
+      "body": [
+        {
+          "id": "fragment_option_a9e4b503-d66c-4b4b-a511-1f42c1b27acb",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "leader"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_729675b5-df1f-4c89-8efb-3ec94c77330c",
+      "body": [
+        {
+          "id": "fragment_option_729675b5-df1f-4c89-8efb-3ec94c77330c",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "follower"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_101ea790-0689-49e7-a7dd-76ef8e171525"
+    ]
+  },
+  "legacy": {
+    "variantId": "65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+    "type": "mcq"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "record_01d30316-7c12-4443-957e-26411c77dff9",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "おーいん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to fight"
+    },
+    "field_71ec5573-8d5b-4af1-85e5-6b9404c97d5a": {
+      "kind": "asset",
+      "assetId": "asset_1172cd7a-5f87-4912-9e60-7bb9ce003c60"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "01d30316-7c12-4443-957e-26411c77dff9",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  },
+  "presentations": [
+    {
+      "id": "pres_8678afaf",
+      "primaryFieldId": "field_word",
+      "columns": [
+        {
+          "fieldId": "field_meaning",
+          "visible": true
+        },
+        {
+          "fieldId": "field_71ec5573-8d5b-4af1-85e5-6b9404c97d5a",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "pres_b5b3c1c8",
+      "primaryFieldId": "field_word",
+      "columns": [
+        {
+          "fieldId": "field_meaning",
+          "visible": true
+        },
+        {
+          "fieldId": "field_71ec5573-8d5b-4af1-85e5-6b9404c97d5a",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "pres_a046e4ad",
+      "primaryFieldId": "field_word",
+      "columns": [
+        {
+          "fieldId": "field_meaning",
+          "visible": true
+        },
+        {
+          "fieldId": "field_71ec5573-8d5b-4af1-85e5-6b9404c97d5a",
+          "visible": true
+        }
+      ]
+    }
+  ]
+}

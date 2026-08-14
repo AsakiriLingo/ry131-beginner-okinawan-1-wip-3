@@ -1,0 +1,611 @@
+{
+  "id": "lesson_exercise_group_53cdaaac-b4d4-4b45-aa23-d3a3983309d3",
+  "title": "Chapter 14 Review",
+  "parts": [
+    {
+      "id": "part_exercise_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+      "title": "Fill the blank: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-001-641b7c09/exercise.json"
+      },
+      "legacy": {
+        "variantId": "641b7c09-0c6b-421a-bd99-1ed615d270fa",
+        "itemId": "d592a3b5-4e79-4b27-8708-225556d68787"
+      }
+    },
+    {
+      "id": "part_exercise_246e1009-1add-43bf-b047-8236c9df48e9",
+      "title": "Multiple choice: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-002-246e1009/exercise.json"
+      },
+      "legacy": {
+        "variantId": "246e1009-1add-43bf-b047-8236c9df48e9",
+        "itemId": "01d30316-7c12-4443-957e-26411c77dff9"
+      }
+    },
+    {
+      "id": "part_exercise_00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+      "title": "Fill the blanks: かーらちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-003-00f94b7f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+        "itemId": "19fd7489-837d-4af6-9aa9-119ad61a16db"
+      }
+    },
+    {
+      "id": "part_exercise_b28cfc45-23f7-4529-8591-43a872901cf5",
+      "title": "Fill the blank: 鏡（かがん）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-004-b28cfc45/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b28cfc45-23f7-4529-8591-43a872901cf5",
+        "itemId": "f4541861-6acb-4cfd-aaf3-837fe26d7c20"
+      }
+    },
+    {
+      "id": "part_exercise_14c232fb-3937-4de5-81f0-d211d308c386",
+      "title": "Multiple choice: かくじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-005-14c232fb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "14c232fb-3937-4de5-81f0-d211d308c386",
+        "itemId": "bfec4e7b-ce65-438c-804f-fcfb0a6d011d"
+      }
+    },
+    {
+      "id": "part_exercise_0593188c-bdb7-4c74-b790-eac852f5d74e",
+      "title": "Fill the blanks: 数（かじゅ）いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-006-0593188c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0593188c-bdb7-4c74-b790-eac852f5d74e",
+        "itemId": "2f645098-0aaf-4802-bb94-8c6d92f63a36"
+      }
+    },
+    {
+      "id": "part_exercise_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+      "title": "Fill the blank: 勝（か）ちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-007-48cac7ee/exercise.json"
+      },
+      "legacy": {
+        "variantId": "48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+        "itemId": "8873601c-8132-4386-9a61-09f697d4764b"
+      }
+    },
+    {
+      "id": "part_exercise_a2701e7d-3b61-4912-82e5-c426a002bcbd",
+      "title": "Multiple choice: 絡（から）みーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-008-a2701e7d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a2701e7d-3b61-4912-82e5-c426a002bcbd",
+        "itemId": "4cb664d6-b9e1-4fc1-ad65-7d8868a5124c"
+      }
+    },
+    {
+      "id": "part_exercise_b29621fa-0182-4281-9df7-b9147f542c45",
+      "title": "Fill the blanks: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-009-b29621fa/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b29621fa-0182-4281-9df7-b9147f542c45",
+        "itemId": "91542ae0-9972-42d1-8afd-a9e9603747ca"
+      }
+    },
+    {
+      "id": "part_exercise_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+      "title": "Fill the blank: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-010-eb163c5b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+        "itemId": "473269fa-dc71-48cf-bffe-d279dddfad4c"
+      }
+    },
+    {
+      "id": "part_exercise_9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+      "title": "Multiple choice: かーらちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-011-9081cbb6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+        "itemId": "fd050642-1723-409b-8a00-bc4f4486d8fe"
+      }
+    },
+    {
+      "id": "part_exercise_8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+      "title": "Fill the blanks: 鏡（かがん）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-012-8df2bfc5/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+        "itemId": "44b769d9-8935-4baa-88e8-b2479103111c"
+      }
+    },
+    {
+      "id": "part_exercise_2decff03-de51-4d3a-a130-17c8bd911a5b",
+      "title": "Fill the blank: かくじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-013-2decff03/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2decff03-de51-4d3a-a130-17c8bd911a5b",
+        "itemId": "bf2f0614-027c-445e-9bf8-bdab324b04e3"
+      }
+    },
+    {
+      "id": "part_exercise_b205c92f-55bb-4265-8e65-29764deb2387",
+      "title": "Multiple choice: 数（かじゅ）いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-014-b205c92f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b205c92f-55bb-4265-8e65-29764deb2387",
+        "itemId": "50642186-1b22-4df5-8e08-7264a917e3de"
+      }
+    },
+    {
+      "id": "part_exercise_6a5337e7-4310-4621-956b-0e3adb8ad576",
+      "title": "Fill the blanks: 勝（か）ちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-015-6a5337e7/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6a5337e7-4310-4621-956b-0e3adb8ad576",
+        "itemId": "876daa9f-3578-4604-8615-f9d5d11fb0a6"
+      }
+    },
+    {
+      "id": "part_exercise_159183c9-fb8b-4b90-89e4-530464423cd5",
+      "title": "Fill the blank: 絡（から）みーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-016-159183c9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "159183c9-fb8b-4b90-89e4-530464423cd5",
+        "itemId": "da284f76-2c3d-4436-9c1d-a5fe8326f7ca"
+      }
+    },
+    {
+      "id": "part_exercise_a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+      "title": "Multiple choice: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-017-a64bedbf/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a64bedbf-2291-4b20-8fb9-12b17dc7166d",
+        "itemId": "3fe35b6a-4d27-4fcc-bc00-f08a08526b19"
+      }
+    },
+    {
+      "id": "part_exercise_f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+      "title": "Fill the blanks: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-018-f78ac8b7/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+        "itemId": "fceeda4f-d86c-42cf-a037-977aed2fa716"
+      }
+    },
+    {
+      "id": "part_exercise_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+      "title": "Fill the blank: かーらちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-019-2d0a1e74/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+        "itemId": "2cd02475-03e7-4506-9f8e-32fd7ac46610"
+      }
+    },
+    {
+      "id": "part_exercise_dff83e29-8a38-48ef-919c-e6509081b9b0",
+      "title": "Multiple choice: 鏡（かがん）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-020-dff83e29/exercise.json"
+      },
+      "legacy": {
+        "variantId": "dff83e29-8a38-48ef-919c-e6509081b9b0",
+        "itemId": "908457b1-2d80-4fd4-ae61-bf972760da2b"
+      }
+    },
+    {
+      "id": "part_exercise_d9c3da96-4b23-4ba8-850d-1982d3df3d81",
+      "title": "Fill the blanks: かくじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-021-d9c3da96/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d9c3da96-4b23-4ba8-850d-1982d3df3d81",
+        "itemId": "d725a3ef-0c26-49ce-a722-fed3189d6d83"
+      }
+    },
+    {
+      "id": "part_exercise_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+      "title": "Fill the blank: 数（かじゅ）いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-022-fdf7fc4b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+        "itemId": "a8cef478-37b5-44ce-bdf7-5f19db160117"
+      }
+    },
+    {
+      "id": "part_exercise_a552d33d-001b-47fa-8db7-e90fafee980c",
+      "title": "Multiple choice: 勝（か）ちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-023-a552d33d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a552d33d-001b-47fa-8db7-e90fafee980c",
+        "itemId": "686ecbfe-4fe0-4b0d-8d48-629974299fb4"
+      }
+    },
+    {
+      "id": "part_exercise_8d6f3584-9981-4da6-8646-aeaedc05d280",
+      "title": "Fill the blanks: 絡（から）みーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-024-8d6f3584/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8d6f3584-9981-4da6-8646-aeaedc05d280",
+        "itemId": "09d9d0fa-99ce-4747-88b3-5ffd5952ac78"
+      }
+    },
+    {
+      "id": "part_exercise_e76111be-65cc-4603-97d5-c19f982bd402",
+      "title": "Fill the blank: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-025-e76111be/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e76111be-65cc-4603-97d5-c19f982bd402",
+        "itemId": "90503d6f-a78c-4d7f-a987-6545dafcc642"
+      }
+    },
+    {
+      "id": "part_exercise_6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+      "title": "Multiple choice: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-026-6f3bbb00/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6f3bbb00-54d5-4d40-9156-5e3fed66a4c8",
+        "itemId": "27c545b5-cbe4-4bc8-9d82-7ef3349c72af"
+      }
+    },
+    {
+      "id": "part_exercise_ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+      "title": "Fill the blanks: かーらちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-027-ac93f211/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ac93f211-2c3b-4ddb-b95e-c5290dc577f7",
+        "itemId": "53b0c226-2b19-4f4b-ac93-9fc8f45d5ed1"
+      }
+    },
+    {
+      "id": "part_exercise_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+      "title": "Fill the blank: 鏡（かがん）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-028-3f89ecf0/exercise.json"
+      },
+      "legacy": {
+        "variantId": "3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+        "itemId": "032b54ea-53aa-4194-aa03-c41a4ac2cec4"
+      }
+    },
+    {
+      "id": "part_exercise_ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+      "title": "Multiple choice: かくじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-029-ecba74b1/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+        "itemId": "a62e61a0-5237-406b-94c3-d9aa2090968c"
+      }
+    },
+    {
+      "id": "part_exercise_f921d489-0980-4f4c-9512-0b4f4a2309cd",
+      "title": "Fill the blanks: 数（かじゅ）いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-030-f921d489/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f921d489-0980-4f4c-9512-0b4f4a2309cd",
+        "itemId": "47f22223-3fc0-46e0-a037-49cc7d6b9274"
+      }
+    },
+    {
+      "id": "part_exercise_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+      "title": "Fill the blank: 勝（か）ちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-031-b3f77d78/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+        "itemId": "8a2ec8d0-8ad5-4975-8e0d-33f2b574b18d"
+      }
+    },
+    {
+      "id": "part_exercise_8795f0c9-89a0-41a0-b5ac-af6398721a19",
+      "title": "Multiple choice: 絡（から）みーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-032-8795f0c9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8795f0c9-89a0-41a0-b5ac-af6398721a19",
+        "itemId": "1090b757-8370-4fb8-81f8-c0794c4b0327"
+      }
+    },
+    {
+      "id": "part_exercise_ee743751-a881-43ca-b4bf-e3d591a0813c",
+      "title": "Fill the blanks: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-033-ee743751/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ee743751-a881-43ca-b4bf-e3d591a0813c",
+        "itemId": "d3af9b1c-c149-4e79-82f0-e520f72d7ceb"
+      }
+    },
+    {
+      "id": "part_exercise_8a97f222-6683-40ea-9cd3-06e72f58848c",
+      "title": "Fill the blank: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-034-8a97f222/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8a97f222-6683-40ea-9cd3-06e72f58848c",
+        "itemId": "142106eb-00d6-4aef-a133-e1d24c2b2604"
+      }
+    },
+    {
+      "id": "part_exercise_3317fd90-9c9e-4298-9412-8706bc19caa8",
+      "title": "Multiple choice: かーらちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-035-3317fd90/exercise.json"
+      },
+      "legacy": {
+        "variantId": "3317fd90-9c9e-4298-9412-8706bc19caa8",
+        "itemId": "acf44af9-d6be-4974-b401-5d6d90311534"
+      }
+    },
+    {
+      "id": "part_exercise_125aeeab-ebae-47f6-924c-b7c42bb7b922",
+      "title": "Fill the blanks: 鏡（かがん）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-036-125aeeab/exercise.json"
+      },
+      "legacy": {
+        "variantId": "125aeeab-ebae-47f6-924c-b7c42bb7b922",
+        "itemId": "be581769-dd10-4f5b-85cc-29329afe2d77"
+      }
+    },
+    {
+      "id": "part_exercise_ff6ab94a-76c4-4767-aa21-474a36687a4d",
+      "title": "Fill the blank: かくじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-037-ff6ab94a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ff6ab94a-76c4-4767-aa21-474a36687a4d",
+        "itemId": "c58e03c9-dcc5-489f-a803-a37391adb7f7"
+      }
+    },
+    {
+      "id": "part_exercise_24125794-985c-4dd7-90c4-6dae4f0f45a2",
+      "title": "Multiple choice: 数（かじゅ）いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-038-24125794/exercise.json"
+      },
+      "legacy": {
+        "variantId": "24125794-985c-4dd7-90c4-6dae4f0f45a2",
+        "itemId": "20ff8f41-d812-4639-8baf-21c5867d840e"
+      }
+    },
+    {
+      "id": "part_exercise_1b141c38-2975-424e-be70-7e5b560fa628",
+      "title": "Fill the blanks: 勝（か）ちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-039-1b141c38/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1b141c38-2975-424e-be70-7e5b560fa628",
+        "itemId": "f5ede83b-4eeb-43b1-a528-83aba5a7f21c"
+      }
+    },
+    {
+      "id": "part_exercise_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+      "title": "Fill the blank: 絡（から）みーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-040-7e2f8b54/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+        "itemId": "7a42407a-5ae8-4bde-931d-f86cdac818f2"
+      }
+    },
+    {
+      "id": "part_exercise_65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+      "title": "Multiple choice: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-041-65ddeb63/exercise.json"
+      },
+      "legacy": {
+        "variantId": "65ddeb63-61c3-4636-89ea-2c253e81a3bf",
+        "itemId": "e35619dc-da3d-4884-a11c-cf1416c6952d"
+      }
+    },
+    {
+      "id": "part_exercise_19c1849a-6234-477b-976e-41e2a9fbe0db",
+      "title": "Fill the blanks: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-042-19c1849a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "19c1849a-6234-477b-976e-41e2a9fbe0db",
+        "itemId": "e0047982-a8f6-493b-982c-f5eb6690aab7"
+      }
+    },
+    {
+      "id": "part_exercise_ec2bac68-9192-415a-8011-01de5d805b30",
+      "title": "Fill the blank: かーらちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-043-ec2bac68/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ec2bac68-9192-415a-8011-01de5d805b30",
+        "itemId": "badb5b15-b891-475b-a0f1-eb540eefdd10"
+      }
+    },
+    {
+      "id": "part_exercise_d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+      "title": "Multiple choice: 鏡（かがん）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-044-d1ebe28a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d1ebe28a-3517-47fa-9beb-0ad8bcfacf74",
+        "itemId": "74eaed4d-d446-4c88-bd3b-4456849df946"
+      }
+    },
+    {
+      "id": "part_exercise_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+      "title": "Fill the blanks: かくじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-045-ede70efb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+        "itemId": "6d06b03c-1ffe-44d5-92ba-4835ae13e4ab"
+      }
+    },
+    {
+      "id": "part_exercise_8c513664-e731-4255-90ff-bf90bd394969",
+      "title": "Fill the blank: 数（かじゅ）いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-046-8c513664/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8c513664-e731-4255-90ff-bf90bd394969",
+        "itemId": "5df6bdc6-9aab-4bed-91f7-a0ca8372e560"
+      }
+    },
+    {
+      "id": "part_exercise_32997012-dc92-47d2-b02d-5a13b3772713",
+      "title": "Multiple choice: 勝（か）ちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-047-32997012/exercise.json"
+      },
+      "legacy": {
+        "variantId": "32997012-dc92-47d2-b02d-5a13b3772713",
+        "itemId": "f97840a9-8125-4f34-9c71-2c74a3627bb6"
+      }
+    },
+    {
+      "id": "part_exercise_0fb657d6-fc03-44fc-af84-e839d29ce241",
+      "title": "Fill the blanks: 絡（から）みーん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-048-0fb657d6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0fb657d6-fc03-44fc-af84-e839d29ce241",
+        "itemId": "fae913dc-c10b-4815-a270-cb357740580e"
+      }
+    },
+    {
+      "id": "part_exercise_ad1f879e-4793-4b6e-a854-9502231e8e93",
+      "title": "Fill the blanks: 間数（えーじゅー）",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-049-ad1f879e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ad1f879e-4793-4b6e-a854-9502231e8e93",
+        "itemId": "6cf06554-8823-4ea6-905a-d9f72bbb9f5a"
+      }
+    },
+    {
+      "id": "part_exercise_de28f58f-ada0-4447-8492-15893aa22947",
+      "title": "Multiple choice: おーいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-050-de28f58f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "de28f58f-ada0-4447-8492-15893aa22947",
+        "itemId": "dca7bda7-9366-4dca-a01e-066f23b71e73"
+      }
+    }
+  ],
+  "legacy": {
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3",
+    "datasetType": "word_pair",
+    "description": null
+  }
+}

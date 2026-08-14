@@ -1,0 +1,8 @@
+{
+  "id": "asset_90901e95-07ae-4abe-9b36-da561bc5de65",
+  "kind": "audio",
+  "label": "Hello",
+  "availability": "ready",
+  "file": "Hello.mp3",
+  "mimeType": "audio/mpeg"
+}

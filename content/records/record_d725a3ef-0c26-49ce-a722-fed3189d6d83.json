@@ -1,0 +1,18 @@
+{
+  "id": "record_d725a3ef-0c26-49ce-a722-fed3189d6d83",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "かくじ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "upper jaw"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "d725a3ef-0c26-49ce-a722-fed3189d6d83",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

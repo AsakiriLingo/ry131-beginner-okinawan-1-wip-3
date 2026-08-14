@@ -1,0 +1,32 @@
+{
+  "id": "lesson_11e89eb3-c281-400f-9ce5-04f356041adc",
+  "title": "Chapter 7",
+  "parts": [
+    {
+      "id": "part_section_0423952a-35f6-4582-98cd-3511227692de",
+      "title": "Lesson 7-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-0423952a/document.json"
+      },
+      "legacy": {
+        "sectionId": "0423952a-35f6-4582-98cd-3511227692de"
+      }
+    },
+    {
+      "id": "part_section_b5c53f5b-b604-48f5-8b9b-29878f70eaa5",
+      "title": "Lesson 7-2",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-02-b5c53f5b/document.json"
+      },
+      "legacy": {
+        "sectionId": "b5c53f5b-b604-48f5-8b9b-29878f70eaa5"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "11e89eb3-c281-400f-9ce5-04f356041adc",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "exercise_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+  "type": "fill-blank",
+  "instruction": "Match the sound.",
+  "prompt": [
+    {
+      "id": "content_word_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e41f3e72-dbdb-4f52-be24-743fe3b3acce",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for くぇ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "kwe"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+    "type": "word_cloze"
+  }
+}

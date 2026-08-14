@@ -1,0 +1,18 @@
+{
+  "id": "record_f53938c2-1d99-434f-9689-92775da0c163",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "る"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ru"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "f53938c2-1d99-434f-9689-92775da0c163",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

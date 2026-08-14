@@ -1,0 +1,77 @@
+{
+  "id": "exercise_585576a4-766b-4a7d-8637-b302fcc875b8",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_585576a4-766b-4a7d-8637-b302fcc875b8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_76e085c7-40c1-4a1b-9eb9-8b5bb32fe418",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_585576a4-766b-4a7d-8637-b302fcc875b8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'ka' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_585576a4-766b-4a7d-8637-b302fcc875b8"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_585576a4-766b-4a7d-8637-b302fcc875b8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_585576a4-766b-4a7d-8637-b302fcc875b8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_6a4c5c67-de62-4564-8b2f-0ee72c22a3d7",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "585576a4-766b-4a7d-8637-b302fcc875b8",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_428ebfe9-72f1-4df5-ae20-f8e931ffa463",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うとぅ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "sound/noise"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "428ebfe9-72f1-4df5-ae20-f8e931ffa463",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

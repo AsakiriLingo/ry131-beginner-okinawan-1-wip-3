@@ -1,0 +1,102 @@
+{
+  "id": "exercise_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+  "type": "fill-blank",
+  "instruction": "うてぃーん",
+  "prompt": [
+    {
+      "id": "content_word_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'to fall' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b598c5f8-ec6c-4131-a9b0-d9c75be363b1"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_09e476ee-bb99-4a03-a1e4-e4e89e75f336",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b598c5f8-ec6c-4131-a9b0-d9c75be363b1",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Forming Sentences I",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Let S = subject, O = object, V = verb",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Then, the average Okinawan sentence template is: [time] [Sぬ or O] V.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "ぬ = 's in this context. So it can be part of the sentence itself or possession.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "For example: ",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "The dragonfly",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "flies",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Dragonfly",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "('s)",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "(to)-fly",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "あーけーじゅ",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "ぬ",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "　",
+          "type": "text"
+        },
+        {
+          "text": "とぅぶん",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "。",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "My",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "ant",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "climbs",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "I",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "('s)",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "ant",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "('s)",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "text": "(to)-climb",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "わん",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "ぬ",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "　",
+          "type": "text"
+        },
+        {
+          "text": "あいこー",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--primary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "ぬ",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "　",
+          "type": "text"
+        },
+        {
+          "text": "ぬぶゆん",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " or ",
+          "type": "text"
+        },
+        {
+          "text": "ぬぶいん",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--destructive)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "。",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Note to more advanced reviewers: Yes, there is much more to this and even this is inaccurate, but moving forward is difficult otherwise, Early/Lower Intermediate levels will cover it in better detail.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Note here that articles (like a/the in English) are omitted in Okinawan.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

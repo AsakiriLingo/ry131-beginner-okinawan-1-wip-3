@@ -1,0 +1,88 @@
+{
+  "id": "exercise_69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 22",
+  "prompt": [
+    {
+      "id": "content_word_69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_00beeab2-883b-42e9-85d9-a71acd661a89",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'branch' can also be "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_69a369d8-21b2-4216-8e0f-e216c0fc0e96"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いぃだ"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いぃら"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+    "type": "word_cloze"
+  }
+}

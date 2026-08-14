@@ -1,0 +1,102 @@
+{
+  "id": "exercise_0665581b-22c8-4087-a971-3a156a348d1b",
+  "type": "fill-blank",
+  "instruction": "ういん",
+  "prompt": [
+    {
+      "id": "content_word_0665581b-22c8-4087-a971-3a156a348d1b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_0665581b-22c8-4087-a971-3a156a348d1b",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_0665581b-22c8-4087-a971-3a156a348d1b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To buy in Okinawan is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0665581b-22c8-4087-a971-3a156a348d1b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_0665581b-22c8-4087-a971-3a156a348d1b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_0665581b-22c8-4087-a971-3a156a348d1b",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0665581b-22c8-4087-a971-3a156a348d1b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_bd25ab1a-9e35-4939-9223-24979ba4b6b7",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0665581b-22c8-4087-a971-3a156a348d1b",
+    "type": "word_cloze"
+  }
+}

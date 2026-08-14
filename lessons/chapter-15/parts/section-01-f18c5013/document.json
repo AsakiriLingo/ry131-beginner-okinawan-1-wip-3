@@ -1,0 +1,107 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "物（むん）[Food]",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "The word 物（むん or むぬ）has multiple meanings. In a broader definition, it means any object/thing. In the narrower sense, it means food/meal. Do also note that there is also 者（むん or むぬ）, which is the same pronunciation, but different kanji. This means person/being. The difference between むん and むぬ in reading is that the former is the default and more common. むぬ is the reading if the next word begins with ん. For example, 物んかい = \"to(wards) something\" is read as むぬんかい and not むんんかい. This is a general rules for anything ending with ん. If it ends with a ん and there is a ん at the front of the next word, the first ん changes to a ぬ.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Anyways, here are some words:",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "魚（いゆ）= fish",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Note here that it is also an 生（い）ちむし = animal.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "rice = 米（くみ）",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "clam = あふぁーくー or あふぁーけー",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "tea = う茶（うちゃ）",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "water = 水（みじ）",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "potato = (っ)んむ (usually refers to a sweet potato, but doesn't have to be).",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "turnip = (っ)んーりー or (っ)んーでぃー",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

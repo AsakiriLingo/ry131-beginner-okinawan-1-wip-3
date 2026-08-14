@@ -1,0 +1,93 @@
+{
+  "id": "exercise_9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+  "type": "multiple-choice",
+  "instruction": "かーらちゅん",
+  "prompt": [
+    {
+      "id": "prompt_9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which of these words means 'to dry'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fd050642-1723-409b-8a00-bc4f4486d8fe",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fd050642-1723-409b-8a00-bc4f4486d8fe",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_b4cbcd65-363b-443f-b3af-522c5afdf0af",
+      "body": [
+        {
+          "id": "fragment_option_b4cbcd65-363b-443f-b3af-522c5afdf0af",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19fd7489-837d-4af6-9aa9-119ad61a16db",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_e9076b89-01fd-42dd-8530-9d7b672744e8",
+      "body": [
+        {
+          "id": "fragment_option_e9076b89-01fd-42dd-8530-9d7b672744e8",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "かがん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_e0d75e50-b056-4b22-9b0f-12535356b5ae",
+      "body": [
+        {
+          "id": "fragment_option_e0d75e50-b056-4b22-9b0f-12535356b5ae",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_b4cbcd65-363b-443f-b3af-522c5afdf0af"
+    ]
+  },
+  "legacy": {
+    "variantId": "9081cbb6-075d-44c2-bb8f-32c8c7c0119c",
+    "type": "mcq"
+  }
+}

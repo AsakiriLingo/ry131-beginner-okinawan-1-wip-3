@@ -1,0 +1,91 @@
+{
+  "id": "exercise_87944fde-7a97-4832-92d6-051d73217d60",
+  "type": "multiple-choice",
+  "instruction": "むし",
+  "prompt": [
+    {
+      "id": "prompt_87944fde-7a97-4832-92d6-051d73217d60",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What does むし (mushi) mean?"
+        }
+      }
+    },
+    {
+      "id": "content_word_87944fde-7a97-4832-92d6-051d73217d60",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d25785af-14bd-40c5-a951-54af5e678b49",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_87944fde-7a97-4832-92d6-051d73217d60",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d25785af-14bd-40c5-a951-54af5e678b49",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_4dcf0381-0bc8-4004-915f-ae09c5eacac4",
+      "body": [
+        {
+          "id": "fragment_option_4dcf0381-0bc8-4004-915f-ae09c5eacac4",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d25785af-14bd-40c5-a951-54af5e678b49",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_5940f665-900d-4fe3-ae79-1e29796c4bd0",
+      "body": [
+        {
+          "id": "fragment_option_5940f665-900d-4fe3-ae79-1e29796c4bd0",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_fd27f1e4-e6a3-4b3f-8899-dbf23e623982",
+      "body": [
+        {
+          "id": "fragment_option_fd27f1e4-e6a3-4b3f-8899-dbf23e623982",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_af7693c8-62ed-4a46-8c1e-4634d3f4428e",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_4dcf0381-0bc8-4004-915f-ae09c5eacac4"
+    ]
+  },
+  "legacy": {
+    "variantId": "87944fde-7a97-4832-92d6-051d73217d60",
+    "type": "mcq"
+  }
+}

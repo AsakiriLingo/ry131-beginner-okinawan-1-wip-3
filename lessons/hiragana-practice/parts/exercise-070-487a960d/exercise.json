@@ -1,0 +1,79 @@
+{
+  "id": "exercise_487a960d-27da-468a-80ad-89aa7c3a9602",
+  "type": "fill-blank",
+  "instruction": "Write the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_487a960d-27da-468a-80ad-89aa7c3a9602",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4f335bcf-ca5f-4204-b244-099470803160",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_487a960d-27da-468a-80ad-89aa7c3a9602",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'fe' is written as "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_487a960d-27da-468a-80ad-89aa7c3a9602"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_487a960d-27da-468a-80ad-89aa7c3a9602",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_487a960d-27da-468a-80ad-89aa7c3a9602",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ふぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "487a960d-27da-468a-80ad-89aa7c3a9602",
+    "type": "word_cloze"
+  }
+}

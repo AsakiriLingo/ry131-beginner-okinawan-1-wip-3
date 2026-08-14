@@ -1,0 +1,65 @@
+{
+  "id": "exercise_cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+  "type": "fill-blank",
+  "instruction": "Complete the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_01e93b21-a5b3-4b5a-a17e-77b825222c78",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Write 'kwe' in hiragana: "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae"
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "くぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+    "type": "word_cloze"
+  }
+}

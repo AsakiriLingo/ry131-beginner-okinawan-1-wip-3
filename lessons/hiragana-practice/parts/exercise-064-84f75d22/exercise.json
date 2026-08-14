@@ -1,0 +1,79 @@
+{
+  "id": "exercise_84f75d22-08c4-4f08-8e48-66b3ece36424",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_84f75d22-08c4-4f08-8e48-66b3ece36424",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c89fbb70-bb11-4ed5-9d37-7744f3dc3a03",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_84f75d22-08c4-4f08-8e48-66b3ece36424",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'ho' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_84f75d22-08c4-4f08-8e48-66b3ece36424"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_84f75d22-08c4-4f08-8e48-66b3ece36424",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_84f75d22-08c4-4f08-8e48-66b3ece36424",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ほ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "84f75d22-08c4-4f08-8e48-66b3ece36424",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_ff047e62-c306-4fec-afc9-5ea38d37ee5c",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ひ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "hi"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "ff047e62-c306-4fec-afc9-5ea38d37ee5c",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

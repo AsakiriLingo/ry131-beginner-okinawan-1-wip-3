@@ -1,0 +1,18 @@
+{
+  "id": "record_e08830fc-6a9e-4a69-99b4-edb1864d79e0",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Complete the romanization."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "e08830fc-6a9e-4a69-99b4-edb1864d79e0",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

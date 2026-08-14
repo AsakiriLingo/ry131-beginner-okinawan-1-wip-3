@@ -1,0 +1,18 @@
+{
+  "id": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あーけーじゅ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "dragonfly"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "b2e13601-64dd-4c3c-bf61-95055c27a13a",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

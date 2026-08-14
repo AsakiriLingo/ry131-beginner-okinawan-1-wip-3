@@ -1,0 +1,104 @@
+{
+  "id": "exercise_dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+  "type": "fill-blank",
+  "instruction": "うぅーむん",
+  "prompt": [
+    {
+      "id": "content_word_dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7a2fec07-a3cf-42ad-b775-3dbcf2402b4b",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7a2fec07-a3cf-42ad-b775-3dbcf2402b4b",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "______ means 'male'."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_1",
+      "body": [
+        {
+          "id": "fragment_bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_2",
+      "body": [
+        {
+          "id": "fragment_bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_3",
+      "body": [
+        {
+          "id": "fragment_bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word",
+        "correctOptionIds": [
+          "bank_dd84aef6-94d0-4b51-9ee7-87f53e81e79a_okinawan_word_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "dd84aef6-94d0-4b51-9ee7-87f53e81e79a",
+    "type": "multi_blank"
+  }
+}

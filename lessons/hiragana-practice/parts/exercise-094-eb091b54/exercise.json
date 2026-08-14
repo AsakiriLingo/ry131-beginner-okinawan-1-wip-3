@@ -1,0 +1,79 @@
+{
+  "id": "exercise_eb091b54-460a-43b4-843d-a4799c4d2b07",
+  "type": "fill-blank",
+  "instruction": "Match the sound.",
+  "prompt": [
+    {
+      "id": "content_word_eb091b54-460a-43b4-843d-a4799c4d2b07",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_026610b4-2fec-4f74-9007-6c8435135dc2",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_eb091b54-460a-43b4-843d-a4799c4d2b07",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ちぇ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_eb091b54-460a-43b4-843d-a4799c4d2b07"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_eb091b54-460a-43b4-843d-a4799c4d2b07",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_eb091b54-460a-43b4-843d-a4799c4d2b07",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "che"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "eb091b54-460a-43b4-843d-a4799c4d2b07",
+    "type": "word_cloze"
+  }
+}

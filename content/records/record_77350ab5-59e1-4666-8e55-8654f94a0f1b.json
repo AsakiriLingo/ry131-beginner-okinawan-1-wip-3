@@ -1,0 +1,18 @@
+{
+  "id": "record_77350ab5-59e1-4666-8e55-8654f94a0f1b",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ゆ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "yu"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "77350ab5-59e1-4666-8e55-8654f94a0f1b",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

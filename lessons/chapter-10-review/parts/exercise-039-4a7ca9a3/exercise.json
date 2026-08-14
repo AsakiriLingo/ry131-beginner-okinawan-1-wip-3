@@ -1,0 +1,162 @@
+{
+  "id": "exercise_4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+  "type": "fill-blank",
+  "instruction": "うとぅげー",
+  "prompt": [
+    {
+      "id": "content_word_4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7e3607dc-f3b3-465c-8bf9-90d76e986623",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7e3607dc-f3b3-465c-8bf9-90d76e986623",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "______ is the ______ jaw."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_1",
+      "body": [
+        {
+          "id": "fragment_bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d6960679-220f-4b07-aeb7-003839b9e4f6",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_2",
+      "body": [
+        {
+          "id": "fragment_bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_3",
+      "body": [
+        {
+          "id": "fragment_bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_1",
+      "body": [
+        {
+          "id": "fragment_bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "lower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_2",
+      "body": [
+        {
+          "id": "fragment_bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "upper"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_3",
+      "body": [
+        {
+          "id": "fragment_bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "back"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word",
+        "correctOptionIds": [
+          "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_okinawan_word_1"
+        ]
+      },
+      {
+        "blankId": "blank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type",
+        "correctOptionIds": [
+          "bank_4a7ca9a3-1752-41fd-9799-75b55c4719a6_jaw_type_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "4a7ca9a3-1752-41fd-9799-75b55c4719a6",
+    "type": "multi_blank"
+  }
+}

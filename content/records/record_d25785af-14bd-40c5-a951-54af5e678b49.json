@@ -1,0 +1,18 @@
+{
+  "id": "record_d25785af-14bd-40c5-a951-54af5e678b49",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "むし"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "insect/bug"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "d25785af-14bd-40c5-a951-54af5e678b49",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": "lesson_exercise_group_586ac685-49f9-42d4-a6d7-ef589c16e264",
+  "title": "Animal Review",
+  "parts": [
+    {
+      "id": "part_exercise_168da785-5f5c-4d94-9f2e-d6f29f898677",
+      "title": "Multiple choice: あいこー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-001-168da785/exercise.json"
+      },
+      "legacy": {
+        "variantId": "168da785-5f5c-4d94-9f2e-d6f29f898677",
+        "itemId": "19e6f6ca-699f-48a0-b5ca-4ef503c7fa7e"
+      }
+    },
+    {
+      "id": "part_exercise_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+      "title": "Fill the blank: うさじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-002-0723fc92/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+        "itemId": "0f7807fe-39a1-4374-85ec-56f479fc166a"
+      }
+    },
+    {
+      "id": "part_exercise_e59a3bdc-5dd0-441e-9a11-df63b2607b73",
+      "title": "Fill the blanks: Fill in the blanks",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-003-e59a3bdc/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e59a3bdc-5dd0-441e-9a11-df63b2607b73",
+        "itemId": "fa5f2afc-2401-40f8-905e-3bccb0c6106c"
+      }
+    },
+    {
+      "id": "part_exercise_9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+      "title": "Build the sentence: あーけーじゅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-004-9ddb3a07/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+        "itemId": "b2e13601-64dd-4c3c-bf61-95055c27a13a"
+      }
+    },
+    {
+      "id": "part_exercise_1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+      "title": "Multiple choice: いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-005-1d9467c8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+        "itemId": "5400b0cb-7504-4551-b9a2-70cfc20c7f73"
+      }
+    },
+    {
+      "id": "part_exercise_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+      "title": "Fill the blank: あーけーじゅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-006-f7172642/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f7172642-a24f-48d2-b5ea-51ecef2faceb",
+        "itemId": "89deabc0-68b2-47a2-a445-2f6a6a709fb8"
+      }
+    },
+    {
+      "id": "part_exercise_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+      "title": "Fill the blank: いん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-007-a4e0d569/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+        "itemId": "bfb8a08b-3f50-45f0-886d-4ec433c9a798"
+      }
+    },
+    {
+      "id": "part_exercise_1ea431fe-9e59-44f9-a6ed-7592c1dc4af2",
+      "title": "Multiple choice: あいこー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-008-1ea431fe/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1ea431fe-9e59-44f9-a6ed-7592c1dc4af2",
+        "itemId": "37461418-9d91-43d0-8382-780d9c2ae9fa"
+      }
+    },
+    {
+      "id": "part_exercise_82643ea9-70df-406f-8869-1222b2b47609",
+      "title": "Multiple choice: うさじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-009-82643ea9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "82643ea9-70df-406f-8869-1222b2b47609",
+        "itemId": "4bbdbdcb-92bd-4bcb-b06c-bb0449cc33fe"
+      }
+    },
+    {
+      "id": "part_exercise_493de2ed-9175-4587-b2f1-2bff6485c3c6",
+      "title": "Fill the blanks: Fill in the blanks with the correct animal names",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-010-493de2ed/exercise.json"
+      },
+      "legacy": {
+        "variantId": "493de2ed-9175-4587-b2f1-2bff6485c3c6",
+        "itemId": "bc15edc2-7435-4854-b38b-28a081a3ae01"
+      }
+    },
+    {
+      "id": "part_exercise_bf71e153-26a8-4dea-946b-73f47aa75ff2",
+      "title": "Multiple choice: やーるー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-011-bf71e153/exercise.json"
+      },
+      "legacy": {
+        "variantId": "bf71e153-26a8-4dea-946b-73f47aa75ff2",
+        "itemId": "af7693c8-62ed-4a46-8c1e-4634d3f4428e"
+      }
+    },
+    {
+      "id": "part_exercise_266aff77-afe1-4a44-be56-a8a7be5fb402",
+      "title": "Multiple choice: はちゃー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-012-266aff77/exercise.json"
+      },
+      "legacy": {
+        "variantId": "266aff77-afe1-4a44-be56-a8a7be5fb402",
+        "itemId": "73dae974-a984-45fb-9dd0-6c95d635d01d"
+      }
+    },
+    {
+      "id": "part_exercise_07e29837-9d24-4595-9a01-3c95d554f539",
+      "title": "Fill the blank: まやー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-013-07e29837/exercise.json"
+      },
+      "legacy": {
+        "variantId": "07e29837-9d24-4595-9a01-3c95d554f539",
+        "itemId": "ea92d850-0b91-4ec1-af08-9774f1995842"
+      }
+    },
+    {
+      "id": "part_exercise_c21246e4-3f64-464f-8e37-67f933912e02",
+      "title": "Fill the blanks: ひーとぅ, ひーじゃー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-014-c21246e4/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c21246e4-3f64-464f-8e37-67f933912e02",
+        "itemId": "9479a0c5-a57b-4f6b-a103-e9ca905d8391"
+      }
+    },
+    {
+      "id": "part_exercise_f0739ca5-41ea-4100-817a-15d8d42833f3",
+      "title": "Build the sentence: Build a sentence.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-015-f0739ca5/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f0739ca5-41ea-4100-817a-15d8d42833f3",
+        "itemId": "3cb5506d-43ad-469d-8a4a-9effa4caac30"
+      }
+    },
+    {
+      "id": "part_exercise_87944fde-7a97-4832-92d6-051d73217d60",
+      "title": "Multiple choice: むし",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-016-87944fde/exercise.json"
+      },
+      "legacy": {
+        "variantId": "87944fde-7a97-4832-92d6-051d73217d60",
+        "itemId": "d25785af-14bd-40c5-a951-54af5e678b49"
+      }
+    },
+    {
+      "id": "part_exercise_66d15249-e8dd-4110-897f-35cb5f8c4542",
+      "title": "Multiple choice: Choose the Okinawan word",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-017-66d15249/exercise.json"
+      },
+      "legacy": {
+        "variantId": "66d15249-e8dd-4110-897f-35cb5f8c4542",
+        "itemId": "342fa463-d46b-4cb3-b6bf-998689c57a1f"
+      }
+    },
+    {
+      "id": "part_exercise_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+      "title": "Fill the blank: やーるー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-018-bf8def82/exercise.json"
+      },
+      "legacy": {
+        "variantId": "bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+        "itemId": "7317f064-17c0-42ea-869f-579171644f93"
+      }
+    },
+    {
+      "id": "part_exercise_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+      "title": "Fill the blank: はちゃー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-019-eb9db9c9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "eb9db9c9-d0da-4010-ab78-074c06e7b430",
+        "itemId": "fde8c2af-c532-4e65-9e73-e81acc96f642"
+      }
+    },
+    {
+      "id": "part_exercise_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+      "title": "Fill the blanks: ひーとぅ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-020-c27929fb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+        "itemId": "8c137298-294d-4489-bdd3-78ce611130cd"
+      }
+    },
+    {
+      "id": "part_exercise_bed49cc5-ad44-4fa6-a311-ff75573fb9a0",
+      "title": "Build the sentence: A beehive",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-021-bed49cc5/exercise.json"
+      },
+      "legacy": {
+        "variantId": "bed49cc5-ad44-4fa6-a311-ff75573fb9a0",
+        "itemId": "3403ee31-189a-42be-a231-da2857b537b8"
+      }
+    },
+    {
+      "id": "part_exercise_cd581e1c-db16-444f-8d59-4870af88f692",
+      "title": "Build the sentence: Translate: a cat's tail",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-022-cd581e1c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "cd581e1c-db16-444f-8d59-4870af88f692",
+        "itemId": "d98644a8-4072-4e05-bdbb-b11b2cc02ccd"
+      }
+    }
+  ],
+  "legacy": {
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264",
+    "datasetType": "word_pair",
+    "description": null
+  }
+}

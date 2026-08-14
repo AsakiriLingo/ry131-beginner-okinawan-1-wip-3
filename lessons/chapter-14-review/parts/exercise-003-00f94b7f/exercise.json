@@ -1,0 +1,110 @@
+{
+  "id": "exercise_00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+  "type": "fill-blank",
+  "instruction": "かーらちゅん",
+  "prompt": [
+    {
+      "id": "content_word_00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_19fd7489-837d-4af6-9aa9-119ad61a16db",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_19fd7489-837d-4af6-9aa9-119ad61a16db",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "She used a towel to _______ her hair after swimming."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "dry"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "wash"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "comb"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1",
+        "correctOptionIds": [
+          "bank_00f94b7f-f401-4d33-8697-48ab34eb1b7d_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "00f94b7f-f401-4d33-8697-48ab34eb1b7d",
+    "type": "multi_blank"
+  }
+}

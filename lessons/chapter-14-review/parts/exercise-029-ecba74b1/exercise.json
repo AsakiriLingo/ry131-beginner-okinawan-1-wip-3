@@ -1,0 +1,95 @@
+{
+  "id": "exercise_ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+  "type": "multiple-choice",
+  "instruction": "かくじ",
+  "prompt": [
+    {
+      "id": "prompt_ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which anatomical term does かくじ refer to?"
+        }
+      }
+    },
+    {
+      "id": "content_word_ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a62e61a0-5237-406b-94c3-d9aa2090968c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a62e61a0-5237-406b-94c3-d9aa2090968c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_8335616b-b228-4936-a1dd-ac47fff9f785",
+      "body": [
+        {
+          "id": "fragment_option_8335616b-b228-4936-a1dd-ac47fff9f785",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_2f47c0e8-c9dc-4c6a-8615-103818a1b445",
+      "body": [
+        {
+          "id": "fragment_option_2f47c0e8-c9dc-4c6a-8615-103818a1b445",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "lower jaw"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_adfc0fa8-e9d3-4b1f-bb1e-6f88a6f2d2e9",
+      "body": [
+        {
+          "id": "fragment_option_adfc0fa8-e9d3-4b1f-bb1e-6f88a6f2d2e9",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "skull"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_8335616b-b228-4936-a1dd-ac47fff9f785"
+    ]
+  },
+  "legacy": {
+    "variantId": "ecba74b1-86eb-4b84-8b3c-4a758f6f03af",
+    "type": "mcq"
+  }
+}

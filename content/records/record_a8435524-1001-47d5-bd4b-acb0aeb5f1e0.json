@@ -1,0 +1,18 @@
+{
+  "id": "record_a8435524-1001-47d5-bd4b-acb0aeb5f1e0",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あっちゅん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to go and attend"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "a8435524-1001-47d5-bd4b-acb0aeb5f1e0",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

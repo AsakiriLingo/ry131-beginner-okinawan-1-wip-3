@@ -1,0 +1,22 @@
+{
+  "id": "record_935c66df-6bde-4d56-b8c4-f708ae206836",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あっちゅん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to walk, to attend"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "あっちゅん can mean to walk or to attend a gathering."
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "935c66df-6bde-4d56-b8c4-f708ae206836",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

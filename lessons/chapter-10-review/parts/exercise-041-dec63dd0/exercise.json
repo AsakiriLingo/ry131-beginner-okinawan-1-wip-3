@@ -1,0 +1,95 @@
+{
+  "id": "exercise_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+  "type": "fill-blank",
+  "instruction": "うとぅすん",
+  "prompt": [
+    {
+      "id": "content_word_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To drop in Okinawan is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_dec63dd0-38b7-49d9-b565-b8eb5929d5a9"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "dec63dd0-38b7-49d9-b565-b8eb5929d5a9",
+    "type": "word_cloze"
+  }
+}

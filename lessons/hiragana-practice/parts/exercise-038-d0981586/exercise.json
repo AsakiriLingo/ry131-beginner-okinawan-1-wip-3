@@ -1,0 +1,79 @@
+{
+  "id": "exercise_d0981586-e31a-4fb0-abf8-e53088380433",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_d0981586-e31a-4fb0-abf8-e53088380433",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ca7125e2-23a6-45fe-a0e3-6e95d3d857ad",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_d0981586-e31a-4fb0-abf8-e53088380433",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for が is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_d0981586-e31a-4fb0-abf8-e53088380433"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_d0981586-e31a-4fb0-abf8-e53088380433",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_d0981586-e31a-4fb0-abf8-e53088380433",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ga"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "d0981586-e31a-4fb0-abf8-e53088380433",
+    "type": "word_cloze"
+  }
+}

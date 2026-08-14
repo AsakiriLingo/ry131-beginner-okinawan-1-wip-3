@@ -1,0 +1,104 @@
+{
+  "id": "exercise_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+  "type": "fill-blank",
+  "instruction": "やーるー",
+  "prompt": [
+    {
+      "id": "content_word_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7317f064-17c0-42ea-869f-579171644f93",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7317f064-17c0-42ea-869f-579171644f93",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'gecko' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_bf8def82-fd9d-4eea-b624-aec2e31e4bf1"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_7317f064-17c0-42ea-869f-579171644f93",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_af7693c8-62ed-4a46-8c1e-4634d3f4428e",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "やーどぅー"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "bf8def82-fd9d-4eea-b624-aec2e31e4bf1",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "exercise_59bc471f-74ba-4306-a3c3-e88304169458",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_59bc471f-74ba-4306-a3c3-e88304169458",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_acedf4c6-fce0-454e-941b-afc88106e841",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_59bc471f-74ba-4306-a3c3-e88304169458",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for き is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_59bc471f-74ba-4306-a3c3-e88304169458"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_59bc471f-74ba-4306-a3c3-e88304169458",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_59bc471f-74ba-4306-a3c3-e88304169458",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ki"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "59bc471f-74ba-4306-a3c3-e88304169458",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_22e29be9-c50f-44eb-aeb5-971267654494",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "む"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "mu"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "22e29be9-c50f-44eb-aeb5-971267654494",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

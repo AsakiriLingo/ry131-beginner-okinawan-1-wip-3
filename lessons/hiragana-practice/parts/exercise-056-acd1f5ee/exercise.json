@@ -1,0 +1,77 @@
+{
+  "id": "exercise_acd1f5ee-9ff2-414c-977c-02652060e72b",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_acd1f5ee-9ff2-414c-977c-02652060e72b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_290d99d6-2f40-4b7b-996f-b017925853db",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_acd1f5ee-9ff2-414c-977c-02652060e72b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for さ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_acd1f5ee-9ff2-414c-977c-02652060e72b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_acd1f5ee-9ff2-414c-977c-02652060e72b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_acd1f5ee-9ff2-414c-977c-02652060e72b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_f0f9da9d-3739-403f-bceb-1ddc89820a1a",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "acd1f5ee-9ff2-414c-977c-02652060e72b",
+    "type": "word_cloze"
+  }
+}

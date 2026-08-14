@@ -1,0 +1,18 @@
+{
+  "id": "record_ca7125e2-23a6-45fe-a0e3-6e95d3d857ad",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Identify the sound"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "ca7125e2-23a6-45fe-a0e3-6e95d3d857ad",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

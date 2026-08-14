@@ -1,0 +1,77 @@
+{
+  "id": "exercise_64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2ddba9f0-eb20-4cc1-a2b9-a82c6098f436",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for きゃ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_64e4ac33-3d0f-43fd-86f2-7da4e55f0220"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_7a61186a-73e5-4430-abab-0aca8d62e0f7",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "exercise_13a53981-b7b4-4489-9441-c50bd9f0d467",
+  "type": "fill-blank",
+  "instruction": "Identify the sound.",
+  "prompt": [
+    {
+      "id": "content_word_13a53981-b7b4-4489-9441-c50bd9f0d467",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_01f9c9e4-918a-4b8d-b634-1c8515720dba",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_13a53981-b7b4-4489-9441-c50bd9f0d467",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The hiragana くぃ makes the sound "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_13a53981-b7b4-4489-9441-c50bd9f0d467"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_13a53981-b7b4-4489-9441-c50bd9f0d467",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_13a53981-b7b4-4489-9441-c50bd9f0d467",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "kwi"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "13a53981-b7b4-4489-9441-c50bd9f0d467",
+    "type": "word_cloze"
+  }
+}

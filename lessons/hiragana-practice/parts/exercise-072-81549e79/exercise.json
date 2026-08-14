@@ -1,0 +1,65 @@
+{
+  "id": "exercise_81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+  "type": "fill-blank",
+  "instruction": "Complete the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3a228f93-f81c-4e1e-800d-e7afaabaed8f",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Write 'fe' in hiragana: "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_81549e79-62f9-4fae-b3f8-6bbc228b6f48"
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ふぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+    "type": "word_cloze"
+  }
+}

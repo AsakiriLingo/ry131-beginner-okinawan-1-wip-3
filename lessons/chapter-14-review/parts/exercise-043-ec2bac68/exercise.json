@@ -1,0 +1,97 @@
+{
+  "id": "exercise_ec2bac68-9192-415a-8011-01de5d805b30",
+  "type": "fill-blank",
+  "instruction": "かーらちゅん",
+  "prompt": [
+    {
+      "id": "content_word_ec2bac68-9192-415a-8011-01de5d805b30",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_badb5b15-b891-475b-a0f1-eb540eefdd10",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ec2bac68-9192-415a-8011-01de5d805b30",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_badb5b15-b891-475b-a0f1-eb540eefdd10",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_ec2bac68-9192-415a-8011-01de5d805b30",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The wind helped to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ec2bac68-9192-415a-8011-01de5d805b30"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_ec2bac68-9192-415a-8011-01de5d805b30",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " the wet leaves."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_ec2bac68-9192-415a-8011-01de5d805b30",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_badb5b15-b891-475b-a0f1-eb540eefdd10",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ec2bac68-9192-415a-8011-01de5d805b30",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "dry"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ec2bac68-9192-415a-8011-01de5d805b30",
+    "type": "word_cloze"
+  }
+}

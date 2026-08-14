@@ -1,0 +1,147 @@
+{
+  "id": "exercise_fdb169bb-8183-477c-90aa-a6d72bda7166",
+  "type": "word-order",
+  "instruction": "っうぃーん",
+  "prompt": [
+    {
+      "id": "prompt_fdb169bb-8183-477c-90aa-a6d72bda7166",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'to plant'."
+        }
+      }
+    },
+    {
+      "id": "content_word_fdb169bb-8183-477c-90aa-a6d72bda7166",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0e98bbed-ef01-4790-ad37-8fca88043e2d",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_fdb169bb-8183-477c-90aa-a6d72bda7166",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0e98bbed-ef01-4790-ad37-8fca88043e2d",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_fdb169bb-8183-477c-90aa-a6d72bda7166_1",
+      "body": [
+        {
+          "id": "fragment_token_fdb169bb-8183-477c-90aa-a6d72bda7166_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fdb169bb-8183-477c-90aa-a6d72bda7166_2",
+      "body": [
+        {
+          "id": "fragment_token_fdb169bb-8183-477c-90aa-a6d72bda7166_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fdb169bb-8183-477c-90aa-a6d72bda7166_3",
+      "body": [
+        {
+          "id": "fragment_token_fdb169bb-8183-477c-90aa-a6d72bda7166_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fdb169bb-8183-477c-90aa-a6d72bda7166_4",
+      "body": [
+        {
+          "id": "fragment_token_fdb169bb-8183-477c-90aa-a6d72bda7166_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "plant"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_fdb169bb-8183-477c-90aa-a6d72bda7166_1",
+      "body": [
+        {
+          "id": "fragment_distractor_fdb169bb-8183-477c-90aa-a6d72bda7166_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "buy"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_fdb169bb-8183-477c-90aa-a6d72bda7166_2",
+      "body": [
+        {
+          "id": "fragment_distractor_fdb169bb-8183-477c-90aa-a6d72bda7166_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "or"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_fdb169bb-8183-477c-90aa-a6d72bda7166_1",
+      "token_fdb169bb-8183-477c-90aa-a6d72bda7166_2",
+      "token_fdb169bb-8183-477c-90aa-a6d72bda7166_3",
+      "token_fdb169bb-8183-477c-90aa-a6d72bda7166_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "fdb169bb-8183-477c-90aa-a6d72bda7166",
+    "type": "sentence_builder"
+  }
+}

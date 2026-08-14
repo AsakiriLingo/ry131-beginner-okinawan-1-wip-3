@@ -1,0 +1,158 @@
+{
+  "id": "exercise_9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+  "type": "fill-blank",
+  "instruction": "ういん",
+  "prompt": [
+    {
+      "id": "content_word_9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_996e4058-bff4-4cfe-8fa3-34790a8f818b",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_996e4058-bff4-4cfe-8fa3-34790a8f818b",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The verbs for 'to buy' are ______ or ______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_1",
+      "body": [
+        {
+          "id": "fragment_bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_2",
+      "body": [
+        {
+          "id": "fragment_bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_3",
+      "body": [
+        {
+          "id": "fragment_bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_1",
+      "body": [
+        {
+          "id": "fragment_bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bd25ab1a-9e35-4939-9223-24979ba4b6b7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_2",
+      "body": [
+        {
+          "id": "fragment_bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "っうぃーゆん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_3",
+      "body": [
+        {
+          "id": "fragment_bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d66d5346-a472-41c8-8784-9177a46ab950",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1",
+        "correctOptionIds": [
+          "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form1_1"
+        ]
+      },
+      {
+        "blankId": "blank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2",
+        "correctOptionIds": [
+          "bank_9e038510-e8d4-47e6-bd00-9bbb2331a29c_okinawan_form2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "9e038510-e8d4-47e6-bd00-9bbb2331a29c",
+    "type": "multi_blank"
+  }
+}

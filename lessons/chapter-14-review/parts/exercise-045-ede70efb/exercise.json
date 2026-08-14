@@ -1,0 +1,108 @@
+{
+  "id": "exercise_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+  "type": "fill-blank",
+  "instruction": "かくじ",
+  "prompt": [
+    {
+      "id": "content_word_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6d06b03c-1ffe-44d5-92ba-4835ae13e4ab",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6d06b03c-1ffe-44d5-92ba-4835ae13e4ab",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Damage to the _______ can affect speech and chewing."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "brain"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "eye"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1",
+        "correctOptionIds": [
+          "bank_ede70efb-38b6-4ea8-90aa-a6f26c9d5e23_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ede70efb-38b6-4ea8-90aa-a6f26c9d5e23",
+    "type": "multi_blank"
+  }
+}

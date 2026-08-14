@@ -1,0 +1,52 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Parts of the Body",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Do the 身体 wordlist part in this site: ",
+          "type": "text"
+        },
+        {
+          "text": "https://shimakutuba.jp/use/wordbook/",
+          "type": "text",
+          "marks": [
+            {
+              "type": "link"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Use the visuals for translation. Since this is the Okinawan course, please look at the one in the yellow circle like this:",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "image"
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "exercise_2decff03-de51-4d3a-a130-17c8bd911a5b",
+  "type": "fill-blank",
+  "instruction": "かくじ",
+  "prompt": [
+    {
+      "id": "content_word_2decff03-de51-4d3a-a130-17c8bd911a5b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bf2f0614-027c-445e-9bf8-bdab324b04e3",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_2decff03-de51-4d3a-a130-17c8bd911a5b",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bf2f0614-027c-445e-9bf8-bdab324b04e3",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_2decff03-de51-4d3a-a130-17c8bd911a5b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The paleontologist found a fossilized "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_2decff03-de51-4d3a-a130-17c8bd911a5b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_2decff03-de51-4d3a-a130-17c8bd911a5b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " of an ancient creature."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_2decff03-de51-4d3a-a130-17c8bd911a5b",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_bf2f0614-027c-445e-9bf8-bdab324b04e3",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_2decff03-de51-4d3a-a130-17c8bd911a5b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "2decff03-de51-4d3a-a130-17c8bd911a5b",
+    "type": "word_cloze"
+  }
+}

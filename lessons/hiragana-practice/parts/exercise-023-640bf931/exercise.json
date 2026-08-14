@@ -1,0 +1,95 @@
+{
+  "id": "exercise_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+  "type": "fill-blank",
+  "instruction": "む",
+  "prompt": [
+    {
+      "id": "content_word_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_22e29be9-c50f-44eb-aeb5-971267654494",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_22e29be9-c50f-44eb-aeb5-971267654494",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "む ("
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_640bf931-bcbf-4069-b4e3-855b8cc13d59"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": ")"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_22e29be9-c50f-44eb-aeb5-971267654494",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_22e29be9-c50f-44eb-aeb5-971267654494",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "640bf931-bcbf-4069-b4e3-855b8cc13d59",
+    "type": "word_cloze"
+  }
+}

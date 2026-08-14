@@ -1,0 +1,79 @@
+{
+  "id": "exercise_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2c8fb1b0-3332-461d-8eaa-64d37826b892",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'o' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "お"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+    "type": "word_cloze"
+  }
+}

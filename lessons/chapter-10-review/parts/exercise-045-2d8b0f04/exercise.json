@@ -1,0 +1,102 @@
+{
+  "id": "exercise_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+  "type": "fill-blank",
+  "instruction": "うびーん",
+  "prompt": [
+    {
+      "id": "content_word_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'to remember' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_2d8b0f04-8501-4479-86ea-9e2f54b490ce"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_47d62237-c463-48c6-a7f1-7d11c5d769d0",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "2d8b0f04-8501-4479-86ea-9e2f54b490ce",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "exercise_9457885d-2daf-48d7-b1d2-85aa88372efe",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 14",
+  "prompt": [
+    {
+      "id": "content_word_9457885d-2daf-48d7-b1d2-85aa88372efe",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d3970db1-f9b9-4d86-8baa-ab6dba2d3577",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_9457885d-2daf-48d7-b1d2-85aa88372efe",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'sickle' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_9457885d-2daf-48d7-b1d2-85aa88372efe"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_9457885d-2daf-48d7-b1d2-85aa88372efe",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_9457885d-2daf-48d7-b1d2-85aa88372efe",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いらな"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "scythe"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "9457885d-2daf-48d7-b1d2-85aa88372efe",
+    "type": "word_cloze"
+  }
+}

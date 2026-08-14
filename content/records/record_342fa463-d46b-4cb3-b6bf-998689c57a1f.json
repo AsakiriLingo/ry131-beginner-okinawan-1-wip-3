@@ -1,0 +1,18 @@
+{
+  "id": "record_342fa463-d46b-4cb3-b6bf-998689c57a1f",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Choose the Okinawan word"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "342fa463-d46b-4cb3-b6bf-998689c57a1f",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

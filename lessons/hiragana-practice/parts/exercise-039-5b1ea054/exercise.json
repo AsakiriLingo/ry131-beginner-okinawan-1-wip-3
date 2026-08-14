@@ -1,0 +1,79 @@
+{
+  "id": "exercise_5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1a5c50ab-987b-476d-86b8-0f3407701b99",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for し is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_5b1ea054-ac30-4c6c-9480-3c18d5b98b93"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "shi"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+    "type": "word_cloze"
+  }
+}

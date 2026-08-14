@@ -1,0 +1,81 @@
+{
+  "id": "exercise_1b6014ae-6edc-4fff-a044-5580964785bc",
+  "type": "fill-blank",
+  "instruction": "はいさい",
+  "prompt": [
+    {
+      "id": "content_word_1b6014ae-6edc-4fff-a044-5580964785bc",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_79cf2e40-e3b6-49be-9922-cf6ab2d23ab0",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_1b6014ae-6edc-4fff-a044-5580964785bc",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_79cf2e40-e3b6-49be-9922-cf6ab2d23ab0",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "blank",
+      "id": "blank_1b6014ae-6edc-4fff-a044-5580964785bc"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_1b6014ae-6edc-4fff-a044-5580964785bc",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " is 'ciao' for male speakers."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_1b6014ae-6edc-4fff-a044-5580964785bc",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_79cf2e40-e3b6-49be-9922-cf6ab2d23ab0",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_1b6014ae-6edc-4fff-a044-5580964785bc",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_79cf2e40-e3b6-49be-9922-cf6ab2d23ab0",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "1b6014ae-6edc-4fff-a044-5580964785bc",
+    "type": "word_cloze"
+  }
+}

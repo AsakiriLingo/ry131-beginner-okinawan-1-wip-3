@@ -1,0 +1,97 @@
+{
+  "id": "exercise_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+  "type": "fill-blank",
+  "instruction": "おーいん",
+  "prompt": [
+    {
+      "id": "content_word_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_473269fa-dc71-48cf-bffe-d279dddfad4c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_473269fa-dc71-48cf-bffe-d279dddfad4c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The two teams were ready to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_eb163c5b-8fb6-443a-8e8a-ae516947f32e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " for the trophy."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_473269fa-dc71-48cf-bffe-d279dddfad4c",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "fight"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "eb163c5b-8fb6-443a-8e8a-ae516947f32e",
+    "type": "word_cloze"
+  }
+}

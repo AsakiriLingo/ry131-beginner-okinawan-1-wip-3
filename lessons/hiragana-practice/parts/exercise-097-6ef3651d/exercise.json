@@ -1,0 +1,88 @@
+{
+  "id": "exercise_6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+  "type": "fill-blank",
+  "instruction": "Complete the definition.",
+  "prompt": [
+    {
+      "id": "content_word_6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_11bc9950-e8b1-4e8e-966d-2a17f8328e6a",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The character 'ー' is used to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_6ef3651d-29ea-4d1b-9837-956439b3f0d3"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " the vowel."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "extend"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "extends"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+    "type": "word_cloze"
+  }
+}

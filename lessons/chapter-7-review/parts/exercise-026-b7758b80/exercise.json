@@ -1,0 +1,88 @@
+{
+  "id": "exercise_b7758b80-d963-49cc-9a38-4f31b8054c82",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 24",
+  "prompt": [
+    {
+      "id": "content_word_b7758b80-d963-49cc-9a38-4f31b8054c82",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d48235bf-8fef-4da8-a41d-f232875fdeea",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b7758b80-d963-49cc-9a38-4f31b8054c82",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'scythe' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b7758b80-d963-49cc-9a38-4f31b8054c82"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b7758b80-d963-49cc-9a38-4f31b8054c82",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b7758b80-d963-49cc-9a38-4f31b8054c82",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いらな"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "sickle"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b7758b80-d963-49cc-9a38-4f31b8054c82",
+    "type": "word_cloze"
+  }
+}

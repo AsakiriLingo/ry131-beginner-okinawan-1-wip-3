@@ -1,0 +1,91 @@
+{
+  "id": "exercise_d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+  "type": "multiple-choice",
+  "instruction": "うとぅすん",
+  "prompt": [
+    {
+      "id": "prompt_d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which word means 'to drop'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f13c1d13-f23e-4de1-a09a-afaf83924f59",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f13c1d13-f23e-4de1-a09a-afaf83924f59",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_0f9efdff-181e-4467-9f91-1fc2746d76fe",
+      "body": [
+        {
+          "id": "fragment_option_0f9efdff-181e-4467-9f91-1fc2746d76fe",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_859616a3-d73e-4474-8dca-38dec6dacb27",
+      "body": [
+        {
+          "id": "fragment_option_859616a3-d73e-4474-8dca-38dec6dacb27",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_845f18d2-cd9e-4f52-95d2-50ac5c5fd337",
+      "body": [
+        {
+          "id": "fragment_option_845f18d2-cd9e-4f52-95d2-50ac5c5fd337",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_0f9efdff-181e-4467-9f91-1fc2746d76fe"
+    ]
+  },
+  "legacy": {
+    "variantId": "d1b7ded8-8b93-49f9-8a58-ef125c7b3949",
+    "type": "mcq"
+  }
+}

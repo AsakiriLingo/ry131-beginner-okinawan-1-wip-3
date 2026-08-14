@@ -1,0 +1,88 @@
+{
+  "id": "exercise_daffd930-9770-4b08-917b-19aab80a1ddd",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 1",
+  "prompt": [
+    {
+      "id": "content_word_daffd930-9770-4b08-917b-19aab80a1ddd",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ae1b343c-b891-47e3-bdb7-ff381907a7be",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_daffd930-9770-4b08-917b-19aab80a1ddd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'to say' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_daffd930-9770-4b08-917b-19aab80a1ddd"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_daffd930-9770-4b08-917b-19aab80a1ddd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_daffd930-9770-4b08-917b-19aab80a1ddd",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いーん"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "っゆん"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "daffd930-9770-4b08-917b-19aab80a1ddd",
+    "type": "word_cloze"
+  }
+}

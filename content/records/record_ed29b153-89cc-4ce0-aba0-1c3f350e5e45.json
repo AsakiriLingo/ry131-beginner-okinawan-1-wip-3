@@ -1,0 +1,18 @@
+{
+  "id": "record_ed29b153-89cc-4ce0-aba0-1c3f350e5e45",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "で"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "de"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "ed29b153-89cc-4ce0-aba0-1c3f350e5e45",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

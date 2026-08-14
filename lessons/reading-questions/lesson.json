@@ -1,0 +1,21 @@
+{
+  "id": "lesson_58206dd5-3e9e-402f-9902-236a91762870",
+  "title": "読み応い　考ー物 (Reading Questions)",
+  "parts": [
+    {
+      "id": "part_section_26e35205-c6a2-4584-a6e0-07b174057101",
+      "title": "Part 1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-26e35205/document.json"
+      },
+      "legacy": {
+        "sectionId": "26e35205-c6a2-4584-a6e0-07b174057101"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "58206dd5-3e9e-402f-9902-236a91762870",
+    "status": "draft"
+  }
+}

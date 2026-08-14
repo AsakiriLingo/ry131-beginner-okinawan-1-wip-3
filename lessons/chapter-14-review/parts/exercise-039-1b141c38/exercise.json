@@ -1,0 +1,110 @@
+{
+  "id": "exercise_1b141c38-2975-424e-be70-7e5b560fa628",
+  "type": "fill-blank",
+  "instruction": "勝（か）ちゅん",
+  "prompt": [
+    {
+      "id": "content_word_1b141c38-2975-424e-be70-7e5b560fa628",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f5ede83b-4eeb-43b1-a528-83aba5a7f21c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_1b141c38-2975-424e-be70-7e5b560fa628",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f5ede83b-4eeb-43b1-a528-83aba5a7f21c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_1b141c38-2975-424e-be70-7e5b560fa628",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To _______ in life, you need perseverance."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_1b141c38-2975-424e-be70-7e5b560fa628_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "win"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fail"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "quit"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_1b141c38-2975-424e-be70-7e5b560fa628_blank1",
+        "correctOptionIds": [
+          "bank_1b141c38-2975-424e-be70-7e5b560fa628_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "1b141c38-2975-424e-be70-7e5b560fa628",
+    "type": "multi_blank"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "exercise_03c39f28-8bcf-4829-9e34-365df75c0a06",
+  "type": "word-order",
+  "instruction": "うぅーむん",
+  "prompt": [
+    {
+      "id": "prompt_03c39f28-8bcf-4829-9e34-365df75c0a06",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'male'."
+        }
+      }
+    },
+    {
+      "id": "content_word_03c39f28-8bcf-4829-9e34-365df75c0a06",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dfce6cc6-797a-4da5-ab7a-73c5122fee8c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_03c39f28-8bcf-4829-9e34-365df75c0a06",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dfce6cc6-797a-4da5-ab7a-73c5122fee8c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_03c39f28-8bcf-4829-9e34-365df75c0a06_1",
+      "body": [
+        {
+          "id": "fragment_token_03c39f28-8bcf-4829-9e34-365df75c0a06_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_03c39f28-8bcf-4829-9e34-365df75c0a06_2",
+      "body": [
+        {
+          "id": "fragment_token_03c39f28-8bcf-4829-9e34-365df75c0a06_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_03c39f28-8bcf-4829-9e34-365df75c0a06_3",
+      "body": [
+        {
+          "id": "fragment_token_03c39f28-8bcf-4829-9e34-365df75c0a06_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_03c39f28-8bcf-4829-9e34-365df75c0a06_1",
+      "body": [
+        {
+          "id": "fragment_distractor_03c39f28-8bcf-4829-9e34-365df75c0a06_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "female"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_03c39f28-8bcf-4829-9e34-365df75c0a06_2",
+      "body": [
+        {
+          "id": "fragment_distractor_03c39f28-8bcf-4829-9e34-365df75c0a06_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "or"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_03c39f28-8bcf-4829-9e34-365df75c0a06_1",
+      "token_03c39f28-8bcf-4829-9e34-365df75c0a06_2",
+      "token_03c39f28-8bcf-4829-9e34-365df75c0a06_3"
+    ]
+  },
+  "legacy": {
+    "variantId": "03c39f28-8bcf-4829-9e34-365df75c0a06",
+    "type": "sentence_builder"
+  }
+}

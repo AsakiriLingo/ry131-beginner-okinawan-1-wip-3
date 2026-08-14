@@ -1,0 +1,65 @@
+{
+  "id": "exercise_4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+  "type": "fill-blank",
+  "instruction": "Complete the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a8c074a2-deb2-43bc-9e17-5baf1c302439",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Write 'kwi' in hiragana: "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_4bb6d470-50fb-4c52-b0f1-4e7415d868fc"
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "くぃ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+    "type": "word_cloze"
+  }
+}

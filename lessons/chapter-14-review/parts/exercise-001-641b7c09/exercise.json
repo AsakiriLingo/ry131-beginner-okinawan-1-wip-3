@@ -1,0 +1,124 @@
+{
+  "id": "exercise_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+  "type": "fill-blank",
+  "instruction": "間数（えーじゅー）",
+  "prompt": [
+    {
+      "id": "content_word_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d592a3b5-4e79-4b27-8708-225556d68787",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d592a3b5-4e79-4b27-8708-225556d68787",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "My best "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_641b7c09-0c6b-421a-bd99-1ed615d270fa"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " is always there for me."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_d592a3b5-4e79-4b27-8708-225556d68787",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_641b7c09-0c6b-421a-bd99-1ed615d270fa",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "fellow"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "companion"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "buddy"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "comrade"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "641b7c09-0c6b-421a-bd99-1ed615d270fa",
+    "type": "word_cloze"
+  }
+}

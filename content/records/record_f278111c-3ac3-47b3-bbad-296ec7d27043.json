@@ -1,0 +1,26 @@
+{
+  "id": "record_f278111c-3ac3-47b3-bbad-296ec7d27043",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ならーすん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to teach"
+    },
+    "field_part_of_speech": {
+      "kind": "text",
+      "value": "verb"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "わん や (っ)やー んかい ならーすん"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "f278111c-3ac3-47b3-bbad-296ec7d27043",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

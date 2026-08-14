@@ -1,0 +1,93 @@
+{
+  "id": "exercise_24125794-985c-4dd7-90c4-6dae4f0f45a2",
+  "type": "multiple-choice",
+  "instruction": "数（かじゅ）いん",
+  "prompt": [
+    {
+      "id": "prompt_24125794-985c-4dd7-90c4-6dae4f0f45a2",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which of these words means 'to count'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_24125794-985c-4dd7-90c4-6dae4f0f45a2",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_20ff8f41-d812-4639-8baf-21c5867d840e",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_24125794-985c-4dd7-90c4-6dae4f0f45a2",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_20ff8f41-d812-4639-8baf-21c5867d840e",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_221a0c20-8d9a-469c-bb61-6f66ea4deb90",
+      "body": [
+        {
+          "id": "fragment_option_221a0c20-8d9a-469c-bb61-6f66ea4deb90",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "数（かじゅ）ゆん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_15f8d5f8-e231-4801-b4e5-c81f4fd22ee4",
+      "body": [
+        {
+          "id": "fragment_option_15f8d5f8-e231-4801-b4e5-c81f4fd22ee4",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_8873601c-8132-4386-9a61-09f697d4764b",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_b1c182a6-1233-4f84-ba38-4261758a94b9",
+      "body": [
+        {
+          "id": "fragment_option_b1c182a6-1233-4f84-ba38-4261758a94b9",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_4cb664d6-b9e1-4fc1-ad65-7d8868a5124c",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_221a0c20-8d9a-469c-bb61-6f66ea4deb90"
+    ]
+  },
+  "legacy": {
+    "variantId": "24125794-985c-4dd7-90c4-6dae4f0f45a2",
+    "type": "mcq"
+  }
+}

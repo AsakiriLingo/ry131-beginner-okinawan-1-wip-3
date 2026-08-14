@@ -1,0 +1,79 @@
+{
+  "id": "exercise_237509a5-48ca-4c8d-bc13-4e4512735cf0",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_237509a5-48ca-4c8d-bc13-4e4512735cf0",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ec02d562-c648-4d1e-804f-d322ebdda339",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_237509a5-48ca-4c8d-bc13-4e4512735cf0",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for だ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_237509a5-48ca-4c8d-bc13-4e4512735cf0"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_237509a5-48ca-4c8d-bc13-4e4512735cf0",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_237509a5-48ca-4c8d-bc13-4e4512735cf0",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "da"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "237509a5-48ca-4c8d-bc13-4e4512735cf0",
+    "type": "word_cloze"
+  }
+}

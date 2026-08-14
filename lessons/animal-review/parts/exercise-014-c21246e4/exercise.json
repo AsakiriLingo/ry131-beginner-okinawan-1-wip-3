@@ -1,0 +1,188 @@
+{
+  "id": "exercise_c21246e4-3f64-464f-8e37-67f933912e02",
+  "type": "fill-blank",
+  "instruction": "ひーとぅ, ひーじゃー",
+  "prompt": [
+    {
+      "id": "content_word_c21246e4-3f64-464f-8e37-67f933912e02",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_9479a0c5-a57b-4f6b-a103-e9ca905d8391",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_c21246e4-3f64-464f-8e37-67f933912e02",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_9479a0c5-a57b-4f6b-a103-e9ca905d8391",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_c21246e4-3f64-464f-8e37-67f933912e02",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'dolphin' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c21246e4-3f64-464f-8e37-67f933912e02_blank1"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_1_c21246e4-3f64-464f-8e37-67f933912e02",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " and for 'goat' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c21246e4-3f64-464f-8e37-67f933912e02_blank2"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_2_c21246e4-3f64-464f-8e37-67f933912e02",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_8c137298-294d-4489-bdd3-78ce611130cd",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_1",
+      "body": [
+        {
+          "id": "fragment_bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ひーじゃー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_2",
+      "body": [
+        {
+          "id": "fragment_bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ちちな"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_3",
+      "body": [
+        {
+          "id": "fragment_bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d25785af-14bd-40c5-a951-54af5e678b49",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c21246e4-3f64-464f-8e37-67f933912e02_blank1",
+        "correctOptionIds": [
+          "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank1_1"
+        ]
+      },
+      {
+        "blankId": "blank_c21246e4-3f64-464f-8e37-67f933912e02_blank2",
+        "correctOptionIds": [
+          "bank_c21246e4-3f64-464f-8e37-67f933912e02_blank2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c21246e4-3f64-464f-8e37-67f933912e02",
+    "type": "multi_blank"
+  }
+}

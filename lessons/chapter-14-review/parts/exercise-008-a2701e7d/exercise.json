@@ -1,0 +1,97 @@
+{
+  "id": "exercise_a2701e7d-3b61-4912-82e5-c426a002bcbd",
+  "type": "multiple-choice",
+  "instruction": "絡（から）みーん",
+  "prompt": [
+    {
+      "id": "prompt_a2701e7d-3b61-4912-82e5-c426a002bcbd",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What does 絡（から）みーん mean?"
+        }
+      }
+    },
+    {
+      "id": "content_word_a2701e7d-3b61-4912-82e5-c426a002bcbd",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4cb664d6-b9e1-4fc1-ad65-7d8868a5124c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_a2701e7d-3b61-4912-82e5-c426a002bcbd",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4cb664d6-b9e1-4fc1-ad65-7d8868a5124c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_11521f5b-5f84-4afc-9926-31b0bc7390a3",
+      "body": [
+        {
+          "id": "fragment_option_11521f5b-5f84-4afc-9926-31b0bc7390a3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to catch (capture/arrest)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_3f163fcd-7189-4f82-bbb6-7505fc0bbfaa",
+      "body": [
+        {
+          "id": "fragment_option_3f163fcd-7189-4f82-bbb6-7505fc0bbfaa",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to throw"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_2f5e1a91-3e26-4a8a-a044-8155437c68b4",
+      "body": [
+        {
+          "id": "fragment_option_2f5e1a91-3e26-4a8a-a044-8155437c68b4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to release"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_11521f5b-5f84-4afc-9926-31b0bc7390a3"
+    ]
+  },
+  "legacy": {
+    "variantId": "a2701e7d-3b61-4912-82e5-c426a002bcbd",
+    "type": "mcq"
+  }
+}

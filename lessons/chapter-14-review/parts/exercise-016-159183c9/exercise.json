@@ -1,0 +1,115 @@
+{
+  "id": "exercise_159183c9-fb8b-4b90-89e4-530464423cd5",
+  "type": "fill-blank",
+  "instruction": "絡（から）みーん",
+  "prompt": [
+    {
+      "id": "content_word_159183c9-fb8b-4b90-89e4-530464423cd5",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_da284f76-2c3d-4436-9c1d-a5fe8326f7ca",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_159183c9-fb8b-4b90-89e4-530464423cd5",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_da284f76-2c3d-4436-9c1d-a5fe8326f7ca",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_159183c9-fb8b-4b90-89e4-530464423cd5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The detective's goal was to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_159183c9-fb8b-4b90-89e4-530464423cd5"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_159183c9-fb8b-4b90-89e4-530464423cd5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " the elusive criminal."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_159183c9-fb8b-4b90-89e4-530464423cd5",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_da284f76-2c3d-4436-9c1d-a5fe8326f7ca",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_159183c9-fb8b-4b90-89e4-530464423cd5",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "catch"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "capture"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "arrest"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "159183c9-fb8b-4b90-89e4-530464423cd5",
+    "type": "word_cloze"
+  }
+}

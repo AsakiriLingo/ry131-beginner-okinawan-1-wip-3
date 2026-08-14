@@ -1,0 +1,79 @@
+{
+  "id": "exercise_c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+  "type": "fill-blank",
+  "instruction": "Identify the script type",
+  "prompt": [
+    {
+      "id": "content_word_c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f022c434-9964-4792-9d1d-7a703d09c89a",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "For the most part, the "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c80c47a6-fefb-4a2d-9f20-38e73053ea06"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (like Japanese) is used."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "hiragana"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_a0029216-82c6-48a8-8292-05eb93569809",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うぅーむん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "male"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "a0029216-82c6-48a8-8292-05eb93569809",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

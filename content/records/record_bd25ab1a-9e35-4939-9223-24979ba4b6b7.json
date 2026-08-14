@@ -1,0 +1,18 @@
+{
+  "id": "record_bd25ab1a-9e35-4939-9223-24979ba4b6b7",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うゆん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to buy"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "bd25ab1a-9e35-4939-9223-24979ba4b6b7",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

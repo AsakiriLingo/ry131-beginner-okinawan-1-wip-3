@@ -1,0 +1,26 @@
+{
+  "id": "record_2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "しるし"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "mark"
+    },
+    "field_part_of_speech": {
+      "kind": "text",
+      "value": "noun"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "しるし (ん)かい いちゅん。"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

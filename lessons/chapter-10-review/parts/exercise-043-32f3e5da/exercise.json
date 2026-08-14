@@ -1,0 +1,104 @@
+{
+  "id": "exercise_32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+  "type": "fill-blank",
+  "instruction": "うとぅすん",
+  "prompt": [
+    {
+      "id": "content_word_32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b1784e96-62c8-4277-97a8-74c2c3ea0c7c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b1784e96-62c8-4277-97a8-74c2c3ea0c7c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The verb 'to drop' is ______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_1",
+      "body": [
+        {
+          "id": "fragment_bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_2",
+      "body": [
+        {
+          "id": "fragment_bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_3",
+      "body": [
+        {
+          "id": "fragment_bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb",
+        "correctOptionIds": [
+          "bank_32f3e5da-d5da-438e-b57b-d56da0a27a8c_okinawan_verb_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "32f3e5da-d5da-438e-b57b-d56da0a27a8c",
+    "type": "multi_blank"
+  }
+}

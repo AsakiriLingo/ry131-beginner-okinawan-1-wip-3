@@ -1,0 +1,162 @@
+{
+  "id": "exercise_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+  "type": "fill-blank",
+  "instruction": "うぅんちゅー",
+  "prompt": [
+    {
+      "id": "content_word_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f4f52dc2-82b5-4da2-91b8-95406fd97883",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f4f52dc2-82b5-4da2-91b8-95406fd97883",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "______ is a father's or mother's ______ brother."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_1",
+      "body": [
+        {
+          "id": "fragment_bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d134c828-8d19-4a3e-b6a0-f11691bc831b",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_2",
+      "body": [
+        {
+          "id": "fragment_bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_3",
+      "body": [
+        {
+          "id": "fragment_bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_1",
+      "body": [
+        {
+          "id": "fragment_bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "younger"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_2",
+      "body": [
+        {
+          "id": "fragment_bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "older"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_3",
+      "body": [
+        {
+          "id": "fragment_bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "child"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word",
+        "correctOptionIds": [
+          "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_okinawan_word_1"
+        ]
+      },
+      {
+        "blankId": "blank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation",
+        "correctOptionIds": [
+          "bank_c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1_relation_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c97b6e83-8bdc-44e5-a78a-8337ee7ad0f1",
+    "type": "multi_blank"
+  }
+}

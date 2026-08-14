@@ -1,0 +1,81 @@
+{
+  "id": "exercise_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+  "type": "fill-blank",
+  "instruction": "い",
+  "prompt": [
+    {
+      "id": "content_word_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_10b83404-de8b-48ac-87c2-95a98afd9e28",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_10b83404-de8b-48ac-87c2-95a98afd9e28",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "blank",
+      "id": "blank_6fe7503b-d1c1-43ef-a384-d6775c6d69f1"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (i)"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_10b83404-de8b-48ac-87c2-95a98afd9e28",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_10b83404-de8b-48ac-87c2-95a98afd9e28",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+    "type": "word_cloze"
+  }
+}

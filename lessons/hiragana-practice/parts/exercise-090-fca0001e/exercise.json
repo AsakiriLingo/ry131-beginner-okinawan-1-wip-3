@@ -1,0 +1,77 @@
+{
+  "id": "exercise_fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+  "type": "fill-blank",
+  "instruction": "Complete the romanization.",
+  "prompt": [
+    {
+      "id": "content_word_fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e08830fc-6a9e-4a69-99b4-edb1864d79e0",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Complete the romanization: sh"
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_fca0001e-0a7a-467d-82b9-ab1fcfb752f5"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (しぇ)"
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_324aeed7-986c-40a7-b602-ebb323e4d479",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+    "type": "word_cloze"
+  }
+}

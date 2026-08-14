@@ -1,0 +1,77 @@
+{
+  "id": "exercise_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8566bf35-055f-4e49-8c8f-e6031f998250",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'kya' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_7a61186a-73e5-4430-abab-0aca8d62e0f7",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+    "type": "word_cloze"
+  }
+}

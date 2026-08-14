@@ -1,0 +1,90 @@
+{
+  "id": "exercise_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+  "type": "fill-blank",
+  "instruction": "なま",
+  "prompt": [
+    {
+      "id": "content_word_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_01dfdac3-b639-4e52-b1df-9b62ee9ea3a7",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_01dfdac3-b639-4e52-b1df-9b62ee9ea3a7",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "blank",
+      "id": "blank_a3881a45-7542-40c9-b3d0-eec13dd62aa9"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " 、やー(ん)かい　けーいん。(To return home now)"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_01dfdac3-b639-4e52-b1df-9b62ee9ea3a7",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_01dfdac3-b639-4e52-b1df-9b62ee9ea3a7",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いま"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "a3881a45-7542-40c9-b3d0-eec13dd62aa9",
+    "type": "word_cloze"
+  }
+}

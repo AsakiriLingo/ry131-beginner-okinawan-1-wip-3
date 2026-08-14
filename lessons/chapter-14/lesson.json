@@ -1,0 +1,21 @@
+{
+  "id": "lesson_13ece22a-429c-416a-a34b-5ad947c01c49",
+  "title": "Chapter 14",
+  "parts": [
+    {
+      "id": "part_section_b5249f29-2233-4e13-96c9-31a2c3b1db25",
+      "title": "Lesson 14-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-b5249f29/document.json"
+      },
+      "legacy": {
+        "sectionId": "b5249f29-2233-4e13-96c9-31a2c3b1db25"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "13ece22a-429c-416a-a34b-5ad947c01c49",
+    "status": "draft"
+  }
+}

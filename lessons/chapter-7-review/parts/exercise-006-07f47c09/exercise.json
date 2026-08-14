@@ -1,0 +1,95 @@
+{
+  "id": "exercise_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+  "type": "fill-blank",
+  "instruction": "いり",
+  "prompt": [
+    {
+      "id": "content_word_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_99f16635-6ff4-455c-a851-ee8f8cd8d948",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_99f16635-6ff4-455c-a851-ee8f8cd8d948",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'west' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_07f47c09-4d3c-4ad7-b817-3e459de0cd0f"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_99f16635-6ff4-455c-a851-ee8f8cd8d948",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_99f16635-6ff4-455c-a851-ee8f8cd8d948",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+    "type": "word_cloze"
+  }
+}

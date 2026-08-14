@@ -1,0 +1,147 @@
+{
+  "id": "exercise_7df6b468-822d-43fd-9848-1be3f96582c5",
+  "type": "word-order",
+  "instruction": "うとぅすん",
+  "prompt": [
+    {
+      "id": "prompt_7df6b468-822d-43fd-9848-1be3f96582c5",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'to drop'."
+        }
+      }
+    },
+    {
+      "id": "content_word_7df6b468-822d-43fd-9848-1be3f96582c5",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a0b068f9-50b6-4135-acae-27b4d404e5d8",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_7df6b468-822d-43fd-9848-1be3f96582c5",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a0b068f9-50b6-4135-acae-27b4d404e5d8",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_7df6b468-822d-43fd-9848-1be3f96582c5_1",
+      "body": [
+        {
+          "id": "fragment_token_7df6b468-822d-43fd-9848-1be3f96582c5_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7df6b468-822d-43fd-9848-1be3f96582c5_2",
+      "body": [
+        {
+          "id": "fragment_token_7df6b468-822d-43fd-9848-1be3f96582c5_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7df6b468-822d-43fd-9848-1be3f96582c5_3",
+      "body": [
+        {
+          "id": "fragment_token_7df6b468-822d-43fd-9848-1be3f96582c5_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_7df6b468-822d-43fd-9848-1be3f96582c5_4",
+      "body": [
+        {
+          "id": "fragment_token_7df6b468-822d-43fd-9848-1be3f96582c5_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "drop"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_7df6b468-822d-43fd-9848-1be3f96582c5_1",
+      "body": [
+        {
+          "id": "fragment_distractor_7df6b468-822d-43fd-9848-1be3f96582c5_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fall"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_7df6b468-822d-43fd-9848-1be3f96582c5_2",
+      "body": [
+        {
+          "id": "fragment_distractor_7df6b468-822d-43fd-9848-1be3f96582c5_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "remember"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_7df6b468-822d-43fd-9848-1be3f96582c5_1",
+      "token_7df6b468-822d-43fd-9848-1be3f96582c5_2",
+      "token_7df6b468-822d-43fd-9848-1be3f96582c5_3",
+      "token_7df6b468-822d-43fd-9848-1be3f96582c5_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "7df6b468-822d-43fd-9848-1be3f96582c5",
+    "type": "sentence_builder"
+  }
+}

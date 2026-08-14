@@ -1,0 +1,18 @@
+{
+  "id": "record_f97840a9-8125-4f34-9c71-2c74a3627bb6",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "勝（か）ちゅん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to win"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "f97840a9-8125-4f34-9c71-2c74a3627bb6",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

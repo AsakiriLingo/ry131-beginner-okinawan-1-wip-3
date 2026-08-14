@@ -1,0 +1,79 @@
+{
+  "id": "exercise_00280cae-b5e2-4381-88d8-1d47b99e25f2",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_00280cae-b5e2-4381-88d8-1d47b99e25f2",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_34dc97f6-da04-4812-ae73-8429fe2b7bbf",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_00280cae-b5e2-4381-88d8-1d47b99e25f2",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ざ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_00280cae-b5e2-4381-88d8-1d47b99e25f2"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_00280cae-b5e2-4381-88d8-1d47b99e25f2",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_00280cae-b5e2-4381-88d8-1d47b99e25f2",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "za"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "00280cae-b5e2-4381-88d8-1d47b99e25f2",
+    "type": "word_cloze"
+  }
+}

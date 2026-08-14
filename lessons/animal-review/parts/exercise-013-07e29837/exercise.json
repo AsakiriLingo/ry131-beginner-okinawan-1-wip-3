@@ -1,0 +1,95 @@
+{
+  "id": "exercise_07e29837-9d24-4595-9a01-3c95d554f539",
+  "type": "fill-blank",
+  "instruction": "まやー",
+  "prompt": [
+    {
+      "id": "content_word_07e29837-9d24-4595-9a01-3c95d554f539",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_07e29837-9d24-4595-9a01-3c95d554f539",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_07e29837-9d24-4595-9a01-3c95d554f539",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'cat' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_07e29837-9d24-4595-9a01-3c95d554f539"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_07e29837-9d24-4595-9a01-3c95d554f539",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_07e29837-9d24-4595-9a01-3c95d554f539",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_07e29837-9d24-4595-9a01-3c95d554f539",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "07e29837-9d24-4595-9a01-3c95d554f539",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "exercise_ef786202-fa31-4641-9076-c2115feee719",
+  "type": "multiple-choice",
+  "instruction": "うぅばまー",
+  "prompt": [
+    {
+      "id": "prompt_ef786202-fa31-4641-9076-c2115feee719",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which word means 'aunt'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_ef786202-fa31-4641-9076-c2115feee719",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6bbd80e7-9feb-441d-99d5-d0e238b928a5",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ef786202-fa31-4641-9076-c2115feee719",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6bbd80e7-9feb-441d-99d5-d0e238b928a5",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_05807520-7fb0-4cd9-a431-19ac3ec84d77",
+      "body": [
+        {
+          "id": "fragment_option_05807520-7fb0-4cd9-a431-19ac3ec84d77",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_18e06495-83f8-4dd5-9812-43e76b46778f",
+      "body": [
+        {
+          "id": "fragment_option_18e06495-83f8-4dd5-9812-43e76b46778f",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_d1f5f2cd-434c-4b59-82d3-bbafa30e3593",
+      "body": [
+        {
+          "id": "fragment_option_d1f5f2cd-434c-4b59-82d3-bbafa30e3593",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d134c828-8d19-4a3e-b6a0-f11691bc831b",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_05807520-7fb0-4cd9-a431-19ac3ec84d77"
+    ]
+  },
+  "legacy": {
+    "variantId": "ef786202-fa31-4641-9076-c2115feee719",
+    "type": "mcq"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Here are the video links while it is not working:",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "codeBlock",
+      "content": [
+        {
+          "text": "https://youtu.be/NMR1QSfv1Wg",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

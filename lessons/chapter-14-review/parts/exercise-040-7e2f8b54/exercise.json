@@ -1,0 +1,97 @@
+{
+  "id": "exercise_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+  "type": "fill-blank",
+  "instruction": "絡（から）みーん",
+  "prompt": [
+    {
+      "id": "content_word_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7a42407a-5ae8-4bde-931d-f86cdac818f2",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7a42407a-5ae8-4bde-931d-f86cdac818f2",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The fishermen hoped to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " a big haul of fish."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_7a42407a-5ae8-4bde-931d-f86cdac818f2",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "catch"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "7e2f8b54-d051-4d83-bae7-2f0bbb7ce292",
+    "type": "word_cloze"
+  }
+}

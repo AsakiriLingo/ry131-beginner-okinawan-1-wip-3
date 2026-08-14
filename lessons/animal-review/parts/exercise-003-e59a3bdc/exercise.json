@@ -1,0 +1,153 @@
+{
+  "id": "exercise_e59a3bdc-5dd0-441e-9a11-df63b2607b73",
+  "type": "fill-blank",
+  "instruction": "Fill in the blanks",
+  "prompt": [
+    {
+      "id": "content_word_e59a3bdc-5dd0-441e-9a11-df63b2607b73",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fa5f2afc-2401-40f8-905e-3bccb0c6106c",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_e59a3bdc-5dd0-441e-9a11-df63b2607b73",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Japanese word for a __1__ is __2__ (iyu)."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_1",
+      "body": [
+        {
+          "id": "fragment_bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_2",
+      "body": [
+        {
+          "id": "fragment_bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fish"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_3",
+      "body": [
+        {
+          "id": "fragment_bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19e6f6ca-699f-48a0-b5ca-4ef503c7fa7e",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_1",
+      "body": [
+        {
+          "id": "fragment_bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "いゆ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_2",
+      "body": [
+        {
+          "id": "fragment_bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_3",
+      "body": [
+        {
+          "id": "fragment_bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "うし"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1",
+        "correctOptionIds": [
+          "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_1_2"
+        ]
+      },
+      {
+        "blankId": "blank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2",
+        "correctOptionIds": [
+          "bank_e59a3bdc-5dd0-441e-9a11-df63b2607b73_2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "e59a3bdc-5dd0-441e-9a11-df63b2607b73",
+    "type": "multi_blank"
+  }
+}

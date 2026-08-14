@@ -1,0 +1,18 @@
+{
+  "id": "record_9479a0c5-a57b-4f6b-a103-e9ca905d8391",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ひーとぅ, ひーじゃー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "dolphin, goat"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "9479a0c5-a57b-4f6b-a103-e9ca905d8391",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

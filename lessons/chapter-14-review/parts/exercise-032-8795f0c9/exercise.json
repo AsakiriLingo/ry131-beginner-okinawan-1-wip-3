@@ -1,0 +1,97 @@
+{
+  "id": "exercise_8795f0c9-89a0-41a0-b5ac-af6398721a19",
+  "type": "multiple-choice",
+  "instruction": "絡（から）みーん",
+  "prompt": [
+    {
+      "id": "prompt_8795f0c9-89a0-41a0-b5ac-af6398721a19",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Select the meaning of 絡（から）みゆん."
+        }
+      }
+    },
+    {
+      "id": "content_word_8795f0c9-89a0-41a0-b5ac-af6398721a19",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1090b757-8370-4fb8-81f8-c0794c4b0327",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8795f0c9-89a0-41a0-b5ac-af6398721a19",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1090b757-8370-4fb8-81f8-c0794c4b0327",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_1fc6534a-ba13-4f4d-885b-37881cc3c444",
+      "body": [
+        {
+          "id": "fragment_option_1fc6534a-ba13-4f4d-885b-37881cc3c444",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to catch (capture/arrest)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_3b07fcaf-bbb0-43c4-953e-9e77b9bfedd6",
+      "body": [
+        {
+          "id": "fragment_option_3b07fcaf-bbb0-43c4-953e-9e77b9bfedd6",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to release"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_105d0e01-68eb-4d54-8bf3-d5c6bbeb2fae",
+      "body": [
+        {
+          "id": "fragment_option_105d0e01-68eb-4d54-8bf3-d5c6bbeb2fae",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to chase"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_1fc6534a-ba13-4f4d-885b-37881cc3c444"
+    ]
+  },
+  "legacy": {
+    "variantId": "8795f0c9-89a0-41a0-b5ac-af6398721a19",
+    "type": "mcq"
+  }
+}

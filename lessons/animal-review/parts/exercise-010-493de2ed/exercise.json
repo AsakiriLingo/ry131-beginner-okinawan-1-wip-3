@@ -1,0 +1,209 @@
+{
+  "id": "exercise_493de2ed-9175-4587-b2f1-2bff6485c3c6",
+  "type": "fill-blank",
+  "instruction": "Fill in the blanks with the correct animal names",
+  "prompt": [
+    {
+      "id": "content_word_493de2ed-9175-4587-b2f1-2bff6485c3c6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bc15edc2-7435-4854-b38b-28a081a3ae01",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_493de2ed-9175-4587-b2f1-2bff6485c3c6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The animals listed include a frog (___), a fish (___), and a cow (___)."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19e6f6ca-699f-48a0-b5ca-4ef503c7fa7e",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "あたびち"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_1",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_2",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "いゆ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_3",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "くーばー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_1",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_2",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "うし"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_3",
+      "body": [
+        {
+          "id": "fragment_bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "がらさー"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1",
+        "correctOptionIds": [
+          "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank1_2"
+        ]
+      },
+      {
+        "blankId": "blank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2",
+        "correctOptionIds": [
+          "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank2_2"
+        ]
+      },
+      {
+        "blankId": "blank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3",
+        "correctOptionIds": [
+          "bank_493de2ed-9175-4587-b2f1-2bff6485c3c6_blank3_2"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "493de2ed-9175-4587-b2f1-2bff6485c3c6",
+    "type": "multi_blank"
+  }
+}

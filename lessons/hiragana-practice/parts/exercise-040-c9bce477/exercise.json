@@ -1,0 +1,77 @@
+{
+  "id": "exercise_c9bce477-45f6-4242-8446-a5c5c96346ab",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_c9bce477-45f6-4242-8446-a5c5c96346ab",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_ed665cc0-2e6a-4b64-bc15-fa8501edf19a",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_c9bce477-45f6-4242-8446-a5c5c96346ab",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for じ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c9bce477-45f6-4242-8446-a5c5c96346ab"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_c9bce477-45f6-4242-8446-a5c5c96346ab",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c9bce477-45f6-4242-8446-a5c5c96346ab",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_d2d8b132-aacc-4720-b6c7-c9248c1d3f9c",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c9bce477-45f6-4242-8446-a5c5c96346ab",
+    "type": "word_cloze"
+  }
+}

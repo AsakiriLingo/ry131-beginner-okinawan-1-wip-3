@@ -1,0 +1,95 @@
+{
+  "id": "exercise_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+  "type": "fill-blank",
+  "instruction": "しるし",
+  "prompt": [
+    {
+      "id": "content_word_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To go to the "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e1a8de0e-3586-4330-85ad-59a3d4b72343"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": ", we say しるし (ん)かい いちゅん。"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_e1a8de0e-3586-4330-85ad-59a3d4b72343",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "e1a8de0e-3586-4330-85ad-59a3d4b72343",
+    "type": "word_cloze"
+  }
+}

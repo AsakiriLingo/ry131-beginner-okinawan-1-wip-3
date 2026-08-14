@@ -1,0 +1,145 @@
+{
+  "id": "exercise_76548840-7b70-455e-b35d-b3c2530d557d",
+  "type": "word-order",
+  "instruction": "うぅんちゅー",
+  "prompt": [
+    {
+      "id": "prompt_76548840-7b70-455e-b35d-b3c2530d557d",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'うぅんちゅー'."
+        }
+      }
+    },
+    {
+      "id": "content_word_76548840-7b70-455e-b35d-b3c2530d557d",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d8589a5f-f46c-4aba-85e8-8c30aa0a1cad",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_76548840-7b70-455e-b35d-b3c2530d557d",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d8589a5f-f46c-4aba-85e8-8c30aa0a1cad",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_76548840-7b70-455e-b35d-b3c2530d557d_1",
+      "body": [
+        {
+          "id": "fragment_token_76548840-7b70-455e-b35d-b3c2530d557d_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d134c828-8d19-4a3e-b6a0-f11691bc831b",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_76548840-7b70-455e-b35d-b3c2530d557d_2",
+      "body": [
+        {
+          "id": "fragment_token_76548840-7b70-455e-b35d-b3c2530d557d_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_76548840-7b70-455e-b35d-b3c2530d557d_3",
+      "body": [
+        {
+          "id": "fragment_token_76548840-7b70-455e-b35d-b3c2530d557d_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "younger"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_76548840-7b70-455e-b35d-b3c2530d557d_4",
+      "body": [
+        {
+          "id": "fragment_token_76548840-7b70-455e-b35d-b3c2530d557d_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "brother"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_76548840-7b70-455e-b35d-b3c2530d557d_1",
+      "body": [
+        {
+          "id": "fragment_distractor_76548840-7b70-455e-b35d-b3c2530d557d_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "older"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_76548840-7b70-455e-b35d-b3c2530d557d_2",
+      "body": [
+        {
+          "id": "fragment_distractor_76548840-7b70-455e-b35d-b3c2530d557d_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_76548840-7b70-455e-b35d-b3c2530d557d_1",
+      "token_76548840-7b70-455e-b35d-b3c2530d557d_2",
+      "token_76548840-7b70-455e-b35d-b3c2530d557d_3",
+      "token_76548840-7b70-455e-b35d-b3c2530d557d_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "76548840-7b70-455e-b35d-b3c2530d557d",
+    "type": "sentence_builder"
+  }
+}

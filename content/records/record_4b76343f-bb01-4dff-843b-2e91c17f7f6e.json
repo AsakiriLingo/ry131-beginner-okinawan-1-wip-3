@@ -1,0 +1,22 @@
+{
+  "id": "record_4b76343f-bb01-4dff-843b-2e91c17f7f6e",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Build the Okinawan sentence for 'I will teach you'."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "わん や (っ)やー んかい ならーすん"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "4b76343f-bb01-4dff-843b-2e91c17f7f6e",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

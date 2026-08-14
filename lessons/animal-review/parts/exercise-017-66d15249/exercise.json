@@ -1,0 +1,84 @@
+{
+  "id": "exercise_66d15249-e8dd-4110-897f-35cb5f8c4542",
+  "type": "multiple-choice",
+  "instruction": "Choose the Okinawan word",
+  "prompt": [
+    {
+      "id": "prompt_66d15249-e8dd-4110-897f-35cb5f8c4542",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which Okinawan word means 'cat'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_66d15249-e8dd-4110-897f-35cb5f8c4542",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_342fa463-d46b-4cb3-b6bf-998689c57a1f",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_39bc175b-1afc-49e4-ad95-6db030a3eb36",
+      "body": [
+        {
+          "id": "fragment_option_39bc175b-1afc-49e4-ad95-6db030a3eb36",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_d3d5d9be-d588-4d6d-8d99-1561b680ae9d",
+      "body": [
+        {
+          "id": "fragment_option_d3d5d9be-d588-4d6d-8d99-1561b680ae9d",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_5294c54f-226f-4935-ba7d-9a95d6b161ee",
+      "body": [
+        {
+          "id": "fragment_option_5294c54f-226f-4935-ba7d-9a95d6b161ee",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ちちに"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_39bc175b-1afc-49e4-ad95-6db030a3eb36"
+    ]
+  },
+  "legacy": {
+    "variantId": "66d15249-e8dd-4110-897f-35cb5f8c4542",
+    "type": "mcq"
+  }
+}

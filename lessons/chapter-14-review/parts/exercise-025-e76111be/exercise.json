@@ -1,0 +1,124 @@
+{
+  "id": "exercise_e76111be-65cc-4603-97d5-c19f982bd402",
+  "type": "fill-blank",
+  "instruction": "間数（えーじゅー）",
+  "prompt": [
+    {
+      "id": "content_word_e76111be-65cc-4603-97d5-c19f982bd402",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_90503d6f-a78c-4d7f-a987-6545dafcc642",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_e76111be-65cc-4603-97d5-c19f982bd402",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_90503d6f-a78c-4d7f-a987-6545dafcc642",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_e76111be-65cc-4603-97d5-c19f982bd402",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "As a true "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e76111be-65cc-4603-97d5-c19f982bd402"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_e76111be-65cc-4603-97d5-c19f982bd402",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": ", he always supported his friends."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_e76111be-65cc-4603-97d5-c19f982bd402",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_90503d6f-a78c-4d7f-a987-6545dafcc642",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_e76111be-65cc-4603-97d5-c19f982bd402",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "comrade"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "fellow"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "companion"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "buddy"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "e76111be-65cc-4603-97d5-c19f982bd402",
+    "type": "word_cloze"
+  }
+}

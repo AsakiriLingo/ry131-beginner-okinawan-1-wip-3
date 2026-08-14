@@ -1,0 +1,18 @@
+{
+  "id": "record_27c545b5-cbe4-4bc8-9d82-7ef3349c72af",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "おーいん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to fight"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "27c545b5-cbe4-4bc8-9d82-7ef3349c72af",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

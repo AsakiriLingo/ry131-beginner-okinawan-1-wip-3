@@ -1,0 +1,147 @@
+{
+  "id": "exercise_11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+  "type": "word-order",
+  "instruction": "うてぃーん",
+  "prompt": [
+    {
+      "id": "prompt_11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'to fall'."
+        }
+      }
+    },
+    {
+      "id": "content_word_11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_046663d5-a15f-4055-bf4c-d10a15d7b248",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_046663d5-a15f-4055-bf4c-d10a15d7b248",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_1",
+      "body": [
+        {
+          "id": "fragment_token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_2",
+      "body": [
+        {
+          "id": "fragment_token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_3",
+      "body": [
+        {
+          "id": "fragment_token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_4",
+      "body": [
+        {
+          "id": "fragment_token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fall"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_1",
+      "body": [
+        {
+          "id": "fragment_distractor_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "sing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_2",
+      "body": [
+        {
+          "id": "fragment_distractor_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "drop"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_1",
+      "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_2",
+      "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_3",
+      "token_11f6ad95-f8d3-4bf2-bfb4-a8213224252f_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "11f6ad95-f8d3-4bf2-bfb4-a8213224252f",
+    "type": "sentence_builder"
+  }
+}

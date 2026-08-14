@@ -1,0 +1,114 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Going to somewhere"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "To go to somewhere, we use んかい or かい both are interchangeable in this context."
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "For example:"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "しるし"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "(ん)かい"
+        },
+        {
+          "type": "text",
+          "text": "　いちゅん。 (To go to the mark)"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "かーら"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "(ん)かい"
+        },
+        {
+          "type": "text",
+          "text": "　ちゅーん。 (To come to the river / I am going/coming to the river)"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "しるし = mark, かーら = river, いちゅん = to go, ちゅーん = to come."
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "Note here いちゅん is go, but the speaker is not going. So it either refers to either the listener or a third party going somewhere or when combined with other thing via conjugations (see the Intermediate 1 course) it can also mean a desire for the speaker to want to go somewhere (but is unable to)."
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "ちゅーん is come (for any party), but it can also mean that the speaker is physically going."
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    }
+  ]
+}

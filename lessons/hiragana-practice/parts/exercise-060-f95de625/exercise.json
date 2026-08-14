@@ -1,0 +1,79 @@
+{
+  "id": "exercise_f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dd5b13c5-dc8e-43cb-ae68-fe064ddd9799",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for は is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_f95de625-5c72-4d6f-9b21-56d5bb5c9eba"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ha"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+    "type": "word_cloze"
+  }
+}

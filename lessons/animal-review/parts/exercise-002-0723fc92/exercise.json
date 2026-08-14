@@ -1,0 +1,95 @@
+{
+  "id": "exercise_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+  "type": "fill-blank",
+  "instruction": "うさじ",
+  "prompt": [
+    {
+      "id": "content_word_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The animal うさじ (usaji) is a "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0723fc92-4fc1-4e88-b3cf-0906c40ff9ef",
+    "type": "word_cloze"
+  }
+}

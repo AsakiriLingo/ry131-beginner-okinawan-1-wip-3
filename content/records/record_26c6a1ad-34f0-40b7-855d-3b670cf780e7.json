@@ -1,0 +1,18 @@
+{
+  "id": "record_26c6a1ad-34f0-40b7-855d-3b670cf780e7",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "げ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ge"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "26c6a1ad-34f0-40b7-855d-3b670cf780e7",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

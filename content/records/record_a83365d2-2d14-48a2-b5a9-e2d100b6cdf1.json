@@ -1,0 +1,18 @@
+{
+  "id": "record_a83365d2-2d14-48a2-b5a9-e2d100b6cdf1",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うびーん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to remember"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "a83365d2-2d14-48a2-b5a9-e2d100b6cdf1",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

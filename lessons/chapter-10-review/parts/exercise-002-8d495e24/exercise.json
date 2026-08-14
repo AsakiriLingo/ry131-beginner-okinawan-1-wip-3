@@ -1,0 +1,91 @@
+{
+  "id": "exercise_8d495e24-eef9-48cd-bc2a-71f298fe070f",
+  "type": "multiple-choice",
+  "instruction": "っうぃーん",
+  "prompt": [
+    {
+      "id": "prompt_8d495e24-eef9-48cd-bc2a-71f298fe070f",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which Okinawan word means 'to plant'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_8d495e24-eef9-48cd-bc2a-71f298fe070f",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e1974b8f-99d0-42af-aeb3-9659bd57d51e",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8d495e24-eef9-48cd-bc2a-71f298fe070f",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e1974b8f-99d0-42af-aeb3-9659bd57d51e",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_570cdb8d-aa52-4dca-9f01-f961f23c6fae",
+      "body": [
+        {
+          "id": "fragment_option_570cdb8d-aa52-4dca-9f01-f961f23c6fae",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_1a39b5e6-22a4-4d99-854e-441ab63ec289",
+      "body": [
+        {
+          "id": "fragment_option_1a39b5e6-22a4-4d99-854e-441ab63ec289",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_4c17f11e-1041-4c18-8dcc-7c9c1f432bd3",
+      "body": [
+        {
+          "id": "fragment_option_4c17f11e-1041-4c18-8dcc-7c9c1f432bd3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_570cdb8d-aa52-4dca-9f01-f961f23c6fae"
+    ]
+  },
+  "legacy": {
+    "variantId": "8d495e24-eef9-48cd-bc2a-71f298fe070f",
+    "type": "mcq"
+  }
+}

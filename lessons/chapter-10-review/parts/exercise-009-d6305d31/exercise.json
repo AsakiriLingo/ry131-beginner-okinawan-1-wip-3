@@ -1,0 +1,95 @@
+{
+  "id": "exercise_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+  "type": "fill-blank",
+  "instruction": "うぅーむん",
+  "prompt": [
+    {
+      "id": "content_word_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'male' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_e1c40d15-8e0b-467a-9cbf-c6c571b3a8c2",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "d6305d31-40f2-4e30-ad35-aa1a9ce3e69e",
+    "type": "word_cloze"
+  }
+}

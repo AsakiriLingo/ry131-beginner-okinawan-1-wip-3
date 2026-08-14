@@ -1,0 +1,21 @@
+{
+  "id": "lesson_71be9fca-800c-49c2-9cdb-cf9aef5288bb",
+  "title": "Chapter 20",
+  "parts": [
+    {
+      "id": "part_section_338a6e64-709e-4103-9802-c0bb5ab910cf",
+      "title": "Lesson 20-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-338a6e64/document.json"
+      },
+      "legacy": {
+        "sectionId": "338a6e64-709e-4103-9802-c0bb5ab910cf"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "71be9fca-800c-49c2-9cdb-cf9aef5288bb",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "exercise_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+  "type": "fill-blank",
+  "instruction": "鏡（かがん）",
+  "prompt": [
+    {
+      "id": "content_word_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_032b54ea-53aa-4194-aa03-c41a4ac2cec4",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_032b54ea-53aa-4194-aa03-c41a4ac2cec4",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "A broken "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " is said to bring bad luck."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_032b54ea-53aa-4194-aa03-c41a4ac2cec4",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_f4541861-6acb-4cfd-aaf3-837fe26d7c20",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "3f89ecf0-71f6-484a-887b-3ca5f3fecfe7",
+    "type": "word_cloze"
+  }
+}

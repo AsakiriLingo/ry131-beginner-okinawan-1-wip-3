@@ -1,0 +1,91 @@
+{
+  "id": "exercise_bf71e153-26a8-4dea-946b-73f47aa75ff2",
+  "type": "multiple-choice",
+  "instruction": "やーるー",
+  "prompt": [
+    {
+      "id": "prompt_bf71e153-26a8-4dea-946b-73f47aa75ff2",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What does やーるー (yaaruu) mean?"
+        }
+      }
+    },
+    {
+      "id": "content_word_bf71e153-26a8-4dea-946b-73f47aa75ff2",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_af7693c8-62ed-4a46-8c1e-4634d3f4428e",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_bf71e153-26a8-4dea-946b-73f47aa75ff2",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_af7693c8-62ed-4a46-8c1e-4634d3f4428e",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_ab4e68e2-2eee-404f-b5d5-e8525242533b",
+      "body": [
+        {
+          "id": "fragment_option_ab4e68e2-2eee-404f-b5d5-e8525242533b",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_af7693c8-62ed-4a46-8c1e-4634d3f4428e",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_3f841beb-8322-41e0-93ab-f3f1f2916e38",
+      "body": [
+        {
+          "id": "fragment_option_3f841beb-8322-41e0-93ab-f3f1f2916e38",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_24ae964f-1f0f-4992-b40e-3f5f16c5dd81",
+      "body": [
+        {
+          "id": "fragment_option_24ae964f-1f0f-4992-b40e-3f5f16c5dd81",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_ab4e68e2-2eee-404f-b5d5-e8525242533b"
+    ]
+  },
+  "legacy": {
+    "variantId": "bf71e153-26a8-4dea-946b-73f47aa75ff2",
+    "type": "mcq"
+  }
+}

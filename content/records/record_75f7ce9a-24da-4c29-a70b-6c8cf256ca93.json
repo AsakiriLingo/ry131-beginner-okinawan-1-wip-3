@@ -1,0 +1,22 @@
+{
+  "id": "record_75f7ce9a-24da-4c29-a70b-6c8cf256ca93",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "いちか"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "some day"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "いちか 、やー(ん)かい　けーいん。"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "75f7ce9a-24da-4c29-a70b-6c8cf256ca93",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "exercise_8e748925-1542-4e53-9364-8bb26d0187c3",
+  "type": "word-order",
+  "instruction": "うとぅげー",
+  "prompt": [
+    {
+      "id": "prompt_8e748925-1542-4e53-9364-8bb26d0187c3",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'lower jaw'."
+        }
+      }
+    },
+    {
+      "id": "content_word_8e748925-1542-4e53-9364-8bb26d0187c3",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dc51eb0a-7449-468b-a351-fd1e6b80a13e",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8e748925-1542-4e53-9364-8bb26d0187c3",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dc51eb0a-7449-468b-a351-fd1e6b80a13e",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_8e748925-1542-4e53-9364-8bb26d0187c3_1",
+      "body": [
+        {
+          "id": "fragment_token_8e748925-1542-4e53-9364-8bb26d0187c3_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d6960679-220f-4b07-aeb7-003839b9e4f6",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8e748925-1542-4e53-9364-8bb26d0187c3_2",
+      "body": [
+        {
+          "id": "fragment_token_8e748925-1542-4e53-9364-8bb26d0187c3_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8e748925-1542-4e53-9364-8bb26d0187c3_3",
+      "body": [
+        {
+          "id": "fragment_token_8e748925-1542-4e53-9364-8bb26d0187c3_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "lower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_8e748925-1542-4e53-9364-8bb26d0187c3_4",
+      "body": [
+        {
+          "id": "fragment_token_8e748925-1542-4e53-9364-8bb26d0187c3_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "jaw"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_8e748925-1542-4e53-9364-8bb26d0187c3_1",
+      "body": [
+        {
+          "id": "fragment_distractor_8e748925-1542-4e53-9364-8bb26d0187c3_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "upper"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_8e748925-1542-4e53-9364-8bb26d0187c3_2",
+      "body": [
+        {
+          "id": "fragment_distractor_8e748925-1542-4e53-9364-8bb26d0187c3_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "sound"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_8e748925-1542-4e53-9364-8bb26d0187c3_1",
+      "token_8e748925-1542-4e53-9364-8bb26d0187c3_2",
+      "token_8e748925-1542-4e53-9364-8bb26d0187c3_3",
+      "token_8e748925-1542-4e53-9364-8bb26d0187c3_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "8e748925-1542-4e53-9364-8bb26d0187c3",
+    "type": "sentence_builder"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "exercise_f921d489-0980-4f4c-9512-0b4f4a2309cd",
+  "type": "fill-blank",
+  "instruction": "数（かじゅ）いん",
+  "prompt": [
+    {
+      "id": "content_word_f921d489-0980-4f4c-9512-0b4f4a2309cd",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_47f22223-3fc0-46e0-a037-49cc7d6b9274",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_f921d489-0980-4f4c-9512-0b4f4a2309cd",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_47f22223-3fc0-46e0-a037-49cc7d6b9274",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_f921d489-0980-4f4c-9512-0b4f4a2309cd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "She began to _______ her blessings and felt grateful."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "count"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "forget"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "hide"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1",
+        "correctOptionIds": [
+          "bank_f921d489-0980-4f4c-9512-0b4f4a2309cd_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "f921d489-0980-4f4c-9512-0b4f4a2309cd",
+    "type": "multi_blank"
+  }
+}

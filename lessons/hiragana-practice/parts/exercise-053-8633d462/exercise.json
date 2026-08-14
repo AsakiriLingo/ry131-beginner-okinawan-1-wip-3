@@ -1,0 +1,77 @@
+{
+  "id": "exercise_8633d462-9b9c-4463-8817-c324df978b96",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_8633d462-9b9c-4463-8817-c324df978b96",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_73aca9dd-3f37-4598-882c-7a8b5e7f15e7",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_8633d462-9b9c-4463-8817-c324df978b96",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'ji' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8633d462-9b9c-4463-8817-c324df978b96"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_8633d462-9b9c-4463-8817-c324df978b96",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8633d462-9b9c-4463-8817-c324df978b96",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_d2d8b132-aacc-4720-b6c7-c9248c1d3f9c",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8633d462-9b9c-4463-8817-c324df978b96",
+    "type": "word_cloze"
+  }
+}

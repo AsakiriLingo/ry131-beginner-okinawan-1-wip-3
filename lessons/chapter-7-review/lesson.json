@@ -1,0 +1,323 @@
+{
+  "id": "lesson_exercise_group_d3883e94-5d4a-4bb8-a284-3e2b204d2ba9",
+  "title": "Chapter 7 Review",
+  "parts": [
+    {
+      "id": "part_exercise_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+      "title": "Fill the blank: あかさん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-001-716a05e1/exercise.json"
+      },
+      "legacy": {
+        "variantId": "716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+        "itemId": "adf7ed42-6819-44f5-ad26-2964eb3bf385"
+      }
+    },
+    {
+      "id": "part_exercise_e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+      "title": "Fill the blank: あっちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-002-e89fe4e3/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e89fe4e3-f83c-4b3d-986b-aef726f9c2f4",
+        "itemId": "935c66df-6bde-4d56-b8c4-f708ae206836"
+      }
+    },
+    {
+      "id": "part_exercise_175f9747-b89b-4a56-b881-e556784e7cd3",
+      "title": "Fill the blank: あかさん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-003-175f9747/exercise.json"
+      },
+      "legacy": {
+        "variantId": "175f9747-b89b-4a56-b881-e556784e7cd3",
+        "itemId": "41fd2a43-6686-4fdf-8897-cbf1e4b095e3"
+      }
+    },
+    {
+      "id": "part_exercise_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+      "title": "Fill the blank: あかさん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-004-10d065c8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+        "itemId": "c21efd58-6402-405b-8fb3-36ca08ae528c"
+      }
+    },
+    {
+      "id": "part_exercise_54c0cb5d-f533-448b-b8d6-d13a15f76eb1",
+      "title": "Fill the blank: あがり",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-005-54c0cb5d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "54c0cb5d-f533-448b-b8d6-d13a15f76eb1",
+        "itemId": "8bd3bb71-7328-4b42-8c9f-eb87186b6ef1"
+      }
+    },
+    {
+      "id": "part_exercise_07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+      "title": "Fill the blank: いり",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-006-07f47c09/exercise.json"
+      },
+      "legacy": {
+        "variantId": "07f47c09-4d3c-4ad7-b817-3e459de0cd0f",
+        "itemId": "99f16635-6ff4-455c-a851-ee8f8cd8d948"
+      }
+    },
+    {
+      "id": "part_exercise_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+      "title": "Fill the blank: あかんぐゎー",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-007-0a01b2c1/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0a01b2c1-d767-4470-b0a4-1eff885d0510",
+        "itemId": "d14b153c-336c-44f0-b493-3cd1fdaef675"
+      }
+    },
+    {
+      "id": "part_exercise_74c4b8bd-d631-4bad-83b6-e05729effa91",
+      "title": "Fill the blank: あじ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-008-74c4b8bd/exercise.json"
+      },
+      "legacy": {
+        "variantId": "74c4b8bd-d631-4bad-83b6-e05729effa91",
+        "itemId": "67aa1463-e720-4624-a08f-0fc8c5f3b8ae"
+      }
+    },
+    {
+      "id": "part_exercise_9dd22d70-8497-46f8-8db6-569d731fab0c",
+      "title": "Fill the blank: あっちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-009-9dd22d70/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9dd22d70-8497-46f8-8db6-569d731fab0c",
+        "itemId": "3969a434-8ec4-4550-bb59-df9b4b16f5c0"
+      }
+    },
+    {
+      "id": "part_exercise_6c5a8048-a180-4906-9c8f-019159935496",
+      "title": "Fill the blank: あっちゅん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-010-6c5a8048/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6c5a8048-a180-4906-9c8f-019159935496",
+        "itemId": "a8435524-1001-47d5-bd4b-acb0aeb5f1e0"
+      }
+    },
+    {
+      "id": "part_exercise_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+      "title": "Fill the blank: あらいん",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-011-7fd7a1be/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7fd7a1be-737b-4733-bbde-9c58c5976e47",
+        "itemId": "abc5330f-21f9-42f3-89a5-84cc70b6a0a6"
+      }
+    },
+    {
+      "id": "part_exercise_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+      "title": "Fill the blank: あんら",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-012-1152a353/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+        "itemId": "b7da7866-37c6-4ebe-a81c-83365a650389"
+      }
+    },
+    {
+      "id": "part_exercise_daffd930-9770-4b08-917b-19aab80a1ddd",
+      "title": "Fill the blank: Generated exercise 1",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-013-daffd930/exercise.json"
+      },
+      "legacy": {
+        "variantId": "daffd930-9770-4b08-917b-19aab80a1ddd",
+        "itemId": "ae1b343c-b891-47e3-bdb7-ff381907a7be"
+      }
+    },
+    {
+      "id": "part_exercise_73b92d32-cf3e-4208-8833-cf34d19e2db6",
+      "title": "Fill the blank: Generated exercise 3",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-014-73b92d32/exercise.json"
+      },
+      "legacy": {
+        "variantId": "73b92d32-cf3e-4208-8833-cf34d19e2db6",
+        "itemId": "9a725d0f-90cd-4003-abc8-dd94024fa42a"
+      }
+    },
+    {
+      "id": "part_exercise_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+      "title": "Fill the blank: Generated exercise 4",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-015-6e3beb2c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+        "itemId": "8ed22999-2ea1-414f-826a-475e2d49b5b1"
+      }
+    },
+    {
+      "id": "part_exercise_9841d006-7cf4-467e-b4c8-4492b04caca9",
+      "title": "Fill the blank: Generated exercise 6",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-016-9841d006/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9841d006-7cf4-467e-b4c8-4492b04caca9",
+        "itemId": "94994f11-1fd3-4a03-b689-30ac7f126a1e"
+      }
+    },
+    {
+      "id": "part_exercise_5b3156a6-f2b9-45fe-8f85-e6a6d3aad07d",
+      "title": "Fill the blank: Generated exercise 8",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-017-5b3156a6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "5b3156a6-f2b9-45fe-8f85-e6a6d3aad07d",
+        "itemId": "bc806eb3-6f7b-4475-93b9-d922cd2e80a7"
+      }
+    },
+    {
+      "id": "part_exercise_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+      "title": "Fill the blank: Generated exercise 9",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-018-25f23c5a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+        "itemId": "91db2242-a5d4-46fb-9256-9cc1dcac7088"
+      }
+    },
+    {
+      "id": "part_exercise_2724544b-6c28-45d3-b8b6-c216f500c94c",
+      "title": "Fill the blank: Generated exercise 11",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-019-2724544b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2724544b-6c28-45d3-b8b6-c216f500c94c",
+        "itemId": "f38aac27-a51e-49b1-bb97-ce6d3b8a65e4"
+      }
+    },
+    {
+      "id": "part_exercise_006584a6-faec-4fcc-903f-39c91d28c702",
+      "title": "Fill the blank: Generated exercise 12",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-020-006584a6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "006584a6-faec-4fcc-903f-39c91d28c702",
+        "itemId": "3c87cdb3-faed-4565-bf4d-1fbf02413a1f"
+      }
+    },
+    {
+      "id": "part_exercise_9457885d-2daf-48d7-b1d2-85aa88372efe",
+      "title": "Fill the blank: Generated exercise 14",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-021-9457885d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9457885d-2daf-48d7-b1d2-85aa88372efe",
+        "itemId": "d3970db1-f9b9-4d86-8baa-ab6dba2d3577"
+      }
+    },
+    {
+      "id": "part_exercise_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+      "title": "Fill the blank: Generated exercise 16",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-022-a0bb6b83/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+        "itemId": "16ae513d-1a7b-4ddc-84f6-f7854f81619f"
+      }
+    },
+    {
+      "id": "part_exercise_b516e343-b757-4e37-836b-9bb1c47d1b85",
+      "title": "Fill the blank: Generated exercise 18",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-023-b516e343/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b516e343-b757-4e37-836b-9bb1c47d1b85",
+        "itemId": "2e3f501b-7e14-4824-aa2d-0afbcc5feee7"
+      }
+    },
+    {
+      "id": "part_exercise_30eefb72-04b2-4c25-b96c-7dbad299c94d",
+      "title": "Fill the blank: Generated exercise 19",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-024-30eefb72/exercise.json"
+      },
+      "legacy": {
+        "variantId": "30eefb72-04b2-4c25-b96c-7dbad299c94d",
+        "itemId": "bd44e2e7-2589-47fa-9553-598552384e8d"
+      }
+    },
+    {
+      "id": "part_exercise_69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+      "title": "Fill the blank: Generated exercise 22",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-025-69a369d8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "69a369d8-21b2-4216-8e0f-e216c0fc0e96",
+        "itemId": "00beeab2-883b-42e9-85d9-a71acd661a89"
+      }
+    },
+    {
+      "id": "part_exercise_b7758b80-d963-49cc-9a38-4f31b8054c82",
+      "title": "Fill the blank: Generated exercise 24",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-026-b7758b80/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b7758b80-d963-49cc-9a38-4f31b8054c82",
+        "itemId": "d48235bf-8fef-4da8-a41d-f232875fdeea"
+      }
+    }
+  ],
+  "legacy": {
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9",
+    "datasetType": "word_pair",
+    "description": null
+  }
+}

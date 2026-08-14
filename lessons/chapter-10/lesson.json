@@ -1,0 +1,21 @@
+{
+  "id": "lesson_75bd42f4-3ef5-49df-8acd-6b7af09bee1f",
+  "title": "Chapter 10",
+  "parts": [
+    {
+      "id": "part_section_a4f34f76-f755-4dfb-82a3-45118ea3dcdd",
+      "title": "Lesson 10-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-a4f34f76/document.json"
+      },
+      "legacy": {
+        "sectionId": "a4f34f76-f755-4dfb-82a3-45118ea3dcdd"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "75bd42f4-3ef5-49df-8acd-6b7af09bee1f",
+    "status": "draft"
+  }
+}

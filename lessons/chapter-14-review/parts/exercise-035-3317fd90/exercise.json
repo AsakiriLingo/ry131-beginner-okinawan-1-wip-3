@@ -1,0 +1,95 @@
+{
+  "id": "exercise_3317fd90-9c9e-4298-9412-8706bc19caa8",
+  "type": "multiple-choice",
+  "instruction": "かーらちゅん",
+  "prompt": [
+    {
+      "id": "prompt_3317fd90-9c9e-4298-9412-8706bc19caa8",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What is the meaning of かーらちゅん?"
+        }
+      }
+    },
+    {
+      "id": "content_word_3317fd90-9c9e-4298-9412-8706bc19caa8",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_acf44af9-d6be-4974-b401-5d6d90311534",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_3317fd90-9c9e-4298-9412-8706bc19caa8",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_acf44af9-d6be-4974-b401-5d6d90311534",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_1054792f-9d0e-4aad-89c0-34a1d3011938",
+      "body": [
+        {
+          "id": "fragment_option_1054792f-9d0e-4aad-89c0-34a1d3011938",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19fd7489-837d-4af6-9aa9-119ad61a16db",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_700873e5-b20c-4eba-8c35-33fee12c2df9",
+      "body": [
+        {
+          "id": "fragment_option_700873e5-b20c-4eba-8c35-33fee12c2df9",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to wet"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_3665f7c5-0859-48a7-b7ec-567dff335675",
+      "body": [
+        {
+          "id": "fragment_option_3665f7c5-0859-48a7-b7ec-567dff335675",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to clean"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_1054792f-9d0e-4aad-89c0-34a1d3011938"
+    ]
+  },
+  "legacy": {
+    "variantId": "3317fd90-9c9e-4298-9412-8706bc19caa8",
+    "type": "mcq"
+  }
+}

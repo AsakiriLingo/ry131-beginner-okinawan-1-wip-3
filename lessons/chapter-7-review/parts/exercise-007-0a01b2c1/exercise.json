@@ -1,0 +1,104 @@
+{
+  "id": "exercise_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+  "type": "fill-blank",
+  "instruction": "あかんぐゎー",
+  "prompt": [
+    {
+      "id": "content_word_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d14b153c-336c-44f0-b493-3cd1fdaef675",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d14b153c-336c-44f0-b493-3cd1fdaef675",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'baby' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0a01b2c1-d767-4470-b0a4-1eff885d0510"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_d14b153c-336c-44f0-b493-3cd1fdaef675",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0a01b2c1-d767-4470-b0a4-1eff885d0510",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_d14b153c-336c-44f0-b493-3cd1fdaef675",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "あかんぐゎ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0a01b2c1-d767-4470-b0a4-1eff885d0510",
+    "type": "word_cloze"
+  }
+}

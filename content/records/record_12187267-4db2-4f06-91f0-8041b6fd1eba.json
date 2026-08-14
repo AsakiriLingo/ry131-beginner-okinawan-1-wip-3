@@ -1,0 +1,18 @@
+{
+  "id": "record_12187267-4db2-4f06-91f0-8041b6fd1eba",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うふっちゅ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "adult"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "12187267-4db2-4f06-91f0-8041b6fd1eba",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "exercise_dd3a604c-6211-4463-9db4-b6633d54f0e7",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_dd3a604c-6211-4463-9db4-b6633d54f0e7",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4090451e-d0f3-4507-9199-bb6d3fa5c6d2",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_dd3a604c-6211-4463-9db4-b6633d54f0e7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'a' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_dd3a604c-6211-4463-9db4-b6633d54f0e7"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_dd3a604c-6211-4463-9db4-b6633d54f0e7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_dd3a604c-6211-4463-9db4-b6633d54f0e7",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "あ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "dd3a604c-6211-4463-9db4-b6633d54f0e7",
+    "type": "word_cloze"
+  }
+}

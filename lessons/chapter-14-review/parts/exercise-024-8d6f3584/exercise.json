@@ -1,0 +1,110 @@
+{
+  "id": "exercise_8d6f3584-9981-4da6-8646-aeaedc05d280",
+  "type": "fill-blank",
+  "instruction": "絡（から）みーん",
+  "prompt": [
+    {
+      "id": "content_word_8d6f3584-9981-4da6-8646-aeaedc05d280",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_09d9d0fa-99ce-4747-88b3-5ffd5952ac78",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8d6f3584-9981-4da6-8646-aeaedc05d280",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_09d9d0fa-99ce-4747-88b3-5ffd5952ac78",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_8d6f3584-9981-4da6-8646-aeaedc05d280",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The police set up a perimeter to _______ the escaped prisoner."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "catch"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "help"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "release"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1",
+        "correctOptionIds": [
+          "bank_8d6f3584-9981-4da6-8646-aeaedc05d280_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8d6f3584-9981-4da6-8646-aeaedc05d280",
+    "type": "multi_blank"
+  }
+}

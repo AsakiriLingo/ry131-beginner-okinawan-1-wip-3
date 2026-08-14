@@ -1,0 +1,162 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Numbers",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Okinawan numbers are different than Japanese. While the kanji are the same, the readings aren't. Kanji are the Chinese-like characters in languages like Japanese and Okinawan for those who do not know.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "When counting, many people add the ち at the end from 1 to 9. It is required in examinations, though in spoken and informal Okinawan, we omit the ち.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "For example, てぃー(ち)  = 1 or 1 thing. For Japanese speakers, Okinawan ち = approx. Japanese つ.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "In this lesson, the ち will be omitted.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Anyways, 我（わん, I/me）とぅ (and) まじゅ(ー)ん (together) 数ーいん (かじゅーいん, to count). ((You) count  with me). Let's go!",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "てぃー = 1",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "たー = 2",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "みー = 3",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "ゆー = 4",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "いち = 5 (いちち if we add the extra ち)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "むー = 6",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "なな = 7 (Unlike Japanese, Okinawan does not have しち when counting normally)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "やー = 8",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "くくぬ = 9 ",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "とぅー = 10 (reminder from hiragana とぅ = tu, so とぅー = tuu)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Side note for people using the kanji variations on exams: Most exams will require you to write furigana (which is the hiragana reading) on top of the kanji just because there is not really an agreed kanji de-facto standard as of date.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Additional side note for higher level learners: 数ーゆん and even 読むん are alternatives to 数ーいん. Some might think 読むん is strange, but depending on the context, it sort of means to count out loud. Also yes, the sentence is very unnatural, but it is what is possible without stretching into advanced verb conjugations.",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

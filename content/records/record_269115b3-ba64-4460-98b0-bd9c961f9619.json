@@ -1,0 +1,18 @@
+{
+  "id": "record_269115b3-ba64-4460-98b0-bd9c961f9619",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "にゃ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "nya"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "269115b3-ba64-4460-98b0-bd9c961f9619",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

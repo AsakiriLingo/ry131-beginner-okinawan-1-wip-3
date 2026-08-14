@@ -1,0 +1,95 @@
+{
+  "id": "exercise_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+  "type": "fill-blank",
+  "instruction": "うぅじゃさ",
+  "prompt": [
+    {
+      "id": "content_word_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "A father or mother's older brother is called "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_044eb0ca-4d0b-4e05-b701-36a3b106192a"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_044eb0ca-4d0b-4e05-b701-36a3b106192a",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "044eb0ca-4d0b-4e05-b701-36a3b106192a",
+    "type": "word_cloze"
+  }
+}

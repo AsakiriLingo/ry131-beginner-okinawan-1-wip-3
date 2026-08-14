@@ -1,0 +1,109 @@
+{
+  "id": "exercise_82643ea9-70df-406f-8869-1222b2b47609",
+  "type": "multiple-choice",
+  "instruction": "うさじ",
+  "prompt": [
+    {
+      "id": "prompt_82643ea9-70df-406f-8869-1222b2b47609",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which animal is represented by うさじ?"
+        }
+      }
+    },
+    {
+      "id": "content_word_82643ea9-70df-406f-8869-1222b2b47609",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4bbdbdcb-92bd-4bcb-b06c-bb0449cc33fe",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_82643ea9-70df-406f-8869-1222b2b47609",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4bbdbdcb-92bd-4bcb-b06c-bb0449cc33fe",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_65b93824-c1df-4b1f-9d3e-e7f7c5fb38bb",
+      "body": [
+        {
+          "id": "fragment_option_65b93824-c1df-4b1f-9d3e-e7f7c5fb38bb",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_c215a4ab-2db2-4ded-9282-93533bf54dc6",
+      "body": [
+        {
+          "id": "fragment_option_c215a4ab-2db2-4ded-9282-93533bf54dc6",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_c32f55fc-2fbe-445e-a3ff-67b9f1eb127e",
+      "body": [
+        {
+          "id": "fragment_option_c32f55fc-2fbe-445e-a3ff-67b9f1eb127e",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "Crow"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_762e59a4-e648-4ae0-8774-d81bc34e8ffe",
+      "body": [
+        {
+          "id": "fragment_option_762e59a4-e648-4ae0-8774-d81bc34e8ffe",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "Spider"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_c215a4ab-2db2-4ded-9282-93533bf54dc6"
+    ]
+  },
+  "legacy": {
+    "variantId": "82643ea9-70df-406f-8869-1222b2b47609",
+    "type": "mcq"
+  }
+}

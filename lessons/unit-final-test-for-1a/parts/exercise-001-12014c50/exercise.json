@@ -1,0 +1,95 @@
+{
+  "id": "exercise_12014c50-a8b6-4a22-9441-54e90442bfc8",
+  "type": "fill-blank",
+  "instruction": "ならーすん",
+  "prompt": [
+    {
+      "id": "content_word_12014c50-a8b6-4a22-9441-54e90442bfc8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f278111c-3ac3-47b3-bbad-296ec7d27043",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_12014c50-a8b6-4a22-9441-54e90442bfc8",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f278111c-3ac3-47b3-bbad-296ec7d27043",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_12014c50-a8b6-4a22-9441-54e90442bfc8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "わん や (っ)やー んかい "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_12014c50-a8b6-4a22-9441-54e90442bfc8"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_12014c50-a8b6-4a22-9441-54e90442bfc8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "。"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_12014c50-a8b6-4a22-9441-54e90442bfc8",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_f278111c-3ac3-47b3-bbad-296ec7d27043",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_12014c50-a8b6-4a22-9441-54e90442bfc8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_f278111c-3ac3-47b3-bbad-296ec7d27043",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "12014c50-a8b6-4a22-9441-54e90442bfc8",
+    "type": "word_cloze"
+  }
+}

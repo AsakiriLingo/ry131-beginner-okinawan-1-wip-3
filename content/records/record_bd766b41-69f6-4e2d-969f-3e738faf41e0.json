@@ -1,0 +1,18 @@
+{
+  "id": "record_bd766b41-69f6-4e2d-969f-3e738faf41e0",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Practice vowel extension."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "bd766b41-69f6-4e2d-969f-3e738faf41e0",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

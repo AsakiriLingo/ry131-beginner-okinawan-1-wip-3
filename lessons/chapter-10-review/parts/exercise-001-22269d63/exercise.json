@@ -1,0 +1,104 @@
+{
+  "id": "exercise_22269d63-79a6-49da-85a7-d3bd77ee5799",
+  "type": "fill-blank",
+  "instruction": "っうぃーん",
+  "prompt": [
+    {
+      "id": "content_word_22269d63-79a6-49da-85a7-d3bd77ee5799",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_22269d63-79a6-49da-85a7-d3bd77ee5799",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_22269d63-79a6-49da-85a7-d3bd77ee5799",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'to plant' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_22269d63-79a6-49da-85a7-d3bd77ee5799"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_22269d63-79a6-49da-85a7-d3bd77ee5799",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_22269d63-79a6-49da-85a7-d3bd77ee5799",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_22269d63-79a6-49da-85a7-d3bd77ee5799",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "っうぃーゆん"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "22269d63-79a6-49da-85a7-d3bd77ee5799",
+    "type": "word_cloze"
+  }
+}

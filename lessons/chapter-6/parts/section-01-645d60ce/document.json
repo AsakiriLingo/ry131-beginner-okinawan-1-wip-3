@@ -1,0 +1,696 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "くうあ words",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "There is this thing called くうあ words in Okinawan as follows: ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableHeader",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "く (very close/touching)",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "う (close enough)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "あ (far)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "ま (place)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "くま (right here)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "うま (here/there)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "あま (there / over there)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "り (thing n.)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "くり (this (right here))",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "うま (this/that)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "あり (that (over there))",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "ぬ (thing adj.)",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "くぬ (this (right here, before a noun))",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "うぬ (this/that (before a noun))",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "text": "あぬ (that (over there, before a noun))",
+                      "type": "text"
+                    },
+                    {
+                      "type": "hardBreak"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The ぬ series always comes before a noun and does not function as a stand alone like the り series.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "くま",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "んかい　ちゅーん。 To come ",
+          "type": "text"
+        },
+        {
+          "text": "(right) here",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ". ((I) come ",
+          "type": "text"
+        },
+        {
+          "text": "(right) here",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ").",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "まどぅ　あきーん。",
+          "type": "text"
+        },
+        {
+          "text": "うり",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "　あきーん。 To open the window. To open ",
+          "type": "text"
+        },
+        {
+          "text": "this",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": ". ((I) open the window. (I) open ",
+          "type": "text"
+        },
+        {
+          "text": "this",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "). [The speaker is not touching anything]",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Note: In this sentence, the this is a standalone instead of an adjective. (Since you are not touching the window, くり is not acceptable in this context. Usually this kind of implies some sort of situation like, I'm closing that window. oh alright, then I'll close this window.)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "あぬ ",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "くぬ",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": "　さーたー　かちみーん。To hold ",
+          "type": "text"
+        },
+        {
+          "text": "this",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " sugar. ((I) hold ",
+          "type": "text"
+        },
+        {
+          "text": "this",
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "color": "var(--secondary-foreground)"
+              }
+            },
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": "var(--secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "text": " sugar) (Since you are holding/touching, くぬ is used for this).",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Note: あきゆん and かちみゆん are also acceptable alternatives to あきーん and かちみゆん respectively.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Also for Japanese speakers, Okinawan くうあ does not perfectly match Japanese こそあ. If you want to read more on this, I'd suggest you'd read 沖縄語初級 book Lesson 2-4.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

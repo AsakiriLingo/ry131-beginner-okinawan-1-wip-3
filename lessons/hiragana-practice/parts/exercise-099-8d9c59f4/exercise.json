@@ -1,0 +1,79 @@
+{
+  "id": "exercise_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+  "type": "fill-blank",
+  "instruction": "Practice vowel extension.",
+  "prompt": [
+    {
+      "id": "content_word_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bd766b41-69f6-4e2d-969f-3e738faf41e0",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To extend a vowel, you use the "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " character."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ー"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+    "type": "word_cloze"
+  }
+}

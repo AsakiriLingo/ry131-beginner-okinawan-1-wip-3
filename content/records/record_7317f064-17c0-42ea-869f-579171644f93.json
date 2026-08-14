@@ -1,0 +1,18 @@
+{
+  "id": "record_7317f064-17c0-42ea-869f-579171644f93",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "やーるー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "gecko"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "7317f064-17c0-42ea-869f-579171644f93",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_3a228f93-f81c-4e1e-800d-e7afaabaed8f",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Complete the hiragana."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "3a228f93-f81c-4e1e-800d-e7afaabaed8f",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

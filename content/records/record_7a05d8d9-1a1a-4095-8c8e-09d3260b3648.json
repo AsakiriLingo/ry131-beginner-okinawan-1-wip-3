@@ -1,0 +1,18 @@
+{
+  "id": "record_7a05d8d9-1a1a-4095-8c8e-09d3260b3648",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Write the Hiragana"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "7a05d8d9-1a1a-4095-8c8e-09d3260b3648",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

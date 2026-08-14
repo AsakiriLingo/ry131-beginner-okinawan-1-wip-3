@@ -1,0 +1,79 @@
+{
+  "id": "exercise_71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+  "type": "fill-blank",
+  "instruction": "Identify the sound.",
+  "prompt": [
+    {
+      "id": "content_word_71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1313a21f-8319-46aa-b069-89d3b9c4f5e9",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The hiragana ちぇ makes the sound "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_71d98153-e02e-4fa7-8c61-9b495a25b0fc"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "che"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+    "type": "word_cloze"
+  }
+}

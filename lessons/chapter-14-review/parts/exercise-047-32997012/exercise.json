@@ -1,0 +1,97 @@
+{
+  "id": "exercise_32997012-dc92-47d2-b02d-5a13b3772713",
+  "type": "multiple-choice",
+  "instruction": "勝（か）ちゅん",
+  "prompt": [
+    {
+      "id": "prompt_32997012-dc92-47d2-b02d-5a13b3772713",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "The goal of the competition is to ______."
+        }
+      }
+    },
+    {
+      "id": "content_word_32997012-dc92-47d2-b02d-5a13b3772713",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f97840a9-8125-4f34-9c71-2c74a3627bb6",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_32997012-dc92-47d2-b02d-5a13b3772713",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f97840a9-8125-4f34-9c71-2c74a3627bb6",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_bf7419f7-4b70-4a14-9b58-82059f188c33",
+      "body": [
+        {
+          "id": "fragment_option_bf7419f7-4b70-4a14-9b58-82059f188c33",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "win"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_f382a280-adca-4359-b384-049cf4ffc5f2",
+      "body": [
+        {
+          "id": "fragment_option_f382a280-adca-4359-b384-049cf4ffc5f2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "participate"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_c5b8c09d-1e5b-4b6e-9772-d8bdda8c2dec",
+      "body": [
+        {
+          "id": "fragment_option_c5b8c09d-1e5b-4b6e-9772-d8bdda8c2dec",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "observe"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_bf7419f7-4b70-4a14-9b58-82059f188c33"
+    ]
+  },
+  "legacy": {
+    "variantId": "32997012-dc92-47d2-b02d-5a13b3772713",
+    "type": "mcq"
+  }
+}

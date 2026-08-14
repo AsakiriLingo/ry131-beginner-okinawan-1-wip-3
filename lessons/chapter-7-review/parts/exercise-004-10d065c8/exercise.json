@@ -1,0 +1,104 @@
+{
+  "id": "exercise_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+  "type": "fill-blank",
+  "instruction": "あかさん",
+  "prompt": [
+    {
+      "id": "content_word_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c21efd58-6402-405b-8fb3-36ca08ae528c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c21efd58-6402-405b-8fb3-36ca08ae528c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'red' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (or あかー)."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_c21efd58-6402-405b-8fb3-36ca08ae528c",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "あかー"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "10d065c8-8b7b-4366-b1a9-ed5a0c5aa9c8",
+    "type": "word_cloze"
+  }
+}

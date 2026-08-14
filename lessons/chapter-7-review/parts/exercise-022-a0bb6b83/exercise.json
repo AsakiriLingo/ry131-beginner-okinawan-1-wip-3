@@ -1,0 +1,77 @@
+{
+  "id": "exercise_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 16",
+  "prompt": [
+    {
+      "id": "content_word_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_16ae513d-1a7b-4ddc-84f6-f7854f81619f",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'west' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_99f16635-6ff4-455c-a851-ee8f8cd8d948",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "a0bb6b83-3511-4366-a1e7-fc9bff6b2bb6",
+    "type": "word_cloze"
+  }
+}

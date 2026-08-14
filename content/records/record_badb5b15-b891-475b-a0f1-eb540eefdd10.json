@@ -1,0 +1,18 @@
+{
+  "id": "record_badb5b15-b891-475b-a0f1-eb540eefdd10",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "かーらちゅん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to dry"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "badb5b15-b891-475b-a0f1-eb540eefdd10",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

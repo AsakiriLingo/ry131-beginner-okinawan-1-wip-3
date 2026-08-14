@@ -1,0 +1,18 @@
+{
+  "id": "record_b437f516-40f0-4410-a652-8e317d0c6287",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ぜ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ze"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "b437f516-40f0-4410-a652-8e317d0c6287",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

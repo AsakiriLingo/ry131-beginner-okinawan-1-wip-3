@@ -1,0 +1,62 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Introduction to Greetings",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "はいさい is \"ciao\" for male speakers",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "はいたい is \"ciao\" for female speakers",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Note: はいさい can mean hi/hello (usually), or bye, and can be used as a greeting any time of the day (similar to the Italian \"ciao\", which is why it is used as a translation \"dag\" in Dutch also works, though not used as frequently.)",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "めんそーれー is welcome.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    }
+  ]
+}

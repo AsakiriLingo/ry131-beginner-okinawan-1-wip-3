@@ -1,0 +1,110 @@
+{
+  "id": "exercise_19c1849a-6234-477b-976e-41e2a9fbe0db",
+  "type": "fill-blank",
+  "instruction": "おーいん",
+  "prompt": [
+    {
+      "id": "content_word_19c1849a-6234-477b-976e-41e2a9fbe0db",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e0047982-a8f6-493b-982c-f5eb6690aab7",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_19c1849a-6234-477b-976e-41e2a9fbe0db",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e0047982-a8f6-493b-982c-f5eb6690aab7",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_19c1849a-6234-477b-976e-41e2a9fbe0db",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Soldiers are trained to _______ bravely for their country."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fight"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "surrender"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "flee"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1",
+        "correctOptionIds": [
+          "bank_19c1849a-6234-477b-976e-41e2a9fbe0db_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "19c1849a-6234-477b-976e-41e2a9fbe0db",
+    "type": "multi_blank"
+  }
+}

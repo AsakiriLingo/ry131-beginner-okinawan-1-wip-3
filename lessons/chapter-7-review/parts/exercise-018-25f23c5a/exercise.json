@@ -1,0 +1,79 @@
+{
+  "id": "exercise_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 9",
+  "prompt": [
+    {
+      "id": "content_word_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_91db2242-a5d4-46fb-9256-9cc1dcac7088",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'cousin' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いちゅく"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "25f23c5a-8f6e-4fe9-b6f4-c08286d377cf",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_c2054386-d118-4cf5-a4b8-136550b4aa99",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "っうぃーん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to plant"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "c2054386-d118-4cf5-a4b8-136550b4aa99",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

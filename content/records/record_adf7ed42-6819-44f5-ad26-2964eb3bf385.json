@@ -1,0 +1,22 @@
+{
+  "id": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あかさん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "bright"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "The Okinawan word あかさん can mean bright or red."
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "adf7ed42-6819-44f5-ad26-2964eb3bf385",
+    "exerciseGroupId": "d3883e94-5d4a-4bb8-a284-3e2b204d2ba9"
+  }
+}

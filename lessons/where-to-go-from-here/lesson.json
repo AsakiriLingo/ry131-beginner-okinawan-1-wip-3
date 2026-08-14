@@ -1,0 +1,21 @@
+{
+  "id": "lesson_8e9cf336-c31b-4f21-8044-5738feda607f",
+  "title": "Where to go from here",
+  "parts": [
+    {
+      "id": "part_section_469fbaf4-d1dd-4c1b-8639-487c911e82df",
+      "title": "Part 1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-469fbaf4/document.json"
+      },
+      "legacy": {
+        "sectionId": "469fbaf4-d1dd-4c1b-8639-487c911e82df"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "8e9cf336-c31b-4f21-8044-5738feda607f",
+    "status": "draft"
+  }
+}

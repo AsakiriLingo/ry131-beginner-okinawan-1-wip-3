@@ -1,0 +1,79 @@
+{
+  "id": "exercise_e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_96c87c20-e80b-4bf9-a10c-4b89d5e59837",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for お is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_e3252d4e-29eb-4c74-ace6-7dd9d56c026b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "o"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+    "type": "word_cloze"
+  }
+}

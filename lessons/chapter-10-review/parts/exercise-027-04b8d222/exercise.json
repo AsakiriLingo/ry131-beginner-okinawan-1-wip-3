@@ -1,0 +1,158 @@
+{
+  "id": "exercise_04b8d222-7acb-4bc9-8060-8c919c7cab36",
+  "type": "fill-blank",
+  "instruction": "うたいん",
+  "prompt": [
+    {
+      "id": "content_word_04b8d222-7acb-4bc9-8060-8c919c7cab36",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_83aff736-dfe1-4dd0-af01-cf159530e07b",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_04b8d222-7acb-4bc9-8060-8c919c7cab36",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_83aff736-dfe1-4dd0-af01-cf159530e07b",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_04b8d222-7acb-4bc9-8060-8c919c7cab36",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan verbs for 'to sing' are ______ or ______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_1",
+      "body": [
+        {
+          "id": "fragment_bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_2",
+      "body": [
+        {
+          "id": "fragment_bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_a6408346-5deb-4b8f-b3a6-69320e696b23",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_3",
+      "body": [
+        {
+          "id": "fragment_bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0912199d-3455-4527-9946-ab6afa8579a3",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_1",
+      "body": [
+        {
+          "id": "fragment_bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d66d5346-a472-41c8-8784-9177a46ab950",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_2",
+      "body": [
+        {
+          "id": "fragment_bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bd25ab1a-9e35-4939-9223-24979ba4b6b7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_3",
+      "body": [
+        {
+          "id": "fragment_bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "っうぃーゆん"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1",
+        "correctOptionIds": [
+          "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form1_1"
+        ]
+      },
+      {
+        "blankId": "blank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2",
+        "correctOptionIds": [
+          "bank_04b8d222-7acb-4bc9-8060-8c919c7cab36_okinawan_form2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "04b8d222-7acb-4bc9-8060-8c919c7cab36",
+    "type": "multi_blank"
+  }
+}

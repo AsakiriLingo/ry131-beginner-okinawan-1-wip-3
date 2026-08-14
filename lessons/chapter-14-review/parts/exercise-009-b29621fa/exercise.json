@@ -1,0 +1,168 @@
+{
+  "id": "exercise_b29621fa-0182-4281-9df7-b9147f542c45",
+  "type": "fill-blank",
+  "instruction": "間数（えーじゅー）",
+  "prompt": [
+    {
+      "id": "content_word_b29621fa-0182-4281-9df7-b9147f542c45",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_91542ae0-9972-42d1-8afd-a9e9603747ca",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_b29621fa-0182-4281-9df7-b9147f542c45",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_91542ae0-9972-42d1-8afd-a9e9603747ca",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_b29621fa-0182-4281-9df7-b9147f542c45",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "He's been my trusted _______ for many years, a true _______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b29621fa-0182-4281-9df7-b9147f542c45_blank1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b29621fa-0182-4281-9df7-b9147f542c45_blank2"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "companion"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "stranger"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "opponent"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_1",
+      "body": [
+        {
+          "id": "fragment_bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "buddy"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_2",
+      "body": [
+        {
+          "id": "fragment_bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "foe"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_3",
+      "body": [
+        {
+          "id": "fragment_bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "rival"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b29621fa-0182-4281-9df7-b9147f542c45_blank1",
+        "correctOptionIds": [
+          "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank1_1"
+        ]
+      },
+      {
+        "blankId": "blank_b29621fa-0182-4281-9df7-b9147f542c45_blank2",
+        "correctOptionIds": [
+          "bank_b29621fa-0182-4281-9df7-b9147f542c45_blank2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b29621fa-0182-4281-9df7-b9147f542c45",
+    "type": "multi_blank"
+  }
+}

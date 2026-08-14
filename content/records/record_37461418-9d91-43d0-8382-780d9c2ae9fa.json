@@ -1,0 +1,18 @@
+{
+  "id": "record_37461418-9d91-43d0-8382-780d9c2ae9fa",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "あいこー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ant"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "37461418-9d91-43d0-8382-780d9c2ae9fa",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "exercise_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+  "type": "fill-blank",
+  "instruction": "うぅばまー",
+  "prompt": [
+    {
+      "id": "content_word_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'aunt' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_06d876e8-4689-4e53-9cd4-d70bc86bb466"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_06d876e8-4689-4e53-9cd4-d70bc86bb466",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "06d876e8-4689-4e53-9cd4-d70bc86bb466",
+    "type": "word_cloze"
+  }
+}

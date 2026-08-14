@@ -1,0 +1,18 @@
+{
+  "id": "record_3403ee31-189a-42be-a231-da2857b537b8",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "A beehive"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "3403ee31-189a-42be-a231-da2857b537b8",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

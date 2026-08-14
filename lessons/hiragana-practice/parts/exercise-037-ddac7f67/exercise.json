@@ -1,0 +1,77 @@
+{
+  "id": "exercise_ddac7f67-3458-4c3d-b020-ee426c005de1",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_ddac7f67-3458-4c3d-b020-ee426c005de1",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_c71c39f8-81e2-4bcb-a7d7-73f0a20d7efe",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_ddac7f67-3458-4c3d-b020-ee426c005de1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for か is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ddac7f67-3458-4c3d-b020-ee426c005de1"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_ddac7f67-3458-4c3d-b020-ee426c005de1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ddac7f67-3458-4c3d-b020-ee426c005de1",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_6a4c5c67-de62-4564-8b2f-0ee72c22a3d7",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ddac7f67-3458-4c3d-b020-ee426c005de1",
+    "type": "word_cloze"
+  }
+}

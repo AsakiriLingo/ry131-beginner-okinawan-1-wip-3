@@ -1,0 +1,97 @@
+{
+  "id": "exercise_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+  "type": "fill-blank",
+  "instruction": "勝（か）ちゅん",
+  "prompt": [
+    {
+      "id": "content_word_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8a2ec8d0-8ad5-4975-8e0d-33f2b574b18d",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8a2ec8d0-8ad5-4975-8e0d-33f2b574b18d",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "It's not just about participating; sometimes you really want to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b3f77d78-02e7-4094-98d1-b89ee55acf6b"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_8a2ec8d0-8ad5-4975-8e0d-33f2b574b18d",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "win"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b3f77d78-02e7-4094-98d1-b89ee55acf6b",
+    "type": "word_cloze"
+  }
+}

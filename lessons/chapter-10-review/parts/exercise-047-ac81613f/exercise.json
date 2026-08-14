@@ -1,0 +1,214 @@
+{
+  "id": "exercise_ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+  "type": "fill-blank",
+  "instruction": "うびーん",
+  "prompt": [
+    {
+      "id": "content_word_ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_95703ba1-2ec0-4af5-986f-3046dea60145",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_95703ba1-2ec0-4af5-986f-3046dea60145",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To ______ is ______ or ______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_1",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "remember"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_2",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "forget"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_3",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fall"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_1",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_2",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b0fbbc6e-edff-40e6-a9b8-e11999fd3de7",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_3",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_c1849fb0-1c90-47bc-9346-b9092d35664d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_1",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_47d62237-c463-48c6-a7f1-7d11c5d769d0",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_2",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_09e476ee-bb99-4a03-a1e4-e4e89e75f336",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_3",
+      "body": [
+        {
+          "id": "fragment_bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d66d5346-a472-41c8-8784-9177a46ab950",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb",
+        "correctOptionIds": [
+          "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_english_verb_1"
+        ]
+      },
+      {
+        "blankId": "blank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1",
+        "correctOptionIds": [
+          "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form1_1"
+        ]
+      },
+      {
+        "blankId": "blank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2",
+        "correctOptionIds": [
+          "bank_ac81613f-a5d4-496d-a2fb-4356e4dceecb_okinawan_form2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ac81613f-a5d4-496d-a2fb-4356e4dceecb",
+    "type": "multi_blank"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_e41101ed-d5ad-4c32-805d-f6b9ee667d45",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "も"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "mo"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "e41101ed-d5ad-4c32-805d-f6b9ee667d45",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

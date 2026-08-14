@@ -1,0 +1,18 @@
+{
+  "id": "record_f022c434-9964-4792-9d1d-7a703d09c89a",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Identify the script type"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "f022c434-9964-4792-9d1d-7a703d09c89a",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

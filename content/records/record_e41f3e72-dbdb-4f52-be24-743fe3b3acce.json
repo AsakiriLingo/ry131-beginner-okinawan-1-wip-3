@@ -1,0 +1,18 @@
+{
+  "id": "record_e41f3e72-dbdb-4f52-be24-743fe3b3acce",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Match the sound."
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "e41f3e72-dbdb-4f52-be24-743fe3b3acce",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

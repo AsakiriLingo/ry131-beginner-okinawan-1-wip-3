@@ -1,0 +1,77 @@
+{
+  "id": "exercise_1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1a77f71c-5cdf-41e7-94ff-db4870484a1b",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'wo/o' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_1736ff99-7ac5-4760-a7a2-f4f16dde68fc"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_cc201926-5c7e-47ab-ab30-ec38a500f54d",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+    "type": "word_cloze"
+  }
+}

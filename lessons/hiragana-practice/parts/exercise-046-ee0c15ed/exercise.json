@@ -1,0 +1,77 @@
+{
+  "id": "exercise_ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1cc026bf-7318-4337-b432-8ba44e01d6e8",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'i' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ee0c15ed-44b1-414b-a9e4-2fe0e436703d"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_10b83404-de8b-48ac-87c2-95a98afd9e28",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+    "type": "word_cloze"
+  }
+}

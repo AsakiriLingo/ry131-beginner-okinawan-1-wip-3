@@ -1,0 +1,190 @@
+{
+  "id": "exercise_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+  "type": "fill-blank",
+  "instruction": "ひーとぅ",
+  "prompt": [
+    {
+      "id": "content_word_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8c137298-294d-4489-bdd3-78ce611130cd",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8c137298-294d-4489-bdd3-78ce611130cd",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The {"
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_1_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "} (dolphin) has a {"
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_2_c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "} (tail)."
+          }
+        }
+      }
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_1",
+      "body": [
+        {
+          "id": "fragment_bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_8c137298-294d-4489-bdd3-78ce611130cd",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_2",
+      "body": [
+        {
+          "id": "fragment_bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ふぃーとぅ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_3",
+      "body": [
+        {
+          "id": "fragment_bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_1",
+      "body": [
+        {
+          "id": "fragment_bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "じゅー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_2",
+      "body": [
+        {
+          "id": "fragment_bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "しー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_3",
+      "body": [
+        {
+          "id": "fragment_bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d25785af-14bd-40c5-a951-54af5e678b49",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin",
+        "correctOptionIds": [
+          "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_dolphin_1"
+        ]
+      },
+      {
+        "blankId": "blank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail",
+        "correctOptionIds": [
+          "bank_c27929fb-29ae-49d7-98a3-0ee58a1bc45b_tail_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "c27929fb-29ae-49d7-98a3-0ee58a1bc45b",
+    "type": "multi_blank"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_5df6bdc6-9aab-4bed-91f7-a0ca8372e560",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "数（かじゅ）いん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to count"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "5df6bdc6-9aab-4bed-91f7-a0ca8372e560",
+    "exerciseGroupId": "53cdaaac-b4d4-4b45-aa23-d3a3983309d3"
+  }
+}

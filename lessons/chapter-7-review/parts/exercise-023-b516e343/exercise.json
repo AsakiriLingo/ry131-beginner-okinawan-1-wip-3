@@ -1,0 +1,77 @@
+{
+  "id": "exercise_b516e343-b757-4e37-836b-9bb1c47d1b85",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 18",
+  "prompt": [
+    {
+      "id": "content_word_b516e343-b757-4e37-836b-9bb1c47d1b85",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2e3f501b-7e14-4824-aa2d-0afbcc5feee7",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b516e343-b757-4e37-836b-9bb1c47d1b85",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'east' (the reverse of いり) is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b516e343-b757-4e37-836b-9bb1c47d1b85"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b516e343-b757-4e37-836b-9bb1c47d1b85",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b516e343-b757-4e37-836b-9bb1c47d1b85",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_8bd3bb71-7328-4b42-8c9f-eb87186b6ef1",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b516e343-b757-4e37-836b-9bb1c47d1b85",
+    "type": "word_cloze"
+  }
+}

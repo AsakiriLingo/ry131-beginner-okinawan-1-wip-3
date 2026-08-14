@@ -1,0 +1,79 @@
+{
+  "id": "exercise_a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+  "type": "fill-blank",
+  "instruction": "Match the sound.",
+  "prompt": [
+    {
+      "id": "content_word_a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_34e6b17e-05cc-41cb-9d90-4aea07ec4682",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for くぃ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_a4089f62-2a11-4f8f-9c13-3126ce74c9ab"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "kwi"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+    "type": "word_cloze"
+  }
+}

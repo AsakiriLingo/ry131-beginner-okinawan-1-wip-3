@@ -1,0 +1,95 @@
+{
+  "id": "exercise_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+  "type": "fill-blank",
+  "instruction": "あかさん",
+  "prompt": [
+    {
+      "id": "content_word_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word あかさん can mean '"
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_716a05e1-e0fd-4dea-bcb2-fd347518d6a5"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "' or 'red'."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "716a05e1-e0fd-4dea-bcb2-fd347518d6a5",
+    "type": "word_cloze"
+  }
+}

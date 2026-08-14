@@ -1,0 +1,18 @@
+{
+  "id": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "いん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "dog"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

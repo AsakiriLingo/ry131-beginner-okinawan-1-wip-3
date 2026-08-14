@@ -1,0 +1,18 @@
+{
+  "id": "record_8c137298-294d-4489-bdd3-78ce611130cd",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "ひーとぅ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "dolphin"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "8c137298-294d-4489-bdd3-78ce611130cd",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

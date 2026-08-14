@@ -1,0 +1,1199 @@
+{
+  "id": "lesson_exercise_group_d65e323f-1080-4f6e-bc2e-ead33c61033c",
+  "title": "Hiragana Practice",
+  "parts": [
+    {
+      "id": "part_exercise_6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+      "title": "Fill the blank: い",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-001-6fe7503b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6fe7503b-d1c1-43ef-a384-d6775c6d69f1",
+        "itemId": "10b83404-de8b-48ac-87c2-95a98afd9e28"
+      }
+    },
+    {
+      "id": "part_exercise_5e6c6972-8e57-4825-844c-10a639774593",
+      "title": "Fill the blank: え",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-002-5e6c6972/exercise.json"
+      },
+      "legacy": {
+        "variantId": "5e6c6972-8e57-4825-844c-10a639774593",
+        "itemId": "324aeed7-986c-40a7-b602-ebb323e4d479"
+      }
+    },
+    {
+      "id": "part_exercise_626972fa-892a-4ff6-9c3e-9f435bf0760c",
+      "title": "Fill the blank: か",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-003-626972fa/exercise.json"
+      },
+      "legacy": {
+        "variantId": "626972fa-892a-4ff6-9c3e-9f435bf0760c",
+        "itemId": "6a4c5c67-de62-4564-8b2f-0ee72c22a3d7"
+      }
+    },
+    {
+      "id": "part_exercise_f13c7347-de60-442a-a9a2-9e74719f97a5",
+      "title": "Fill the blank: く",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-004-f13c7347/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f13c7347-de60-442a-a9a2-9e74719f97a5",
+        "itemId": "e2d2799a-a33f-491e-a243-c355a33798ed"
+      }
+    },
+    {
+      "id": "part_exercise_12d9d91a-15e3-4f45-b89d-53d34fd55e3f",
+      "title": "Fill the blank: こ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-005-12d9d91a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "12d9d91a-15e3-4f45-b89d-53d34fd55e3f",
+        "itemId": "fe4499b5-b696-444b-a8a9-5788b9f71c4e"
+      }
+    },
+    {
+      "id": "part_exercise_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+      "title": "Fill the blank: ぎ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-006-00dfd6a8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+        "itemId": "9aa87a86-74ce-48d6-8f61-a1e12f07c757"
+      }
+    },
+    {
+      "id": "part_exercise_e97c4086-f268-4e1e-aba0-7fcf085c6ac2",
+      "title": "Fill the blank: げ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-007-e97c4086/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e97c4086-f268-4e1e-aba0-7fcf085c6ac2",
+        "itemId": "26c6a1ad-34f0-40b7-855d-3b670cf780e7"
+      }
+    },
+    {
+      "id": "part_exercise_a3e8f3e9-5841-4148-ac43-9a5ee26dcb75",
+      "title": "Fill the blank: さ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-008-a3e8f3e9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a3e8f3e9-5841-4148-ac43-9a5ee26dcb75",
+        "itemId": "f0f9da9d-3739-403f-bceb-1ddc89820a1a"
+      }
+    },
+    {
+      "id": "part_exercise_90983de0-3a58-45eb-806a-01f0f32eb36e",
+      "title": "Fill the blank: す",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-009-90983de0/exercise.json"
+      },
+      "legacy": {
+        "variantId": "90983de0-3a58-45eb-806a-01f0f32eb36e",
+        "itemId": "bfdbcf54-bd75-42ec-8a08-42da4488c031"
+      }
+    },
+    {
+      "id": "part_exercise_60d66f5b-51cd-4a7c-88bc-901942525545",
+      "title": "Fill the blank: そ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-010-60d66f5b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "60d66f5b-51cd-4a7c-88bc-901942525545",
+        "itemId": "a4f72679-6103-4bf1-b4d0-74387641fb01"
+      }
+    },
+    {
+      "id": "part_exercise_54565cbf-603d-4433-98c2-23743d07b9bb",
+      "title": "Fill the blank: じ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-011-54565cbf/exercise.json"
+      },
+      "legacy": {
+        "variantId": "54565cbf-603d-4433-98c2-23743d07b9bb",
+        "itemId": "d2d8b132-aacc-4720-b6c7-c9248c1d3f9c"
+      }
+    },
+    {
+      "id": "part_exercise_72cbc4be-f273-47a1-b044-9697d8c017f1",
+      "title": "Fill the blank: ぜ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-012-72cbc4be/exercise.json"
+      },
+      "legacy": {
+        "variantId": "72cbc4be-f273-47a1-b044-9697d8c017f1",
+        "itemId": "b437f516-40f0-4410-a652-8e317d0c6287"
+      }
+    },
+    {
+      "id": "part_exercise_d131ae63-1cc4-4c35-90d6-4a97d7267078",
+      "title": "Fill the blank: た",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-013-d131ae63/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d131ae63-1cc4-4c35-90d6-4a97d7267078",
+        "itemId": "4a8245bc-65b0-4f93-b314-b9e842b675ee"
+      }
+    },
+    {
+      "id": "part_exercise_055e9769-43b7-47b0-adfb-04378f4601d5",
+      "title": "Fill the blank: と",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-014-055e9769/exercise.json"
+      },
+      "legacy": {
+        "variantId": "055e9769-43b7-47b0-adfb-04378f4601d5",
+        "itemId": "6ad137be-beb1-45c7-9a2f-79a818880f41"
+      }
+    },
+    {
+      "id": "part_exercise_cecb4a6a-87ed-40e4-af6c-d6dd02415f64",
+      "title": "Fill the blank: ぢ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-015-cecb4a6a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "cecb4a6a-87ed-40e4-af6c-d6dd02415f64",
+        "itemId": "60407183-0879-4501-9e6a-5317b05c7626"
+      }
+    },
+    {
+      "id": "part_exercise_af3a2128-792c-4cde-b007-520dbd1d3818",
+      "title": "Fill the blank: で",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-016-af3a2128/exercise.json"
+      },
+      "legacy": {
+        "variantId": "af3a2128-792c-4cde-b007-520dbd1d3818",
+        "itemId": "ed29b153-89cc-4ce0-aba0-1c3f350e5e45"
+      }
+    },
+    {
+      "id": "part_exercise_de0dd9ae-f08d-4a16-b71a-b5268ef2b5f7",
+      "title": "Fill the blank: な",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-017-de0dd9ae/exercise.json"
+      },
+      "legacy": {
+        "variantId": "de0dd9ae-f08d-4a16-b71a-b5268ef2b5f7",
+        "itemId": "8f44b4dd-8029-47c5-87a6-6c6a098a4fc4"
+      }
+    },
+    {
+      "id": "part_exercise_d17fa445-36e4-486e-b156-b16cfd8efccf",
+      "title": "Fill the blank: ぬ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-018-d17fa445/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d17fa445-36e4-486e-b156-b16cfd8efccf",
+        "itemId": "5c6b4063-cdc3-4a97-a059-1d2c53312ce6"
+      }
+    },
+    {
+      "id": "part_exercise_abc7bcc7-4c1d-41ff-bbee-9850da1d5fb4",
+      "title": "Fill the blank: の",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-019-abc7bcc7/exercise.json"
+      },
+      "legacy": {
+        "variantId": "abc7bcc7-4c1d-41ff-bbee-9850da1d5fb4",
+        "itemId": "67ef7334-3865-42a8-994e-339596728177"
+      }
+    },
+    {
+      "id": "part_exercise_a76d5211-1a6b-4d60-862c-91c688934b30",
+      "title": "Fill the blank: ひ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-020-a76d5211/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a76d5211-1a6b-4d60-862c-91c688934b30",
+        "itemId": "ff047e62-c306-4fec-afc9-5ea38d37ee5c"
+      }
+    },
+    {
+      "id": "part_exercise_7f9f4c65-8e04-41ca-aa14-52a5af60c0be",
+      "title": "Fill the blank: へ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-021-7f9f4c65/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7f9f4c65-8e04-41ca-aa14-52a5af60c0be",
+        "itemId": "663e06a5-fba7-43bd-8db5-ff6d11d5c4b6"
+      }
+    },
+    {
+      "id": "part_exercise_846d7aa8-9d1d-46e9-b81e-63b9425b4ef2",
+      "title": "Fill the blank: ま",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-022-846d7aa8/exercise.json"
+      },
+      "legacy": {
+        "variantId": "846d7aa8-9d1d-46e9-b81e-63b9425b4ef2",
+        "itemId": "0ff7b83f-1796-4a10-b881-7f55cce2f55c"
+      }
+    },
+    {
+      "id": "part_exercise_640bf931-bcbf-4069-b4e3-855b8cc13d59",
+      "title": "Fill the blank: む",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-023-640bf931/exercise.json"
+      },
+      "legacy": {
+        "variantId": "640bf931-bcbf-4069-b4e3-855b8cc13d59",
+        "itemId": "22e29be9-c50f-44eb-aeb5-971267654494"
+      }
+    },
+    {
+      "id": "part_exercise_0ed81dfd-e88a-48c7-a8de-b578460909a1",
+      "title": "Fill the blank: も",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-024-0ed81dfd/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0ed81dfd-e88a-48c7-a8de-b578460909a1",
+        "itemId": "e41101ed-d5ad-4c32-805d-f6b9ee667d45"
+      }
+    },
+    {
+      "id": "part_exercise_e0a83257-e760-486b-9b46-ea927954d704",
+      "title": "Fill the blank: ゆ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-025-e0a83257/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e0a83257-e760-486b-9b46-ea927954d704",
+        "itemId": "77350ab5-59e1-4666-8e55-8654f94a0f1b"
+      }
+    },
+    {
+      "id": "part_exercise_9afc8bcb-94fb-4c3f-8e29-8daa9cb0428d",
+      "title": "Fill the blank: ら",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-026-9afc8bcb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9afc8bcb-94fb-4c3f-8e29-8daa9cb0428d",
+        "itemId": "c777ae16-6dc3-44de-934e-0b11b17be807"
+      }
+    },
+    {
+      "id": "part_exercise_a62f2325-4ab6-44a2-a148-0478e3b6788c",
+      "title": "Fill the blank: る",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-027-a62f2325/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a62f2325-4ab6-44a2-a148-0478e3b6788c",
+        "itemId": "f53938c2-1d99-434f-9689-92775da0c163"
+      }
+    },
+    {
+      "id": "part_exercise_ca76bae9-6a7d-450a-8ddf-8b61b5f1be58",
+      "title": "Fill the blank: ろ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-028-ca76bae9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ca76bae9-6a7d-450a-8ddf-8b61b5f1be58",
+        "itemId": "56b2f81b-f27c-4150-bf12-7e28e0cdf9c5"
+      }
+    },
+    {
+      "id": "part_exercise_e705dfc6-eb23-44b0-8198-b0fa29cd9bee",
+      "title": "Fill the blank: を",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-029-e705dfc6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e705dfc6-eb23-44b0-8198-b0fa29cd9bee",
+        "itemId": "cc201926-5c7e-47ab-ab30-ec38a500f54d"
+      }
+    },
+    {
+      "id": "part_exercise_448d4b1f-cb78-4a8a-a025-c91d9f37a8da",
+      "title": "Fill the blank: きゃ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-030-448d4b1f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "448d4b1f-cb78-4a8a-a025-c91d9f37a8da",
+        "itemId": "7a61186a-73e5-4430-abab-0aca8d62e0f7"
+      }
+    },
+    {
+      "id": "part_exercise_f9a12ac4-6c25-4017-b972-d66693285bc8",
+      "title": "Fill the blank: しゃ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-031-f9a12ac4/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f9a12ac4-6c25-4017-b972-d66693285bc8",
+        "itemId": "b79ec463-4f12-47a8-a7b4-31f013d9c9eb"
+      }
+    },
+    {
+      "id": "part_exercise_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+      "title": "Fill the blank: にゃ",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-032-fbdbda36/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fbdbda36-31ae-4d38-ac55-afe48a37adea",
+        "itemId": "269115b3-ba64-4460-98b0-bd9c961f9619"
+      }
+    },
+    {
+      "id": "part_exercise_f283defb-f125-43ae-abc9-f1a464e1fe51",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-033-f283defb/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f283defb-f125-43ae-abc9-f1a464e1fe51",
+        "itemId": "1e570bfc-515b-40bb-8593-53ed8fca8051"
+      }
+    },
+    {
+      "id": "part_exercise_c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-034-c1338364/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c1338364-e05a-4044-a8b8-6c880dcfe4d8",
+        "itemId": "16a58879-e1e7-4774-b999-a8c1564d60d9"
+      }
+    },
+    {
+      "id": "part_exercise_31117005-6ca8-40b2-9754-b41ba412adeb",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-035-31117005/exercise.json"
+      },
+      "legacy": {
+        "variantId": "31117005-6ca8-40b2-9754-b41ba412adeb",
+        "itemId": "605a8fb4-58e4-411b-a8e6-b73f260d21bb"
+      }
+    },
+    {
+      "id": "part_exercise_e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-036-e3252d4e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e3252d4e-29eb-4c74-ace6-7dd9d56c026b",
+        "itemId": "96c87c20-e80b-4bf9-a10c-4b89d5e59837"
+      }
+    },
+    {
+      "id": "part_exercise_ddac7f67-3458-4c3d-b020-ee426c005de1",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-037-ddac7f67/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ddac7f67-3458-4c3d-b020-ee426c005de1",
+        "itemId": "c71c39f8-81e2-4bcb-a7d7-73f0a20d7efe"
+      }
+    },
+    {
+      "id": "part_exercise_d0981586-e31a-4fb0-abf8-e53088380433",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-038-d0981586/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d0981586-e31a-4fb0-abf8-e53088380433",
+        "itemId": "ca7125e2-23a6-45fe-a0e3-6e95d3d857ad"
+      }
+    },
+    {
+      "id": "part_exercise_5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-039-5b1ea054/exercise.json"
+      },
+      "legacy": {
+        "variantId": "5b1ea054-ac30-4c6c-9480-3c18d5b98b93",
+        "itemId": "1a5c50ab-987b-476d-86b8-0f3407701b99"
+      }
+    },
+    {
+      "id": "part_exercise_c9bce477-45f6-4242-8446-a5c5c96346ab",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-040-c9bce477/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c9bce477-45f6-4242-8446-a5c5c96346ab",
+        "itemId": "ed665cc0-2e6a-4b64-bc15-fa8501edf19a"
+      }
+    },
+    {
+      "id": "part_exercise_7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-041-7284ea6d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7284ea6d-ba61-4902-9a79-7d4354bd71a8",
+        "itemId": "7f0e5e5c-71b0-4865-853e-d8db1c77b466"
+      }
+    },
+    {
+      "id": "part_exercise_0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-042-0a3b0a3e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0a3b0a3e-eced-48a7-b2d5-fa393372c7a7",
+        "itemId": "350cfe00-bf5c-427d-bea0-01f5194c2bf4"
+      }
+    },
+    {
+      "id": "part_exercise_05bbb657-4bfd-468b-902f-0168b8a8e559",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-043-05bbb657/exercise.json"
+      },
+      "legacy": {
+        "variantId": "05bbb657-4bfd-468b-902f-0168b8a8e559",
+        "itemId": "ca62544f-a3c2-41e3-972d-20509a1fdca5"
+      }
+    },
+    {
+      "id": "part_exercise_64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-044-64e4ac33/exercise.json"
+      },
+      "legacy": {
+        "variantId": "64e4ac33-3d0f-43fd-86f2-7da4e55f0220",
+        "itemId": "2ddba9f0-eb20-4cc1-a2b9-a82c6098f436"
+      }
+    },
+    {
+      "id": "part_exercise_dd3a604c-6211-4463-9db4-b6633d54f0e7",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-045-dd3a604c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "dd3a604c-6211-4463-9db4-b6633d54f0e7",
+        "itemId": "4090451e-d0f3-4507-9199-bb6d3fa5c6d2"
+      }
+    },
+    {
+      "id": "part_exercise_ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-046-ee0c15ed/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ee0c15ed-44b1-414b-a9e4-2fe0e436703d",
+        "itemId": "1cc026bf-7318-4337-b432-8ba44e01d6e8"
+      }
+    },
+    {
+      "id": "part_exercise_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-047-2c1a8569/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+        "itemId": "6ce0f2ba-2855-4086-882b-34717953a9e2"
+      }
+    },
+    {
+      "id": "part_exercise_b8a67869-6214-4afc-aae9-4d5b7afd22df",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-048-b8a67869/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b8a67869-6214-4afc-aae9-4d5b7afd22df",
+        "itemId": "1fea2a21-facf-44df-a48f-0cc02b6dfada"
+      }
+    },
+    {
+      "id": "part_exercise_ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-049-ef3c569b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "ef3c569b-e4da-4c9f-81b1-98c6f8ef68a3",
+        "itemId": "2c8fb1b0-3332-461d-8eaa-64d37826b892"
+      }
+    },
+    {
+      "id": "part_exercise_585576a4-766b-4a7d-8637-b302fcc875b8",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-050-585576a4/exercise.json"
+      },
+      "legacy": {
+        "variantId": "585576a4-766b-4a7d-8637-b302fcc875b8",
+        "itemId": "76e085c7-40c1-4a1b-9eb9-8b5bb32fe418"
+      }
+    },
+    {
+      "id": "part_exercise_9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-051-9e1fd1b6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "9e1fd1b6-a0c8-4547-99b3-c0c4ce61a216",
+        "itemId": "53615418-bf91-49f5-8d90-4f23a206430e"
+      }
+    },
+    {
+      "id": "part_exercise_0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-052-0a3a9ac7/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+        "itemId": "077bc893-b153-495a-ab66-4aa7b0bdfa43"
+      }
+    },
+    {
+      "id": "part_exercise_8633d462-9b9c-4463-8817-c324df978b96",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-053-8633d462/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8633d462-9b9c-4463-8817-c324df978b96",
+        "itemId": "73aca9dd-3f37-4598-882c-7a8b5e7f15e7"
+      }
+    },
+    {
+      "id": "part_exercise_59bc471f-74ba-4306-a3c3-e88304169458",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-054-59bc471f/exercise.json"
+      },
+      "legacy": {
+        "variantId": "59bc471f-74ba-4306-a3c3-e88304169458",
+        "itemId": "acedf4c6-fce0-454e-941b-afc88106e841"
+      }
+    },
+    {
+      "id": "part_exercise_8458634d-bfad-412a-9aa0-41c7025c05f9",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-055-8458634d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8458634d-bfad-412a-9aa0-41c7025c05f9",
+        "itemId": "4304dbd4-9484-4a25-b133-1f2ab975c3eb"
+      }
+    },
+    {
+      "id": "part_exercise_acd1f5ee-9ff2-414c-977c-02652060e72b",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-056-acd1f5ee/exercise.json"
+      },
+      "legacy": {
+        "variantId": "acd1f5ee-9ff2-414c-977c-02652060e72b",
+        "itemId": "290d99d6-2f40-4b7b-996f-b017925853db"
+      }
+    },
+    {
+      "id": "part_exercise_00280cae-b5e2-4381-88d8-1d47b99e25f2",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-057-00280cae/exercise.json"
+      },
+      "legacy": {
+        "variantId": "00280cae-b5e2-4381-88d8-1d47b99e25f2",
+        "itemId": "34dc97f6-da04-4812-ae73-8429fe2b7bbf"
+      }
+    },
+    {
+      "id": "part_exercise_237509a5-48ca-4c8d-bc13-4e4512735cf0",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-058-237509a5/exercise.json"
+      },
+      "legacy": {
+        "variantId": "237509a5-48ca-4c8d-bc13-4e4512735cf0",
+        "itemId": "ec02d562-c648-4d1e-804f-d322ebdda339"
+      }
+    },
+    {
+      "id": "part_exercise_1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-059-1aa8d437/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+        "itemId": "37fb7f78-6825-454e-b30a-7c6e629712bf"
+      }
+    },
+    {
+      "id": "part_exercise_f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-060-f95de625/exercise.json"
+      },
+      "legacy": {
+        "variantId": "f95de625-5c72-4d6f-9b21-56d5bb5c9eba",
+        "itemId": "dd5b13c5-dc8e-43cb-ae68-fe064ddd9799"
+      }
+    },
+    {
+      "id": "part_exercise_cd6ff574-a550-4385-9037-7f94e6b63fb6",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-061-cd6ff574/exercise.json"
+      },
+      "legacy": {
+        "variantId": "cd6ff574-a550-4385-9037-7f94e6b63fb6",
+        "itemId": "8a314d72-cc60-4937-aca2-e344a9eae222"
+      }
+    },
+    {
+      "id": "part_exercise_d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+      "title": "Fill the blank: Identify the sound",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-062-d6a317f1/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+        "itemId": "a5a815f2-6b4a-461d-8c82-bbcd0e2f66d2"
+      }
+    },
+    {
+      "id": "part_exercise_e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-063-e29c4ddd/exercise.json"
+      },
+      "legacy": {
+        "variantId": "e29c4ddd-ee86-42bb-9ecf-93f63a28c22c",
+        "itemId": "8566bf35-055f-4e49-8c8f-e6031f998250"
+      }
+    },
+    {
+      "id": "part_exercise_84f75d22-08c4-4f08-8e48-66b3ece36424",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-064-84f75d22/exercise.json"
+      },
+      "legacy": {
+        "variantId": "84f75d22-08c4-4f08-8e48-66b3ece36424",
+        "itemId": "c89fbb70-bb11-4ed5-9d37-7744f3dc3a03"
+      }
+    },
+    {
+      "id": "part_exercise_1e81a888-a046-402d-a9a8-a01ee7eabadd",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-065-1e81a888/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1e81a888-a046-402d-a9a8-a01ee7eabadd",
+        "itemId": "f6eb855c-c897-4daa-bb5d-079c4caf5085"
+      }
+    },
+    {
+      "id": "part_exercise_1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-066-1736ff99/exercise.json"
+      },
+      "legacy": {
+        "variantId": "1736ff99-7ac5-4760-a7a2-f4f16dde68fc",
+        "itemId": "1a77f71c-5cdf-41e7-94ff-db4870484a1b"
+      }
+    },
+    {
+      "id": "part_exercise_b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+      "title": "Fill the blank: Write the Hiragana",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-067-b86b5a5b/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b86b5a5b-e0e2-47c0-8790-ebda46496c5f",
+        "itemId": "7a05d8d9-1a1a-4095-8c8e-09d3260b3648"
+      }
+    },
+    {
+      "id": "part_exercise_c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+      "title": "Fill the blank: Identify the script type",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-068-c80c47a6/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c80c47a6-fefb-4a2d-9f20-38e73053ea06",
+        "itemId": "f022c434-9964-4792-9d1d-7a703d09c89a"
+      }
+    },
+    {
+      "id": "part_exercise_7f8bb677-fafb-4336-a948-ba02ade2b4ea",
+      "title": "Build the sentence: Build the sentence",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-069-7f8bb677/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7f8bb677-fafb-4336-a948-ba02ade2b4ea",
+        "itemId": "7d54ee1d-bf5c-4187-9fa0-d3891f1f53fd"
+      }
+    },
+    {
+      "id": "part_exercise_487a960d-27da-468a-80ad-89aa7c3a9602",
+      "title": "Fill the blank: Write the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-070-487a960d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "487a960d-27da-468a-80ad-89aa7c3a9602",
+        "itemId": "4f335bcf-ca5f-4204-b244-099470803160"
+      }
+    },
+    {
+      "id": "part_exercise_fd0b7e4a-2a78-4a8e-8c2e-39e0a2ccc259",
+      "title": "Fill the blank: Identify the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-071-fd0b7e4a/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fd0b7e4a-2a78-4a8e-8c2e-39e0a2ccc259",
+        "itemId": "7b18e4ef-066a-4426-9cf5-6e7c3f1a00ae"
+      }
+    },
+    {
+      "id": "part_exercise_81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+      "title": "Fill the blank: Complete the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-072-81549e79/exercise.json"
+      },
+      "legacy": {
+        "variantId": "81549e79-62f9-4fae-b3f8-6bbc228b6f48",
+        "itemId": "3a228f93-f81c-4e1e-800d-e7afaabaed8f"
+      }
+    },
+    {
+      "id": "part_exercise_adcd0398-bddc-495e-bf63-f927ffc861ee",
+      "title": "Fill the blank: Match the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-073-adcd0398/exercise.json"
+      },
+      "legacy": {
+        "variantId": "adcd0398-bddc-495e-bf63-f927ffc861ee",
+        "itemId": "52e78cc7-77c6-4b00-97b8-c90279dc74d8"
+      }
+    },
+    {
+      "id": "part_exercise_d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+      "title": "Fill the blank: Write the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-074-d0d10a60/exercise.json"
+      },
+      "legacy": {
+        "variantId": "d0d10a60-00e0-41ff-9c1b-8b1b024adde8",
+        "itemId": "68ffe28a-1706-4c19-9196-02eea2feedcd"
+      }
+    },
+    {
+      "id": "part_exercise_13a53981-b7b4-4489-9441-c50bd9f0d467",
+      "title": "Fill the blank: Identify the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-075-13a53981/exercise.json"
+      },
+      "legacy": {
+        "variantId": "13a53981-b7b4-4489-9441-c50bd9f0d467",
+        "itemId": "01f9c9e4-918a-4b8d-b634-1c8515720dba"
+      }
+    },
+    {
+      "id": "part_exercise_4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+      "title": "Fill the blank: Complete the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-076-4bb6d470/exercise.json"
+      },
+      "legacy": {
+        "variantId": "4bb6d470-50fb-4c52-b0f1-4e7415d868fc",
+        "itemId": "a8c074a2-deb2-43bc-9e17-5baf1c302439"
+      }
+    },
+    {
+      "id": "part_exercise_a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+      "title": "Fill the blank: Match the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-077-a4089f62/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a4089f62-2a11-4f8f-9c13-3126ce74c9ab",
+        "itemId": "34e6b17e-05cc-41cb-9d90-4aea07ec4682"
+      }
+    },
+    {
+      "id": "part_exercise_af51abec-b177-4bda-a7ae-98f201524a8e",
+      "title": "Fill the blank: Write the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-078-af51abec/exercise.json"
+      },
+      "legacy": {
+        "variantId": "af51abec-b177-4bda-a7ae-98f201524a8e",
+        "itemId": "82d189c9-053d-461a-8e33-16070ce50266"
+      }
+    },
+    {
+      "id": "part_exercise_2f6c6728-1320-4761-bc1d-e328f8d0d5a7",
+      "title": "Fill the blank: Identify the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-079-2f6c6728/exercise.json"
+      },
+      "legacy": {
+        "variantId": "2f6c6728-1320-4761-bc1d-e328f8d0d5a7",
+        "itemId": "8204ae72-ee08-4ea4-b2b1-68405a9d42c8"
+      }
+    },
+    {
+      "id": "part_exercise_7a366716-bd03-4651-b19c-04fe53b382d8",
+      "title": "Fill the blank: Complete the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-080-7a366716/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7a366716-bd03-4651-b19c-04fe53b382d8",
+        "itemId": "0e34d50c-f2f2-430b-aae2-bc93cf9a4518"
+      }
+    },
+    {
+      "id": "part_exercise_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+      "title": "Fill the blank: Match the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-081-20b05a01/exercise.json"
+      },
+      "legacy": {
+        "variantId": "20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+        "itemId": "bf3672c8-9410-45b6-b838-a512831f4d0f"
+      }
+    },
+    {
+      "id": "part_exercise_a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+      "title": "Fill the blank: Write the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-082-a4545d9c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "a4545d9c-5216-4b8c-be73-5730f1a9c68b",
+        "itemId": "17d55f96-e6a3-48d0-aad1-ebcc83af6f89"
+      }
+    },
+    {
+      "id": "part_exercise_0cb20d7d-c5fc-4330-8dcd-1591be9f73bf",
+      "title": "Fill the blank: Identify the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-083-0cb20d7d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "0cb20d7d-c5fc-4330-8dcd-1591be9f73bf",
+        "itemId": "10241e9d-de3f-47d1-b0b1-0eca7f2a6100"
+      }
+    },
+    {
+      "id": "part_exercise_cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+      "title": "Fill the blank: Complete the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-084-cc4c9dc9/exercise.json"
+      },
+      "legacy": {
+        "variantId": "cc4c9dc9-26d1-40cf-9ebd-7e458e6110ae",
+        "itemId": "01e93b21-a5b3-4b5a-a17e-77b825222c78"
+      }
+    },
+    {
+      "id": "part_exercise_7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+      "title": "Fill the blank: Match the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-085-7f7a2fc4/exercise.json"
+      },
+      "legacy": {
+        "variantId": "7f7a2fc4-1fbc-4dea-82ca-5e62eff5e256",
+        "itemId": "e41f3e72-dbdb-4f52-be24-743fe3b3acce"
+      }
+    },
+    {
+      "id": "part_exercise_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+      "title": "Fill the blank: Write the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-086-12eb7f0c/exercise.json"
+      },
+      "legacy": {
+        "variantId": "12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+        "itemId": "f23eaef2-045f-4290-b175-3ee3e1ab2305"
+      }
+    },
+    {
+      "id": "part_exercise_167620aa-0b94-4406-9362-441504d02de6",
+      "title": "Fill the blank: Identify the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-087-167620aa/exercise.json"
+      },
+      "legacy": {
+        "variantId": "167620aa-0b94-4406-9362-441504d02de6",
+        "itemId": "d1ec88f7-702c-4724-8e73-4e1aec6cca0c"
+      }
+    },
+    {
+      "id": "part_exercise_3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+      "title": "Fill the blank: Complete the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-088-3ecdb4dd/exercise.json"
+      },
+      "legacy": {
+        "variantId": "3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+        "itemId": "9e29e23f-2d19-4047-ba66-3af646314a61"
+      }
+    },
+    {
+      "id": "part_exercise_4e11933d-477d-47ca-9101-8647c25ed896",
+      "title": "Fill the blank: Match the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-089-4e11933d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "4e11933d-477d-47ca-9101-8647c25ed896",
+        "itemId": "b99870b9-8d6e-4a25-8f8b-8cac5cc8ec6f"
+      }
+    },
+    {
+      "id": "part_exercise_fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+      "title": "Fill the blank: Complete the romanization.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-090-fca0001e/exercise.json"
+      },
+      "legacy": {
+        "variantId": "fca0001e-0a7a-467d-82b9-ab1fcfb752f5",
+        "itemId": "e08830fc-6a9e-4a69-99b4-edb1864d79e0"
+      }
+    },
+    {
+      "id": "part_exercise_766d9717-46c4-4f53-b71a-6025cd80e27f",
+      "title": "Fill the blank: Write the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-091-766d9717/exercise.json"
+      },
+      "legacy": {
+        "variantId": "766d9717-46c4-4f53-b71a-6025cd80e27f",
+        "itemId": "1719a5a1-78ec-4544-a838-a64f931f00bf"
+      }
+    },
+    {
+      "id": "part_exercise_71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+      "title": "Fill the blank: Identify the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-092-71d98153/exercise.json"
+      },
+      "legacy": {
+        "variantId": "71d98153-e02e-4fa7-8c61-9b495a25b0fc",
+        "itemId": "1313a21f-8319-46aa-b069-89d3b9c4f5e9"
+      }
+    },
+    {
+      "id": "part_exercise_615c77e7-e58e-410b-91e6-cbd6c9411050",
+      "title": "Fill the blank: Complete the hiragana.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-093-615c77e7/exercise.json"
+      },
+      "legacy": {
+        "variantId": "615c77e7-e58e-410b-91e6-cbd6c9411050",
+        "itemId": "4a0e848e-dcc3-4873-bc9d-24b9539dec78"
+      }
+    },
+    {
+      "id": "part_exercise_eb091b54-460a-43b4-843d-a4799c4d2b07",
+      "title": "Fill the blank: Match the sound.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-094-eb091b54/exercise.json"
+      },
+      "legacy": {
+        "variantId": "eb091b54-460a-43b4-843d-a4799c4d2b07",
+        "itemId": "026610b4-2fec-4f74-9007-6c8435135dc2"
+      }
+    },
+    {
+      "id": "part_exercise_b6949bc3-3d00-4aa7-8473-9d894e3e89e9",
+      "title": "Fill the blank: Complete the romanization.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-095-b6949bc3/exercise.json"
+      },
+      "legacy": {
+        "variantId": "b6949bc3-3d00-4aa7-8473-9d894e3e89e9",
+        "itemId": "be1d256f-e646-4201-9a19-a007a82bd960"
+      }
+    },
+    {
+      "id": "part_exercise_c111d577-1919-4c23-a47a-72dfce0a8b6b",
+      "title": "Fill the blank: Complete the definition.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-096-c111d577/exercise.json"
+      },
+      "legacy": {
+        "variantId": "c111d577-1919-4c23-a47a-72dfce0a8b6b",
+        "itemId": "428836ea-2682-4b7f-b751-ba6e027b9605"
+      }
+    },
+    {
+      "id": "part_exercise_6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+      "title": "Fill the blank: Complete the definition.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-097-6ef3651d/exercise.json"
+      },
+      "legacy": {
+        "variantId": "6ef3651d-29ea-4d1b-9837-956439b3f0d3",
+        "itemId": "11bc9950-e8b1-4e8e-966d-2a17f8328e6a"
+      }
+    },
+    {
+      "id": "part_exercise_74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+      "title": "Fill the blank: Practice 'wu'.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-098-74dc1597/exercise.json"
+      },
+      "legacy": {
+        "variantId": "74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+        "itemId": "017400ee-d80f-41a8-92fe-91b052ddaed4"
+      }
+    },
+    {
+      "id": "part_exercise_8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+      "title": "Fill the blank: Practice vowel extension.",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/exercise-099-8d9c59f4/exercise.json"
+      },
+      "legacy": {
+        "variantId": "8d9c59f4-7b7e-49d0-91ef-9b41b775d4c6",
+        "itemId": "bd766b41-69f6-4e2d-969f-3e738faf41e0"
+      }
+    }
+  ],
+  "legacy": {
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c",
+    "datasetType": "word_pair",
+    "description": null
+  }
+}

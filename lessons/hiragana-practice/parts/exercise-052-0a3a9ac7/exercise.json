@@ -1,0 +1,79 @@
+{
+  "id": "exercise_0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_077bc893-b153-495a-ab66-4aa7b0bdfa43",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'shi' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0a3a9ac7-5118-4b4a-869a-175a5d056ff1"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "し"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0a3a9ac7-5118-4b4a-869a-175a5d056ff1",
+    "type": "word_cloze"
+  }
+}

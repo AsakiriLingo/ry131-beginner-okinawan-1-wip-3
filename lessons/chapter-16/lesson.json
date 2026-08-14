@@ -1,0 +1,32 @@
+{
+  "id": "lesson_f13149f3-3d26-42ba-bf4b-9d20158a375f",
+  "title": "Chapter 16",
+  "parts": [
+    {
+      "id": "part_section_9fc47ae4-414f-4cba-8995-62a5d276ce43",
+      "title": "Lesson 16-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-9fc47ae4/document.json"
+      },
+      "legacy": {
+        "sectionId": "9fc47ae4-414f-4cba-8995-62a5d276ce43"
+      }
+    },
+    {
+      "id": "part_section_7dcfe276-830e-465e-b481-42b6c0fce224",
+      "title": "Lesson 16-2",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-02-7dcfe276/document.json"
+      },
+      "legacy": {
+        "sectionId": "7dcfe276-830e-465e-b481-42b6c0fce224"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "f13149f3-3d26-42ba-bf4b-9d20158a375f",
+    "status": "draft"
+  }
+}

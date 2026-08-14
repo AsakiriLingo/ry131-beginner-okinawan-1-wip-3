@@ -1,0 +1,111 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "曜日（よーび）[Days of the Week]",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Okinawan traditionally did not have days of the week. Therefore, most of it is loaned from Japanese.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Days of the week to memorize and do not change much across regions:",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "日曜日（にちよーび）= Sunday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "火曜日（くゎよーび）= Tuesday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Other days of the week that may depend on the region (and is still highly debated on by individual):",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "月曜日（じちよーび）= Monday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "水曜日（しーよーび）= Wednesday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "木曜日（むくよーび）= Thursday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "金曜日（ちんよーび）= Friday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "土曜日（(っ)んちゃよーび）= Saturday",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Some people might write よーび as ようび, but the pronunciation stays the same, but it's just orthography choice, since Okinawan was traditionally a spoken language.",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

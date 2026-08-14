@@ -1,0 +1,18 @@
+{
+  "id": "record_83aff736-dfe1-4dd0-af01-cf159530e07b",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うたいん"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "to sing"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "83aff736-dfe1-4dd0-af01-cf159530e07b",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

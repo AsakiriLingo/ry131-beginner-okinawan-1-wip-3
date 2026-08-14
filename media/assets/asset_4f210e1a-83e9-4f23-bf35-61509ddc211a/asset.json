@@ -1,0 +1,16 @@
+{
+  "id": "asset_4f210e1a-83e9-4f23-bf35-61509ddc211a",
+  "kind": "image",
+  "label": "Cat",
+  "availability": "ready",
+  "file": "Cat.jpg",
+  "mimeType": "image/jpeg",
+  "metadata": {
+    "provider": "Unsplash",
+    "author": "Manja Vitolic",
+    "authorUrl": "https://unsplash.com/@madhatterzone",
+    "sourceUrl": "https://unsplash.com/photos/black-and-white-cat-lying-on-brown-bamboo-chair-inside-room-gKXKBY-C-Dk",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

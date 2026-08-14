@@ -1,0 +1,79 @@
+{
+  "id": "exercise_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+  "type": "fill-blank",
+  "instruction": "Write the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f23eaef2-045f-4290-b175-3ee3e1ab2305",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'she' is written as "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "しぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "12eb7f0c-954f-4cd1-84a5-8b6c73c81f8e",
+    "type": "word_cloze"
+  }
+}

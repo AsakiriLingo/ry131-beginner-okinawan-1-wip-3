@@ -1,0 +1,77 @@
+{
+  "id": "exercise_8458634d-bfad-412a-9aa0-41c7025c05f9",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_8458634d-bfad-412a-9aa0-41c7025c05f9",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4304dbd4-9484-4a25-b133-1f2ab975c3eb",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_8458634d-bfad-412a-9aa0-41c7025c05f9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ぎ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8458634d-bfad-412a-9aa0-41c7025c05f9"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_8458634d-bfad-412a-9aa0-41c7025c05f9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8458634d-bfad-412a-9aa0-41c7025c05f9",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_9aa87a86-74ce-48d6-8f61-a1e12f07c757",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8458634d-bfad-412a-9aa0-41c7025c05f9",
+    "type": "word_cloze"
+  }
+}

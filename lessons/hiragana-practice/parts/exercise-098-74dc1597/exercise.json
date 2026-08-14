@@ -1,0 +1,79 @@
+{
+  "id": "exercise_74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+  "type": "fill-blank",
+  "instruction": "Practice 'wu'.",
+  "prompt": [
+    {
+      "id": "content_word_74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_017400ee-d80f-41a8-92fe-91b052ddaed4",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'wu' is represented by "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_74dc1597-f38f-41a5-8d5d-4f7abf70d27e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "うぅ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "74dc1597-f38f-41a5-8d5d-4f7abf70d27e",
+    "type": "word_cloze"
+  }
+}

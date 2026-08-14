@@ -1,0 +1,93 @@
+{
+  "id": "exercise_1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+  "type": "multiple-choice",
+  "instruction": "いん",
+  "prompt": [
+    {
+      "id": "prompt_1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What does いん (in) mean in English?"
+        }
+      }
+    },
+    {
+      "id": "content_word_1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_3785456a-9e57-4fc7-90b9-372f9d4eef63",
+      "body": [
+        {
+          "id": "fragment_option_3785456a-9e57-4fc7-90b9-372f9d4eef63",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_08ae645e-f7cb-4c7d-be71-7964405b43eb",
+      "body": [
+        {
+          "id": "fragment_option_08ae645e-f7cb-4c7d-be71-7964405b43eb",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "cow"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_8127afba-cc03-4fd4-83cc-c2c53f040287",
+      "body": [
+        {
+          "id": "fragment_option_8127afba-cc03-4fd4-83cc-c2c53f040287",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_3785456a-9e57-4fc7-90b9-372f9d4eef63"
+    ]
+  },
+  "legacy": {
+    "variantId": "1d9467c8-9d6e-4eaf-988e-d08e51d578dd",
+    "type": "mcq"
+  }
+}

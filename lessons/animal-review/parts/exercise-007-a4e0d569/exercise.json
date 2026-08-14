@@ -1,0 +1,95 @@
+{
+  "id": "exercise_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+  "type": "fill-blank",
+  "instruction": "いん",
+  "prompt": [
+    {
+      "id": "content_word_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bfb8a08b-3f50-45f0-886d-4ec433c9a798",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bfb8a08b-3f50-45f0-886d-4ec433c9a798",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In this lesson, the animal いん refers to a "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_a4e0d569-97eb-4b60-a624-d0cf9450cd78"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_bfb8a08b-3f50-45f0-886d-4ec433c9a798",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_5400b0cb-7504-4551-b9a2-70cfc20c7f73",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "a4e0d569-97eb-4b60-a624-d0cf9450cd78",
+    "type": "word_cloze"
+  }
+}

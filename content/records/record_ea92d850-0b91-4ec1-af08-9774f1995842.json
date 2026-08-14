@@ -1,0 +1,18 @@
+{
+  "id": "record_ea92d850-0b91-4ec1-af08-9774f1995842",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "まやー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "cat"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "ea92d850-0b91-4ec1-af08-9774f1995842",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

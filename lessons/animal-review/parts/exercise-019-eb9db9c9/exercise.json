@@ -1,0 +1,95 @@
+{
+  "id": "exercise_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+  "type": "fill-blank",
+  "instruction": "はちゃー",
+  "prompt": [
+    {
+      "id": "content_word_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fde8c2af-c532-4e65-9e73-e81acc96f642",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fde8c2af-c532-4e65-9e73-e81acc96f642",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "A 'bee' in Okinawan is called "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_eb9db9c9-d0da-4010-ab78-074c06e7b430"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_fde8c2af-c532-4e65-9e73-e81acc96f642",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_eb9db9c9-d0da-4010-ab78-074c06e7b430",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "eb9db9c9-d0da-4010-ab78-074c06e7b430",
+    "type": "word_cloze"
+  }
+}

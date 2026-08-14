@@ -1,0 +1,18 @@
+{
+  "id": "record_dc51eb0a-7449-468b-a351-fd1e6b80a13e",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うとぅげー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "lower jaw"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "dc51eb0a-7449-468b-a351-fd1e6b80a13e",
+    "exerciseGroupId": "16464b77-aaa8-4766-9769-3f33773b2bde"
+  }
+}

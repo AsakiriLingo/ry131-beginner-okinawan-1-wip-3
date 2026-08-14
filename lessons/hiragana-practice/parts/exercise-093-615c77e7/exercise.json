@@ -1,0 +1,65 @@
+{
+  "id": "exercise_615c77e7-e58e-410b-91e6-cbd6c9411050",
+  "type": "fill-blank",
+  "instruction": "Complete the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_615c77e7-e58e-410b-91e6-cbd6c9411050",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_4a0e848e-dcc3-4873-bc9d-24b9539dec78",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_615c77e7-e58e-410b-91e6-cbd6c9411050",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Write 'che' in hiragana: "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_615c77e7-e58e-410b-91e6-cbd6c9411050"
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_615c77e7-e58e-410b-91e6-cbd6c9411050",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ちぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "615c77e7-e58e-410b-91e6-cbd6c9411050",
+    "type": "word_cloze"
+  }
+}

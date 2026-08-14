@@ -1,0 +1,97 @@
+{
+  "id": "exercise_8c513664-e731-4255-90ff-bf90bd394969",
+  "type": "fill-blank",
+  "instruction": "数（かじゅ）いん",
+  "prompt": [
+    {
+      "id": "content_word_8c513664-e731-4255-90ff-bf90bd394969",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_5df6bdc6-9aab-4bed-91f7-a0ca8372e560",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8c513664-e731-4255-90ff-bf90bd394969",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_5df6bdc6-9aab-4bed-91f7-a0ca8372e560",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_8c513664-e731-4255-90ff-bf90bd394969",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The children learned to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8c513664-e731-4255-90ff-bf90bd394969"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_8c513664-e731-4255-90ff-bf90bd394969",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " from one to ten."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_8c513664-e731-4255-90ff-bf90bd394969",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_5df6bdc6-9aab-4bed-91f7-a0ca8372e560",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8c513664-e731-4255-90ff-bf90bd394969",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "count"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8c513664-e731-4255-90ff-bf90bd394969",
+    "type": "word_cloze"
+  }
+}

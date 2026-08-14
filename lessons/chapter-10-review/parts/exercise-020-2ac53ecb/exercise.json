@@ -1,0 +1,128 @@
+{
+  "id": "exercise_2ac53ecb-410f-419f-92e5-9fb6403b579f",
+  "type": "word-order",
+  "instruction": "うぅばまー",
+  "prompt": [
+    {
+      "id": "prompt_2ac53ecb-410f-419f-92e5-9fb6403b579f",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'aunt'."
+        }
+      }
+    },
+    {
+      "id": "content_word_2ac53ecb-410f-419f-92e5-9fb6403b579f",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e4ed84d7-8244-4944-bb67-51c324994be2",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_2ac53ecb-410f-419f-92e5-9fb6403b579f",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_e4ed84d7-8244-4944-bb67-51c324994be2",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_2ac53ecb-410f-419f-92e5-9fb6403b579f_1",
+      "body": [
+        {
+          "id": "fragment_token_2ac53ecb-410f-419f-92e5-9fb6403b579f_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_2ac53ecb-410f-419f-92e5-9fb6403b579f_2",
+      "body": [
+        {
+          "id": "fragment_token_2ac53ecb-410f-419f-92e5-9fb6403b579f_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_2ac53ecb-410f-419f-92e5-9fb6403b579f_3",
+      "body": [
+        {
+          "id": "fragment_token_2ac53ecb-410f-419f-92e5-9fb6403b579f_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_2ac53ecb-410f-419f-92e5-9fb6403b579f_1",
+      "body": [
+        {
+          "id": "fragment_distractor_2ac53ecb-410f-419f-92e5-9fb6403b579f_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "uncle"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_2ac53ecb-410f-419f-92e5-9fb6403b579f_2",
+      "body": [
+        {
+          "id": "fragment_distractor_2ac53ecb-410f-419f-92e5-9fb6403b579f_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "brother"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_2ac53ecb-410f-419f-92e5-9fb6403b579f_1",
+      "token_2ac53ecb-410f-419f-92e5-9fb6403b579f_2",
+      "token_2ac53ecb-410f-419f-92e5-9fb6403b579f_3"
+    ]
+  },
+  "legacy": {
+    "variantId": "2ac53ecb-410f-419f-92e5-9fb6403b579f",
+    "type": "sentence_builder"
+  }
+}

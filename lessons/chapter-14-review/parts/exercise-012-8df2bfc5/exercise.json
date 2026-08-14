@@ -1,0 +1,108 @@
+{
+  "id": "exercise_8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+  "type": "fill-blank",
+  "instruction": "鏡（かがん）",
+  "prompt": [
+    {
+      "id": "content_word_8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_44b769d9-8935-4baa-88e8-b2479103111c",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_44b769d9-8935-4baa-88e8-b2479103111c",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Before going out, she always checks her appearance in the _______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_f4541861-6acb-4cfd-aaf3-837fe26d7c20",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "television"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "book"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1",
+        "correctOptionIds": [
+          "bank_8df2bfc5-96ad-4a2f-a192-203ec4eb3371_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "8df2bfc5-96ad-4a2f-a192-203ec4eb3371",
+    "type": "multi_blank"
+  }
+}

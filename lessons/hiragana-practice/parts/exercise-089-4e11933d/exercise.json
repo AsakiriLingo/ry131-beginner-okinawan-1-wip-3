@@ -1,0 +1,79 @@
+{
+  "id": "exercise_4e11933d-477d-47ca-9101-8647c25ed896",
+  "type": "fill-blank",
+  "instruction": "Match the sound.",
+  "prompt": [
+    {
+      "id": "content_word_4e11933d-477d-47ca-9101-8647c25ed896",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b99870b9-8d6e-4a25-8f8b-8cac5cc8ec6f",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_4e11933d-477d-47ca-9101-8647c25ed896",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for しぇ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_4e11933d-477d-47ca-9101-8647c25ed896"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_4e11933d-477d-47ca-9101-8647c25ed896",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_4e11933d-477d-47ca-9101-8647c25ed896",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "she"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "4e11933d-477d-47ca-9101-8647c25ed896",
+    "type": "word_cloze"
+  }
+}

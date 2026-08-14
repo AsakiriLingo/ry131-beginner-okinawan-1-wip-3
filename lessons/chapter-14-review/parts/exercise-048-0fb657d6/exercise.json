@@ -1,0 +1,110 @@
+{
+  "id": "exercise_0fb657d6-fc03-44fc-af84-e839d29ce241",
+  "type": "fill-blank",
+  "instruction": "絡（から）みーん",
+  "prompt": [
+    {
+      "id": "content_word_0fb657d6-fc03-44fc-af84-e839d29ce241",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fae913dc-c10b-4815-a270-cb357740580e",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_0fb657d6-fc03-44fc-af84-e839d29ce241",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fae913dc-c10b-4815-a270-cb357740580e",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_0fb657d6-fc03-44fc-af84-e839d29ce241",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The police worked tirelessly to _______ the bank robbers."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "catch"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "help"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ignore"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1",
+        "correctOptionIds": [
+          "bank_0fb657d6-fc03-44fc-af84-e839d29ce241_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "0fb657d6-fc03-44fc-af84-e839d29ce241",
+    "type": "multi_blank"
+  }
+}

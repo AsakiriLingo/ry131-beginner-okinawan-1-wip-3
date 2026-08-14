@@ -1,0 +1,64 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Time III: Introduction to Generalist Time Markers and Time",
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ]
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Time in Okinawan is the exact same as Japanese. Traditionally, Okinawan never cared about precise times, so there was no clock system. There was a slightly more precise system but not as precise as now back then as well, but that is a thing for the advanced course. Therefore, if you have been taking a Japanese course or have already learned some Japanese, you should know that it is 〜時〜分。",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "Additionally when you say \"At [time/date/year]\" you add に like Japanese. Many people make the mistake of using んかい here, but that is incorrect, and it would've costed a few points off the しまくとぅば９級 exam back when it existed. That is not good for you.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "text": "e.g., 三月（さんぐゎち）に = At March etc.",
+          "type": "text"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

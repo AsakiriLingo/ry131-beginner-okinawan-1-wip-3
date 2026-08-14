@@ -1,0 +1,97 @@
+{
+  "id": "exercise_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+  "type": "fill-blank",
+  "instruction": "勝（か）ちゅん",
+  "prompt": [
+    {
+      "id": "content_word_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8873601c-8132-4386-9a61-09f697d4764b",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8873601c-8132-4386-9a61-09f697d4764b",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "They trained hard to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_48cac7ee-5d6c-47bf-b144-e6a173650dcd"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " the championship."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_8873601c-8132-4386-9a61-09f697d4764b",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "win"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "48cac7ee-5d6c-47bf-b144-e6a173650dcd",
+    "type": "word_cloze"
+  }
+}

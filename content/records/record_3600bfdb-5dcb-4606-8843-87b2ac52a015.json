@@ -1,0 +1,22 @@
+{
+  "id": "record_3600bfdb-5dcb-4606-8843-87b2ac52a015",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "しぐ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "soon/immediately"
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "しぐ 、やー(ん)かい　けーいん。"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "3600bfdb-5dcb-4606-8843-87b2ac52a015",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

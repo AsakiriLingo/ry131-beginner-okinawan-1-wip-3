@@ -1,0 +1,18 @@
+{
+  "id": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "うさじ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "rabbit"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "0f7807fe-39a1-4374-85ec-56f479fc166a",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

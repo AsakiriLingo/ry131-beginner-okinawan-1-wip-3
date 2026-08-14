@@ -1,0 +1,79 @@
+{
+  "id": "exercise_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 4",
+  "prompt": [
+    {
+      "id": "content_word_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8ed22999-2ea1-414f-826a-475e2d49b5b1",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'handle' (usually for non-weaponry use) is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いぃー"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "6e3beb2c-927d-45ed-9f0e-dd39c4c38bca",
+    "type": "word_cloze"
+  }
+}

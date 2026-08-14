@@ -1,0 +1,81 @@
+{
+  "id": "exercise_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+  "type": "fill-blank",
+  "instruction": "ぎ",
+  "prompt": [
+    {
+      "id": "content_word_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_9aa87a86-74ce-48d6-8f61-a1e12f07c757",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_9aa87a86-74ce-48d6-8f61-a1e12f07c757",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "blank",
+      "id": "blank_00dfd6a8-ce88-457d-81ff-5e89e3558f4e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (gi)"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_9aa87a86-74ce-48d6-8f61-a1e12f07c757",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_9aa87a86-74ce-48d6-8f61-a1e12f07c757",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "00dfd6a8-ce88-457d-81ff-5e89e3558f4e",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "exercise_17464082-41f4-47a3-9802-c2f530323362",
+  "type": "word-order",
+  "instruction": "うたいん",
+  "prompt": [
+    {
+      "id": "prompt_17464082-41f4-47a3-9802-c2f530323362",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'to sing'."
+        }
+      }
+    },
+    {
+      "id": "content_word_17464082-41f4-47a3-9802-c2f530323362",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a2928130-316b-4ef1-a088-6eaaf6f224f1",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_17464082-41f4-47a3-9802-c2f530323362",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a2928130-316b-4ef1-a088-6eaaf6f224f1",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_17464082-41f4-47a3-9802-c2f530323362_1",
+      "body": [
+        {
+          "id": "fragment_token_17464082-41f4-47a3-9802-c2f530323362_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_6b61055b-3c6d-4aa0-86b7-f920b1b38194",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_17464082-41f4-47a3-9802-c2f530323362_2",
+      "body": [
+        {
+          "id": "fragment_token_17464082-41f4-47a3-9802-c2f530323362_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_17464082-41f4-47a3-9802-c2f530323362_3",
+      "body": [
+        {
+          "id": "fragment_token_17464082-41f4-47a3-9802-c2f530323362_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_17464082-41f4-47a3-9802-c2f530323362_4",
+      "body": [
+        {
+          "id": "fragment_token_17464082-41f4-47a3-9802-c2f530323362_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "sing"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_17464082-41f4-47a3-9802-c2f530323362_1",
+      "body": [
+        {
+          "id": "fragment_distractor_17464082-41f4-47a3-9802-c2f530323362_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "buy"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_17464082-41f4-47a3-9802-c2f530323362_2",
+      "body": [
+        {
+          "id": "fragment_distractor_17464082-41f4-47a3-9802-c2f530323362_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fall"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_17464082-41f4-47a3-9802-c2f530323362_1",
+      "token_17464082-41f4-47a3-9802-c2f530323362_2",
+      "token_17464082-41f4-47a3-9802-c2f530323362_3",
+      "token_17464082-41f4-47a3-9802-c2f530323362_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "17464082-41f4-47a3-9802-c2f530323362",
+    "type": "sentence_builder"
+  }
+}

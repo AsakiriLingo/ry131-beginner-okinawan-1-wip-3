@@ -1,0 +1,77 @@
+{
+  "id": "exercise_31117005-6ca8-40b2-9754-b41ba412adeb",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_31117005-6ca8-40b2-9754-b41ba412adeb",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_605a8fb4-58e4-411b-a8e6-b73f260d21bb",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_31117005-6ca8-40b2-9754-b41ba412adeb",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for え is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_31117005-6ca8-40b2-9754-b41ba412adeb"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_31117005-6ca8-40b2-9754-b41ba412adeb",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_31117005-6ca8-40b2-9754-b41ba412adeb",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_324aeed7-986c-40a7-b602-ebb323e4d479",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "31117005-6ca8-40b2-9754-b41ba412adeb",
+    "type": "word_cloze"
+  }
+}

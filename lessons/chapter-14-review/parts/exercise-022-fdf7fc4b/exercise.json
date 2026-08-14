@@ -1,0 +1,97 @@
+{
+  "id": "exercise_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+  "type": "fill-blank",
+  "instruction": "数（かじゅ）いん",
+  "prompt": [
+    {
+      "id": "content_word_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a8cef478-37b5-44ce-bdf7-5f19db160117",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a8cef478-37b5-44ce-bdf7-5f19db160117",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Before playing, we need to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " the cards to make sure none are missing."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_a8cef478-37b5-44ce-bdf7-5f19db160117",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "count"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "fdf7fc4b-8f5b-41ad-b516-30b6dba433e0",
+    "type": "word_cloze"
+  }
+}

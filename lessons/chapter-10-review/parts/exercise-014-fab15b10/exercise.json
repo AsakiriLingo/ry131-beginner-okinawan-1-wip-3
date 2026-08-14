@@ -1,0 +1,91 @@
+{
+  "id": "exercise_fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+  "type": "multiple-choice",
+  "instruction": "うぅじゃさ",
+  "prompt": [
+    {
+      "id": "prompt_fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What does 'うぅじゃさ' refer to?"
+        }
+      }
+    },
+    {
+      "id": "content_word_fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bf5b4b58-ee49-4d6e-a752-5c1ca71fd1d4",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bf5b4b58-ee49-4d6e-a752-5c1ca71fd1d4",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_ee6f5df9-5ac9-48de-8c06-3e80fd648d7d",
+      "body": [
+        {
+          "id": "fragment_option_ee6f5df9-5ac9-48de-8c06-3e80fd648d7d",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_27c3f06b-64a2-49c9-9232-2c3a7d5110a2",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_276e1e99-b390-4e9f-ba7e-d1a4b035d370",
+      "body": [
+        {
+          "id": "fragment_option_276e1e99-b390-4e9f-ba7e-d1a4b035d370",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_d134c828-8d19-4a3e-b6a0-f11691bc831b",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_0ecedfc8-a7a6-4ce1-b138-408ddc98aab8",
+      "body": [
+        {
+          "id": "fragment_option_0ecedfc8-a7a6-4ce1-b138-408ddc98aab8",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_46a3b479-c487-40d0-a4a7-dce4fa04f3a9",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_ee6f5df9-5ac9-48de-8c06-3e80fd648d7d"
+    ]
+  },
+  "legacy": {
+    "variantId": "fab15b10-0c00-45fa-9cd1-ad5bd4317079",
+    "type": "mcq"
+  }
+}

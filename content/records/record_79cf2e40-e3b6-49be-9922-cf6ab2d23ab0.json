@@ -1,0 +1,18 @@
+{
+  "id": "record_79cf2e40-e3b6-49be-9922-cf6ab2d23ab0",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "はいさい"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "ciao (male)"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "79cf2e40-e3b6-49be-9922-cf6ab2d23ab0",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

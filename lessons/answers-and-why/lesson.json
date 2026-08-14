@@ -1,0 +1,21 @@
+{
+  "id": "lesson_e4051782-1bcd-4ea8-9351-13ea530bee73",
+  "title": "(応・答)いんとぅ　ぬーんちが (Answers and Why)",
+  "parts": [
+    {
+      "id": "part_section_78f02016-dc7a-4c32-8419-df27d0a30007",
+      "title": "Part 1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-78f02016/document.json"
+      },
+      "legacy": {
+        "sectionId": "78f02016-dc7a-4c32-8419-df27d0a30007"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "e4051782-1bcd-4ea8-9351-13ea530bee73",
+    "status": "draft"
+  }
+}

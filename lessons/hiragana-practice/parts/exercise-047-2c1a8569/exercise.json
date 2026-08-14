@@ -1,0 +1,79 @@
+{
+  "id": "exercise_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_6ce0f2ba-2855-4086-882b-34717953a9e2",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'u' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "う"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "2c1a8569-0cbb-43c5-bcf0-0dbd1100368e",
+    "type": "word_cloze"
+  }
+}

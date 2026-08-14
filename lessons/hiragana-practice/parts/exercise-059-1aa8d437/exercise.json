@@ -1,0 +1,77 @@
+{
+  "id": "exercise_1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_37fb7f78-6825-454e-b30a-7c6e629712bf",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for な is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_1aa8d437-9f5d-41fc-9854-ff06a73d03d6"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_8f44b4dd-8029-47c5-87a6-6c6a098a4fc4",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "1aa8d437-9f5d-41fc-9854-ff06a73d03d6",
+    "type": "word_cloze"
+  }
+}

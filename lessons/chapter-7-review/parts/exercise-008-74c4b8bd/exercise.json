@@ -1,0 +1,95 @@
+{
+  "id": "exercise_74c4b8bd-d631-4bad-83b6-e05729effa91",
+  "type": "fill-blank",
+  "instruction": "あじ",
+  "prompt": [
+    {
+      "id": "content_word_74c4b8bd-d631-4bad-83b6-e05729effa91",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_67aa1463-e720-4624-a08f-0fc8c5f3b8ae",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_74c4b8bd-d631-4bad-83b6-e05729effa91",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_67aa1463-e720-4624-a08f-0fc8c5f3b8ae",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_74c4b8bd-d631-4bad-83b6-e05729effa91",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'taste' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_74c4b8bd-d631-4bad-83b6-e05729effa91"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_74c4b8bd-d631-4bad-83b6-e05729effa91",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_74c4b8bd-d631-4bad-83b6-e05729effa91",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_67aa1463-e720-4624-a08f-0fc8c5f3b8ae",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_74c4b8bd-d631-4bad-83b6-e05729effa91",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_67aa1463-e720-4624-a08f-0fc8c5f3b8ae",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "74c4b8bd-d631-4bad-83b6-e05729effa91",
+    "type": "word_cloze"
+  }
+}

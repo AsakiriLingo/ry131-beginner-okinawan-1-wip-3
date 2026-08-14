@@ -1,0 +1,79 @@
+{
+  "id": "exercise_f283defb-f125-43ae-abc9-f1a464e1fe51",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_f283defb-f125-43ae-abc9-f1a464e1fe51",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1e570bfc-515b-40bb-8593-53ed8fca8051",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_f283defb-f125-43ae-abc9-f1a464e1fe51",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for あ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_f283defb-f125-43ae-abc9-f1a464e1fe51"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_f283defb-f125-43ae-abc9-f1a464e1fe51",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_f283defb-f125-43ae-abc9-f1a464e1fe51",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "a"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "f283defb-f125-43ae-abc9-f1a464e1fe51",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "exercise_b8a67869-6214-4afc-aae9-4d5b7afd22df",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_b8a67869-6214-4afc-aae9-4d5b7afd22df",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1fea2a21-facf-44df-a48f-0cc02b6dfada",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_b8a67869-6214-4afc-aae9-4d5b7afd22df",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'e' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_b8a67869-6214-4afc-aae9-4d5b7afd22df"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_b8a67869-6214-4afc-aae9-4d5b7afd22df",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_b8a67869-6214-4afc-aae9-4d5b7afd22df",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_324aeed7-986c-40a7-b602-ebb323e4d479",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "b8a67869-6214-4afc-aae9-4d5b7afd22df",
+    "type": "word_cloze"
+  }
+}

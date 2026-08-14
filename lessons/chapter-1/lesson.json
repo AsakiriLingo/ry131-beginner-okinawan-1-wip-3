@@ -1,0 +1,21 @@
+{
+  "id": "lesson_ad602ebd-fdac-460f-abb9-4900f50a9315",
+  "title": "Chapter 1",
+  "parts": [
+    {
+      "id": "part_section_ad72e9a0-4e97-4436-ad65-0f88a9e497dc",
+      "title": "Lesson 1-1",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/section-01-ad72e9a0/document.json"
+      },
+      "legacy": {
+        "sectionId": "ad72e9a0-4e97-4436-ad65-0f88a9e497dc"
+      }
+    }
+  ],
+  "legacy": {
+    "lessonId": "ad602ebd-fdac-460f-abb9-4900f50a9315",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "exercise_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+  "type": "fill-blank",
+  "instruction": "あらいん",
+  "prompt": [
+    {
+      "id": "content_word_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_abc5330f-21f9-42f3-89a5-84cc70b6a0a6",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_abc5330f-21f9-42f3-89a5-84cc70b6a0a6",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'to wash' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_7fd7a1be-737b-4733-bbde-9c58c5976e47"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (or あらゆん)."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_abc5330f-21f9-42f3-89a5-84cc70b6a0a6",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_7fd7a1be-737b-4733-bbde-9c58c5976e47",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_abc5330f-21f9-42f3-89a5-84cc70b6a0a6",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "あらゆん"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "7fd7a1be-737b-4733-bbde-9c58c5976e47",
+    "type": "word_cloze"
+  }
+}

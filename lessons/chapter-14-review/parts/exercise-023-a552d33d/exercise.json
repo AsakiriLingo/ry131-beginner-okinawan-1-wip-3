@@ -1,0 +1,91 @@
+{
+  "id": "exercise_a552d33d-001b-47fa-8db7-e90fafee980c",
+  "type": "multiple-choice",
+  "instruction": "勝（か）ちゅん",
+  "prompt": [
+    {
+      "id": "prompt_a552d33d-001b-47fa-8db7-e90fafee980c",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which word means 'to win'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_a552d33d-001b-47fa-8db7-e90fafee980c",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_686ecbfe-4fe0-4b0d-8d48-629974299fb4",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_a552d33d-001b-47fa-8db7-e90fafee980c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_686ecbfe-4fe0-4b0d-8d48-629974299fb4",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_d6f314a1-3832-48c3-833d-eb17223ab44a",
+      "body": [
+        {
+          "id": "fragment_option_d6f314a1-3832-48c3-833d-eb17223ab44a",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_8873601c-8132-4386-9a61-09f697d4764b",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_86019cfe-04d1-4e81-9393-be11d5a16b6b",
+      "body": [
+        {
+          "id": "fragment_option_86019cfe-04d1-4e81-9393-be11d5a16b6b",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_2f645098-0aaf-4802-bb94-8c6d92f63a36",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_fdd88020-5fbe-4af9-991d-9dd0b270baa1",
+      "body": [
+        {
+          "id": "fragment_option_fdd88020-5fbe-4af9-991d-9dd0b270baa1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_bfec4e7b-ce65-438c-804f-fcfb0a6d011d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_d6f314a1-3832-48c3-833d-eb17223ab44a"
+    ]
+  },
+  "legacy": {
+    "variantId": "a552d33d-001b-47fa-8db7-e90fafee980c",
+    "type": "mcq"
+  }
+}

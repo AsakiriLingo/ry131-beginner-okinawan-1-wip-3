@@ -1,0 +1,161 @@
+{
+  "$comment": "Converted from the legacy hosted Asakiri database into the current Studio draft layout.",
+  "format": "asakiri-example",
+  "formatVersion": "0.1-draft",
+  "project": {
+    "id": "course_d99e4b9b-f0da-4456-b94f-abc2c728d3a4",
+    "title": "RY131: Beginner Okinawan 1 (WIP, 19/30)",
+    "subtitle": "Learn basic greetings and get up to しまくとぅば9級 level (pre-2023 system). (Currently in Beta Testing)",
+    "description": "v.0.46.191",
+    "defaultLocale": "English",
+    "learningLocales": [
+      "ryu"
+    ],
+    "level": "a1",
+    "estimatedLength": "38 lessons",
+    "license": "byNcNd",
+    "copyrightHolder": "SmaugRyu",
+    "copyrightYear": "2026",
+    "coverAssetId": null,
+    "contributors": [
+      {
+        "id": "legacy_creator",
+        "name": "SmaugRyu",
+        "role": "author",
+        "links": []
+      }
+    ],
+    "funding": [],
+    "sponsors": [],
+    "taughtFlag": ""
+  },
+  "collections": [
+    "content/collections/legacy-exercise-items.json"
+  ],
+  "assets": [
+    "media/assets/asset_90901e95-07ae-4abe-9b36-da561bc5de65/asset.json",
+    "media/assets/asset_713a8550-0900-440e-83ef-c86d3a246898/asset.json",
+    "media/assets/asset_4f210e1a-83e9-4f23-bf35-61509ddc211a/asset.json"
+  ],
+  "lessons": [
+    "lessons/chapter-0/lesson.json",
+    "lessons/chapter-1/lesson.json",
+    "lessons/hiragana-practice/lesson.json",
+    "lessons/chapter-2/lesson.json",
+    "lessons/chapter-3/lesson.json",
+    "lessons/unit-final-test-for-1a/lesson.json",
+    "lessons/chapter-4/lesson.json",
+    "lessons/chapter-5/lesson.json",
+    "lessons/chapter-6/lesson.json",
+    "lessons/chapter-7/lesson.json",
+    "lessons/chapter-7-review/lesson.json",
+    "lessons/chapter-8/lesson.json",
+    "lessons/chapter-9/lesson.json",
+    "lessons/animal-review/lesson.json",
+    "lessons/chapter-10/lesson.json",
+    "lessons/chapter-10-review/lesson.json",
+    "lessons/chapter-11/lesson.json",
+    "lessons/chapter-12/lesson.json",
+    "lessons/chapter-13/lesson.json",
+    "lessons/chapter-14/lesson.json",
+    "lessons/chapter-14-review/lesson.json",
+    "lessons/chapter-15/lesson.json",
+    "lessons/chapter-16/lesson.json",
+    "lessons/chapter-17/lesson.json",
+    "lessons/chapter-18/lesson.json",
+    "lessons/chapter-19/lesson.json",
+    "lessons/temporary-chapter-19-while-the-site-is-not-working/lesson.json",
+    "lessons/chapter-20/lesson.json",
+    "lessons/chapter-21/lesson.json",
+    "lessons/chapter-22/lesson.json",
+    "lessons/chapter-23/lesson.json",
+    "lessons/chapter-24/lesson.json",
+    "lessons/chapter-25/lesson.json",
+    "lessons/structure-of-the-exam/lesson.json",
+    "lessons/listening-questions/lesson.json",
+    "lessons/reading-questions/lesson.json",
+    "lessons/answers-and-why/lesson.json",
+    "lessons/where-to-go-from-here/lesson.json"
+  ],
+  "outline": [
+    {
+      "id": "unit_8daa12bc-e193-4ea5-975d-2ca15ea6ded1",
+      "title": "Beginner Okinawan 1A (A0.0)",
+      "lessonIds": [
+        "lesson_c5ae822e-1dc9-4177-9994-d7781052f01d",
+        "lesson_ad602ebd-fdac-460f-abb9-4900f50a9315",
+        "lesson_27c4bab4-dca7-49db-947f-763b7fbe1c0c",
+        "lesson_2a80d717-f9c2-4309-a455-d27dd6ecded0",
+        "lesson_exercise_group_d65e323f-1080-4f6e-bc2e-ead33c61033c",
+        "lesson_exercise_group_d395bab7-2dae-431e-903d-655b3816a49e"
+      ]
+    },
+    {
+      "id": "unit_bd7b071a-4751-4dd6-8d89-b63772bc2e43",
+      "title": "Beginner Okinawan 1B (A0.1-0.2)",
+      "lessonIds": [
+        "lesson_cd0bb580-a801-450d-a51f-842243819416",
+        "lesson_c3dac6d2-109b-4d65-bc9e-83c888ba3ded",
+        "lesson_88bac83c-6437-4eca-a786-b03e9e342d07",
+        "lesson_11e89eb3-c281-400f-9ce5-04f356041adc",
+        "lesson_exercise_group_d3883e94-5d4a-4bb8-a284-3e2b204d2ba9",
+        "lesson_15e281e7-d73a-43db-b6c3-92865294b0f4",
+        "lesson_576bcedd-099a-47ad-9f8c-0c6dc80b12a2",
+        "lesson_exercise_group_586ac685-49f9-42d4-a6d7-ef589c16e264",
+        "lesson_75bd42f4-3ef5-49df-8acd-6b7af09bee1f",
+        "lesson_exercise_group_16464b77-aaa8-4766-9769-3f33773b2bde"
+      ]
+    },
+    {
+      "id": "unit_eb090b69-8f2d-4a1c-99c0-97d80b3545fb",
+      "title": "Beginner Okinawan 1C (A0.3-0.4)",
+      "lessonIds": [
+        "lesson_d84a4987-0ddc-4707-b21e-e1fabd2fe88a",
+        "lesson_0d30812d-30d9-4e0e-a9a4-e5b257e29aaf",
+        "lesson_dbb24590-d76a-42a1-af61-fda933756d1a",
+        "lesson_13ece22a-429c-416a-a34b-5ad947c01c49",
+        "lesson_exercise_group_53cdaaac-b4d4-4b45-aa23-d3a3983309d3",
+        "lesson_353b42aa-e070-4d80-b942-2cc23148c830",
+        "lesson_f13149f3-3d26-42ba-bf4b-9d20158a375f",
+        "lesson_b40306ef-9601-44ad-b418-f8ba3bc68018"
+      ]
+    },
+    {
+      "id": "unit_e4cfc33d-538a-436e-9cf8-e97ecbecbeb6",
+      "title": "Beginner Okinawan 1D (A0.5-0.6)",
+      "lessonIds": [
+        "lesson_7fcb82f7-8e13-49b1-81e2-907cc5d16466",
+        "lesson_fe0fffcd-5d60-4ad2-b337-b1c1769d205b",
+        "lesson_ccf9b26f-cdcf-4344-be67-f27f6d1978e3",
+        "lesson_71be9fca-800c-49c2-9cdb-cf9aef5288bb",
+        "lesson_e40ce4fb-b8b6-4751-9334-c374777ac154",
+        "lesson_09ad42cc-b2a1-4061-8661-54bfbd0c160b",
+        "lesson_aa6d3f2f-06a9-408a-b431-b095e961fedf",
+        "lesson_17ccd9bc-4395-4a4f-82ab-18d360e92181",
+        "lesson_a8e529b6-0fc6-4540-80a5-c4717f019efd"
+      ]
+    },
+    {
+      "id": "unit_168f2e85-6c4f-48c7-84cf-b34cab2b6422",
+      "title": "Final Exam Group（based on しまくとぅば9級）",
+      "lessonIds": [
+        "lesson_2800be9d-9ac0-4f18-83c2-fdcc6923d845",
+        "lesson_635aee50-06f6-42e7-89dd-62453630676b",
+        "lesson_58206dd5-3e9e-402f-9902-236a91762870",
+        "lesson_e4051782-1bcd-4ea8-9351-13ea530bee73",
+        "lesson_8e9cf336-c31b-4f21-8044-5738feda607f"
+      ]
+    }
+  ],
+  "legacy": {
+    "source": "legacy-postgresql-published-course",
+    "courseId": "d99e4b9b-f0da-4456-b94f-abc2c728d3a4",
+    "publicationId": "58604196-6132-47ab-9063-c57d70b6cedc",
+    "publicationSlug": "ry131-beginner-okinawan-1-wip-3-d99e4b9b-v1",
+    "publicationVersion": 2,
+    "wasListed": true,
+    "sourceLanguage": "English",
+    "targetLanguage": "Okinawan",
+    "coverImageUrl": "https://zhcwitdegcputotjhgbm.supabase.co/storage/v1/object/public/course-images/e558539f-f514-4d29-9d05-d1c736b1b188/d99e4b9b-f0da-4456-b94f-abc2c728d3a4-1762557888424.png"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "exercise_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+  "type": "fill-blank",
+  "instruction": "あんら",
+  "prompt": [
+    {
+      "id": "content_word_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b7da7866-37c6-4ebe-a81c-83365a650389",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b7da7866-37c6-4ebe-a81c-83365a650389",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'oil' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_1152a353-3de0-44ce-a2b5-d528b6d4e8b9"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (or あんだ)."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_b7da7866-37c6-4ebe-a81c-83365a650389",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_b7da7866-37c6-4ebe-a81c-83365a650389",
+                "fieldId": "field_word"
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "あんだ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "1152a353-3de0-44ce-a2b5-d528b6d4e8b9",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "image",
+      "attrs": {
+        "src": "Cat.jpg",
+        "alt": "Cat",
+        "title": null,
+        "width": null,
+        "height": null,
+        "assetId": "asset_4f210e1a-83e9-4f23-bf35-61509ddc211a"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "This course is designed to go beyond the beginner stages of grammar and into the intermediate range. Please avoid skipping lessons. I "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "have"
+        },
+        {
+          "type": "text",
+          "text": " specifically designed this course so you can confidently get to my end goal level."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "I grew up in the central part of Okinawa for many years of my childhood. Though to be fair, Central Okinawan refers to Central and Southern Okinawan or Okinawan for short. I was picked on during my early childhood because I couldn't pick up the Okinawan language quickly. I swore to someday go beyond the average Okinawan language native speaker in Okinawa. While sure, I am native as well, it's a little bit different that people learning with just one or two languages from their pre-school days. I had to learn three: Okinawan, English, and Japanese, although now I am learning even more languages out of pure curiosity and prevention of language barriers."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "By the age of 16.5, I was able to confidently say that my Okinawan language skills were above the average native speaker. By the age of 17 (almost 18), I published my first research paper on the Japonic language family, more specifically on the vocabulary comparison between Okinawan and Japanese. Additionally, I am also the head contributor/creator of the Duostories Okinawan language course."
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "When I was 18, I worked on Duostories Okinawan and completed the Okinawan Intermediate 1 on Asakiri."
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    }
+  ]
+}

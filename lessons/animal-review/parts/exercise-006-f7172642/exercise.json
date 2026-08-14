@@ -1,0 +1,95 @@
+{
+  "id": "exercise_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+  "type": "fill-blank",
+  "instruction": "あーけーじゅ",
+  "prompt": [
+    {
+      "id": "content_word_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_89deabc0-68b2-47a2-a445-2f6a6a709fb8",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_89deabc0-68b2-47a2-a445-2f6a6a709fb8",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The word あーけーじゅ means "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_f7172642-a24f-48d2-b5ea-51ecef2faceb"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_89deabc0-68b2-47a2-a445-2f6a6a709fb8",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_f7172642-a24f-48d2-b5ea-51ecef2faceb",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "f7172642-a24f-48d2-b5ea-51ecef2faceb",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "record_a4f72679-6103-4bf1-b4d0-74387641fb01",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "そ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "so"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "a4f72679-6103-4bf1-b4d0-74387641fb01",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

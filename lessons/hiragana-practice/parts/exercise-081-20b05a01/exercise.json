@@ -1,0 +1,79 @@
+{
+  "id": "exercise_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+  "type": "fill-blank",
+  "instruction": "Match the sound.",
+  "prompt": [
+    {
+      "id": "content_word_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_bf3672c8-9410-45b6-b838-a512831f4d0f",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for くゎ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "kwa"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "20b05a01-d9bd-4ef5-9d2d-49c2c0e9765c",
+    "type": "word_cloze"
+  }
+}

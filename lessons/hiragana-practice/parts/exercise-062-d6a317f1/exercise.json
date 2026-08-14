@@ -1,0 +1,77 @@
+{
+  "id": "exercise_d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a5a815f2-6b4a-461d-8c82-bbcd0e2f66d2",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ら is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_d6a317f1-61b5-4b1c-9f71-5edd906f3b23"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_c777ae16-6dc3-44de-934e-0b11b17be807",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "d6a317f1-61b5-4b1c-9f71-5edd906f3b23",
+    "type": "word_cloze"
+  }
+}

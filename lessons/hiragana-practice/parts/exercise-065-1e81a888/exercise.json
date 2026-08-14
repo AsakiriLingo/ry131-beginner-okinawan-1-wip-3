@@ -1,0 +1,79 @@
+{
+  "id": "exercise_1e81a888-a046-402d-a9a8-a01ee7eabadd",
+  "type": "fill-blank",
+  "instruction": "Write the Hiragana",
+  "prompt": [
+    {
+      "id": "content_word_1e81a888-a046-402d-a9a8-a01ee7eabadd",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_f6eb855c-c897-4daa-bb5d-079c4caf5085",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_1e81a888-a046-402d-a9a8-a01ee7eabadd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Hiragana for 'n' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_1e81a888-a046-402d-a9a8-a01ee7eabadd"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_1e81a888-a046-402d-a9a8-a01ee7eabadd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_1e81a888-a046-402d-a9a8-a01ee7eabadd",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ん"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "1e81a888-a046-402d-a9a8-a01ee7eabadd",
+    "type": "word_cloze"
+  }
+}

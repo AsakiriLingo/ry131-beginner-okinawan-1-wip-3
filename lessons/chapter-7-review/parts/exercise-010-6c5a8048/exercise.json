@@ -1,0 +1,95 @@
+{
+  "id": "exercise_6c5a8048-a180-4906-9c8f-019159935496",
+  "type": "fill-blank",
+  "instruction": "あっちゅん",
+  "prompt": [
+    {
+      "id": "content_word_6c5a8048-a180-4906-9c8f-019159935496",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a8435524-1001-47d5-bd4b-acb0aeb5f1e0",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_6c5a8048-a180-4906-9c8f-019159935496",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a8435524-1001-47d5-bd4b-acb0aeb5f1e0",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_6c5a8048-a180-4906-9c8f-019159935496",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "To 'go and attend' a meeting in Okinawan is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_6c5a8048-a180-4906-9c8f-019159935496"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_6c5a8048-a180-4906-9c8f-019159935496",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_6c5a8048-a180-4906-9c8f-019159935496",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_a8435524-1001-47d5-bd4b-acb0aeb5f1e0",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_6c5a8048-a180-4906-9c8f-019159935496",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_935c66df-6bde-4d56-b8c4-f708ae206836",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "6c5a8048-a180-4906-9c8f-019159935496",
+    "type": "word_cloze"
+  }
+}

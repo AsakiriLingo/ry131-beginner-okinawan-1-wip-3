@@ -1,0 +1,18 @@
+{
+  "id": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "はちゃー"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "bee"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "73dae974-a984-45fb-9dd0-6c95d635d01d",
+    "exerciseGroupId": "586ac685-49f9-42d4-a6d7-ef589c16e264"
+  }
+}

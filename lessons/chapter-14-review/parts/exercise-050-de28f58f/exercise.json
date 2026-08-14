@@ -1,0 +1,95 @@
+{
+  "id": "exercise_de28f58f-ada0-4447-8492-15893aa22947",
+  "type": "multiple-choice",
+  "instruction": "おーいん",
+  "prompt": [
+    {
+      "id": "prompt_de28f58f-ada0-4447-8492-15893aa22947",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Which of these words means 'to fight'?"
+        }
+      }
+    },
+    {
+      "id": "content_word_de28f58f-ada0-4447-8492-15893aa22947",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dca7bda7-9366-4dca-a01e-066f23b71e73",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_de28f58f-ada0-4447-8492-15893aa22947",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_dca7bda7-9366-4dca-a01e-066f23b71e73",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_3356ff26-ee85-4a8a-adf7-d15220b73ff0",
+      "body": [
+        {
+          "id": "fragment_option_3356ff26-ee85-4a8a-adf7-d15220b73ff0",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "おーえーすん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_beb16ff3-c6b4-4e2b-98bc-86cb0efd7205",
+      "body": [
+        {
+          "id": "fragment_option_beb16ff3-c6b4-4e2b-98bc-86cb0efd7205",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_19fd7489-837d-4af6-9aa9-119ad61a16db",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_e23da81e-5e8a-4c2b-a579-a7a59f6bb261",
+      "body": [
+        {
+          "id": "fragment_option_e23da81e-5e8a-4c2b-a579-a7a59f6bb261",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "かがん"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_3356ff26-ee85-4a8a-adf7-d15220b73ff0"
+    ]
+  },
+  "legacy": {
+    "variantId": "de28f58f-ada0-4447-8492-15893aa22947",
+    "type": "mcq"
+  }
+}

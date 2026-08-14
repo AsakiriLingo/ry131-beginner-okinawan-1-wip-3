@@ -1,0 +1,22 @@
+{
+  "id": "record_7f964d71-0cb9-47a9-848f-6ccbb56f765e",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "Build the sentence: 'To go to the mark'"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": ""
+    },
+    "field_example_sentence": {
+      "kind": "text",
+      "value": "しるし (ん)かい いちゅん。"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "7f964d71-0cb9-47a9-848f-6ccbb56f765e",
+    "exerciseGroupId": "d395bab7-2dae-431e-903d-655b3816a49e"
+  }
+}

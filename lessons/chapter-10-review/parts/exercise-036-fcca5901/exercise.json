@@ -1,0 +1,164 @@
+{
+  "id": "exercise_fcca5901-8697-4001-8e99-954e0acccbce",
+  "type": "word-order",
+  "instruction": "うとぅ",
+  "prompt": [
+    {
+      "id": "prompt_fcca5901-8697-4001-8e99-954e0acccbce",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'うとぅ'."
+        }
+      }
+    },
+    {
+      "id": "content_word_fcca5901-8697-4001-8e99-954e0acccbce",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_428ebfe9-72f1-4df5-ae20-f8e931ffa463",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_fcca5901-8697-4001-8e99-954e0acccbce",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_428ebfe9-72f1-4df5-ae20-f8e931ffa463",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_fcca5901-8697-4001-8e99-954e0acccbce_1",
+      "body": [
+        {
+          "id": "fragment_token_fcca5901-8697-4001-8e99-954e0acccbce_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_55f44659-5971-4ec3-a26d-632f4dc7aa60",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fcca5901-8697-4001-8e99-954e0acccbce_2",
+      "body": [
+        {
+          "id": "fragment_token_fcca5901-8697-4001-8e99-954e0acccbce_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fcca5901-8697-4001-8e99-954e0acccbce_3",
+      "body": [
+        {
+          "id": "fragment_token_fcca5901-8697-4001-8e99-954e0acccbce_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "sound"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fcca5901-8697-4001-8e99-954e0acccbce_4",
+      "body": [
+        {
+          "id": "fragment_token_fcca5901-8697-4001-8e99-954e0acccbce_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "or"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_fcca5901-8697-4001-8e99-954e0acccbce_5",
+      "body": [
+        {
+          "id": "fragment_token_fcca5901-8697-4001-8e99-954e0acccbce_5",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "noise"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_fcca5901-8697-4001-8e99-954e0acccbce_1",
+      "body": [
+        {
+          "id": "fragment_distractor_fcca5901-8697-4001-8e99-954e0acccbce_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "jaw"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_fcca5901-8697-4001-8e99-954e0acccbce_2",
+      "body": [
+        {
+          "id": "fragment_distractor_fcca5901-8697-4001-8e99-954e0acccbce_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "drop"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_fcca5901-8697-4001-8e99-954e0acccbce_1",
+      "token_fcca5901-8697-4001-8e99-954e0acccbce_2",
+      "token_fcca5901-8697-4001-8e99-954e0acccbce_3",
+      "token_fcca5901-8697-4001-8e99-954e0acccbce_4",
+      "token_fcca5901-8697-4001-8e99-954e0acccbce_5"
+    ]
+  },
+  "legacy": {
+    "variantId": "fcca5901-8697-4001-8e99-954e0acccbce",
+    "type": "sentence_builder"
+  }
+}

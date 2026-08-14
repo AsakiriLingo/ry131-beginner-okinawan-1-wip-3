@@ -1,0 +1,142 @@
+{
+  "id": "exercise_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f",
+  "type": "word-order",
+  "instruction": "Build the sentence: 'To go to the mark'",
+  "prompt": [
+    {
+      "id": "content_word_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_7f964d71-0cb9-47a9-848f-6ccbb56f765e",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_1",
+      "body": [
+        {
+          "id": "fragment_token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_2fa0e4be-f126-4dc0-9d2c-41d73bb28d88",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_2",
+      "body": [
+        {
+          "id": "fragment_token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "んかい"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_3",
+      "body": [
+        {
+          "id": "fragment_token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "いちゅん"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_1",
+      "body": [
+        {
+          "id": "fragment_distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ちゅーん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_2",
+      "body": [
+        {
+          "id": "fragment_distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "かーら"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_3",
+      "body": [
+        {
+          "id": "fragment_distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ちゅーん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_4",
+      "body": [
+        {
+          "id": "fragment_distractor_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "かーら"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_1",
+      "token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_2",
+      "token_3bdb6c64-5157-4c4f-b4a2-42439aaffb2f_3"
+    ]
+  },
+  "legacy": {
+    "variantId": "3bdb6c64-5157-4c4f-b4a2-42439aaffb2f",
+    "type": "sentence_builder"
+  }
+}

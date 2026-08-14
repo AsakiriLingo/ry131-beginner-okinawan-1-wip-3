@@ -1,0 +1,95 @@
+{
+  "id": "exercise_175f9747-b89b-4a56-b881-e556784e7cd3",
+  "type": "fill-blank",
+  "instruction": "あかさん",
+  "prompt": [
+    {
+      "id": "content_word_175f9747-b89b-4a56-b881-e556784e7cd3",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_41fd2a43-6686-4fdf-8897-cbf1e4b095e3",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_175f9747-b89b-4a56-b881-e556784e7cd3",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_41fd2a43-6686-4fdf-8897-cbf1e4b095e3",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_175f9747-b89b-4a56-b881-e556784e7cd3",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word for 'bright' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_175f9747-b89b-4a56-b881-e556784e7cd3"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_175f9747-b89b-4a56-b881-e556784e7cd3",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_175f9747-b89b-4a56-b881-e556784e7cd3",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_41fd2a43-6686-4fdf-8897-cbf1e4b095e3",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_175f9747-b89b-4a56-b881-e556784e7cd3",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_adf7ed42-6819-44f5-ad26-2964eb3bf385",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "175f9747-b89b-4a56-b881-e556784e7cd3",
+    "type": "word_cloze"
+  }
+}

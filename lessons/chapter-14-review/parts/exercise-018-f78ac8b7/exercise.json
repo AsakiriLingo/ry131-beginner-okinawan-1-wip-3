@@ -1,0 +1,110 @@
+{
+  "id": "exercise_f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+  "type": "fill-blank",
+  "instruction": "おーいん",
+  "prompt": [
+    {
+      "id": "content_word_f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fceeda4f-d86c-42cf-a037-977aed2fa716",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_fceeda4f-d86c-42cf-a037-977aed2fa716",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "It's better to discuss than to _______ over small disagreements."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fight"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "agree"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ignore"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1",
+        "correctOptionIds": [
+          "bank_f78ac8b7-438e-4a99-b6e1-3fac8527af06_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "f78ac8b7-438e-4a99-b6e1-3fac8527af06",
+    "type": "multi_blank"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "exercise_ee743751-a881-43ca-b4bf-e3d591a0813c",
+  "type": "fill-blank",
+  "instruction": "間数（えーじゅー）",
+  "prompt": [
+    {
+      "id": "content_word_ee743751-a881-43ca-b4bf-e3d591a0813c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d3af9b1c-c149-4e79-82f0-e520f72d7ceb",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_ee743751-a881-43ca-b4bf-e3d591a0813c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_d3af9b1c-c149-4e79-82f0-e520f72d7ceb",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_ee743751-a881-43ca-b4bf-e3d591a0813c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "He considered all his teammates his _______ and fought alongside them as a true _______."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1"
+    },
+    {
+      "kind": "blank",
+      "id": "blank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fellows"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "enemies"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "strangers"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_1",
+      "body": [
+        {
+          "id": "fragment_bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "comrade"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_2",
+      "body": [
+        {
+          "id": "fragment_bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "opponent"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_3",
+      "body": [
+        {
+          "id": "fragment_bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "outsider"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1",
+        "correctOptionIds": [
+          "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank1_1"
+        ]
+      },
+      {
+        "blankId": "blank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2",
+        "correctOptionIds": [
+          "bank_ee743751-a881-43ca-b4bf-e3d591a0813c_blank2_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "ee743751-a881-43ca-b4bf-e3d591a0813c",
+    "type": "multi_blank"
+  }
+}

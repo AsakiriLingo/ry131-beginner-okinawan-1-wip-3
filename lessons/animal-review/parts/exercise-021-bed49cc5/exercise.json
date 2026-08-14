@@ -1,0 +1,142 @@
+{
+  "id": "exercise_bed49cc5-ad44-4fa6-a311-ff75573fb9a0",
+  "type": "word-order",
+  "instruction": "A beehive",
+  "prompt": [
+    {
+      "id": "content_word_bed49cc5-ad44-4fa6-a311-ff75573fb9a0",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3403ee31-189a-42be-a231-da2857b537b8",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_1",
+      "body": [
+        {
+          "id": "fragment_token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_73dae974-a984-45fb-9dd0-6c95d635d01d",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_2",
+      "body": [
+        {
+          "id": "fragment_token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ぬ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_3",
+      "body": [
+        {
+          "id": "fragment_token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "しー"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_1",
+      "body": [
+        {
+          "id": "fragment_distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "わん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_2",
+      "body": [
+        {
+          "id": "fragment_distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "っやー"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_3",
+      "body": [
+        {
+          "id": "fragment_distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "わん"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_4",
+      "body": [
+        {
+          "id": "fragment_distractor_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "っやー"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_1",
+      "token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_2",
+      "token_bed49cc5-ad44-4fa6-a311-ff75573fb9a0_3"
+    ]
+  },
+  "legacy": {
+    "variantId": "bed49cc5-ad44-4fa6-a311-ff75573fb9a0",
+    "type": "sentence_builder"
+  }
+}

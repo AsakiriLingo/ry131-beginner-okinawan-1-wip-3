@@ -1,0 +1,81 @@
+{
+  "id": "exercise_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+  "type": "fill-blank",
+  "instruction": "にゃ",
+  "prompt": [
+    {
+      "id": "content_word_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_269115b3-ba64-4460-98b0-bd9c961f9619",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_269115b3-ba64-4460-98b0-bd9c961f9619",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "blank",
+      "id": "blank_fbdbda36-31ae-4d38-ac55-afe48a37adea"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " (nya)"
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_269115b3-ba64-4460-98b0-bd9c961f9619",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_fbdbda36-31ae-4d38-ac55-afe48a37adea",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_269115b3-ba64-4460-98b0-bd9c961f9619",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "fbdbda36-31ae-4d38-ac55-afe48a37adea",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "exercise_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+  "type": "fill-blank",
+  "instruction": "かーらちゅん",
+  "prompt": [
+    {
+      "id": "content_word_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2cd02475-03e7-4506-9f8e-32fd7ac46610",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_2cd02475-03e7-4506-9f8e-32fd7ac46610",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sun helps to "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_2d0a1e74-ee1d-45a4-8183-16095c091ae7"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": " clothes quickly."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_2cd02475-03e7-4506-9f8e-32fd7ac46610",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "dry"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "2d0a1e74-ee1d-45a4-8183-16095c091ae7",
+    "type": "word_cloze"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "exercise_5d8692bb-7876-4529-891f-13c8f6007fd2",
+  "type": "word-order",
+  "instruction": "うびーん",
+  "prompt": [
+    {
+      "id": "prompt_5d8692bb-7876-4529-891f-13c8f6007fd2",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about 'to remember'."
+        }
+      }
+    },
+    {
+      "id": "content_word_5d8692bb-7876-4529-891f-13c8f6007fd2",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a83365d2-2d14-48a2-b5a9-e2d100b6cdf1",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_5d8692bb-7876-4529-891f-13c8f6007fd2",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_a83365d2-2d14-48a2-b5a9-e2d100b6cdf1",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_5d8692bb-7876-4529-891f-13c8f6007fd2_1",
+      "body": [
+        {
+          "id": "fragment_token_5d8692bb-7876-4529-891f-13c8f6007fd2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b3846245-cb35-4abf-bf25-e232ae530f9f",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_5d8692bb-7876-4529-891f-13c8f6007fd2_2",
+      "body": [
+        {
+          "id": "fragment_token_5d8692bb-7876-4529-891f-13c8f6007fd2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_5d8692bb-7876-4529-891f-13c8f6007fd2_3",
+      "body": [
+        {
+          "id": "fragment_token_5d8692bb-7876-4529-891f-13c8f6007fd2_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_5d8692bb-7876-4529-891f-13c8f6007fd2_4",
+      "body": [
+        {
+          "id": "fragment_token_5d8692bb-7876-4529-891f-13c8f6007fd2_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "remember"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_5d8692bb-7876-4529-891f-13c8f6007fd2_1",
+      "body": [
+        {
+          "id": "fragment_distractor_5d8692bb-7876-4529-891f-13c8f6007fd2_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "forget"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_5d8692bb-7876-4529-891f-13c8f6007fd2_2",
+      "body": [
+        {
+          "id": "fragment_distractor_5d8692bb-7876-4529-891f-13c8f6007fd2_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "fall"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_5d8692bb-7876-4529-891f-13c8f6007fd2_1",
+      "token_5d8692bb-7876-4529-891f-13c8f6007fd2_2",
+      "token_5d8692bb-7876-4529-891f-13c8f6007fd2_3",
+      "token_5d8692bb-7876-4529-891f-13c8f6007fd2_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "5d8692bb-7876-4529-891f-13c8f6007fd2",
+    "type": "sentence_builder"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "exercise_766d9717-46c4-4f53-b71a-6025cd80e27f",
+  "type": "fill-blank",
+  "instruction": "Write the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_766d9717-46c4-4f53-b71a-6025cd80e27f",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_1719a5a1-78ec-4544-a838-a64f931f00bf",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_766d9717-46c4-4f53-b71a-6025cd80e27f",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound 'che' is written as "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_766d9717-46c4-4f53-b71a-6025cd80e27f"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_766d9717-46c4-4f53-b71a-6025cd80e27f",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_766d9717-46c4-4f53-b71a-6025cd80e27f",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "ちぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "766d9717-46c4-4f53-b71a-6025cd80e27f",
+    "type": "word_cloze"
+  }
+}

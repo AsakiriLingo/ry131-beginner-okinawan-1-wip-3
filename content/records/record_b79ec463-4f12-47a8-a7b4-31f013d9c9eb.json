@@ -1,0 +1,18 @@
+{
+  "id": "record_b79ec463-4f12-47a8-a7b4-31f013d9c9eb",
+  "collectionId": "collection_legacy_exercise_items",
+  "fields": {
+    "field_word": {
+      "kind": "text",
+      "value": "しゃ"
+    },
+    "field_meaning": {
+      "kind": "text",
+      "value": "sha"
+    }
+  },
+  "legacy": {
+    "exerciseItemId": "b79ec463-4f12-47a8-a7b4-31f013d9c9eb",
+    "exerciseGroupId": "d65e323f-1080-4f6e-bc2e-ead33c61033c"
+  }
+}

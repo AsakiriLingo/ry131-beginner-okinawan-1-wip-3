@@ -1,0 +1,95 @@
+{
+  "id": "exercise_b205c92f-55bb-4265-8e65-29764deb2387",
+  "type": "multiple-choice",
+  "instruction": "数（かじゅ）いん",
+  "prompt": [
+    {
+      "id": "prompt_b205c92f-55bb-4265-8e65-29764deb2387",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "What is the meaning of 数（かじゅ）いん?"
+        }
+      }
+    },
+    {
+      "id": "content_word_b205c92f-55bb-4265-8e65-29764deb2387",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_50642186-1b22-4df5-8e08-7264a917e3de",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_b205c92f-55bb-4265-8e65-29764deb2387",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_50642186-1b22-4df5-8e08-7264a917e3de",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "option_8b3bb503-1c6c-4348-8d94-3be712db523a",
+      "body": [
+        {
+          "id": "fragment_option_8b3bb503-1c6c-4348-8d94-3be712db523a",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_2f645098-0aaf-4802-bb94-8c6d92f63a36",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_ad7b548a-b2c7-4247-8123-1e15c89f789a",
+      "body": [
+        {
+          "id": "fragment_option_ad7b548a-b2c7-4247-8123-1e15c89f789a",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to write"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_0a634e50-db00-4b97-959c-336046dea9b1",
+      "body": [
+        {
+          "id": "fragment_option_0a634e50-db00-4b97-959c-336046dea9b1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "to read"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "select": "one",
+    "correctOptionIds": [
+      "option_8b3bb503-1c6c-4348-8d94-3be712db523a"
+    ]
+  },
+  "legacy": {
+    "variantId": "b205c92f-55bb-4265-8e65-29764deb2387",
+    "type": "mcq"
+  }
+}

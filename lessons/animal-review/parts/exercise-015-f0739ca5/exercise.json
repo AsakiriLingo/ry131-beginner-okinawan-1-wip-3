@@ -1,0 +1,163 @@
+{
+  "id": "exercise_f0739ca5-41ea-4100-817a-15d8d42833f3",
+  "type": "word-order",
+  "instruction": "Build a sentence.",
+  "prompt": [
+    {
+      "id": "content_word_f0739ca5-41ea-4100-817a-15d8d42833f3",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3cb5506d-43ad-469d-8a4a-9effa4caac30",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_1",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "The"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_2",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "Okinawan"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_3",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "word"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_4",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "for"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_5",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_5",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "'fox'"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_6",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_6",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_7",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_7",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ちちに"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_f0739ca5-41ea-4100-817a-15d8d42833f3_8",
+      "body": [
+        {
+          "id": "fragment_token_f0739ca5-41ea-4100-817a-15d8d42833f3_8",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_1",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_2",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_3",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_4",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_5",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_6",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_7",
+      "token_f0739ca5-41ea-4100-817a-15d8d42833f3_8"
+    ]
+  },
+  "legacy": {
+    "variantId": "f0739ca5-41ea-4100-817a-15d8d42833f3",
+    "type": "sentence_builder"
+  }
+}

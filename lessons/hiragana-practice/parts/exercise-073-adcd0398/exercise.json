@@ -1,0 +1,79 @@
+{
+  "id": "exercise_adcd0398-bddc-495e-bf63-f927ffc861ee",
+  "type": "fill-blank",
+  "instruction": "Match the sound.",
+  "prompt": [
+    {
+      "id": "content_word_adcd0398-bddc-495e-bf63-f927ffc861ee",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_52e78cc7-77c6-4b00-97b8-c90279dc74d8",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_adcd0398-bddc-495e-bf63-f927ffc861ee",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ふぇ is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_adcd0398-bddc-495e-bf63-f927ffc861ee"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_adcd0398-bddc-495e-bf63-f927ffc861ee",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_adcd0398-bddc-495e-bf63-f927ffc861ee",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "fe"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "adcd0398-bddc-495e-bf63-f927ffc861ee",
+    "type": "word_cloze"
+  }
+}

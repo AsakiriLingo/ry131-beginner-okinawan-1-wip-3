@@ -1,0 +1,110 @@
+{
+  "id": "exercise_6a5337e7-4310-4621-956b-0e3adb8ad576",
+  "type": "fill-blank",
+  "instruction": "勝（か）ちゅん",
+  "prompt": [
+    {
+      "id": "content_word_6a5337e7-4310-4621-956b-0e3adb8ad576",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_876daa9f-3578-4604-8615-f9d5d11fb0a6",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_6a5337e7-4310-4621-956b-0e3adb8ad576",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_876daa9f-3578-4604-8615-f9d5d11fb0a6",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_0_6a5337e7-4310-4621-956b-0e3adb8ad576",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Every athlete dreams of being able to _______ an Olympic medal."
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1"
+    }
+  ],
+  "bank": [
+    {
+      "id": "bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_1",
+      "body": [
+        {
+          "id": "fragment_bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_1",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "win"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_2",
+      "body": [
+        {
+          "id": "fragment_bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "lose"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_3",
+      "body": [
+        {
+          "id": "fragment_bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "tie"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1",
+        "correctOptionIds": [
+          "bank_6a5337e7-4310-4621-956b-0e3adb8ad576_blank1_1"
+        ]
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "6a5337e7-4310-4621-956b-0e3adb8ad576",
+    "type": "multi_blank"
+  }
+}

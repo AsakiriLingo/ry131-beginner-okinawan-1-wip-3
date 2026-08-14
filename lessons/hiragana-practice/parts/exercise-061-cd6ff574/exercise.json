@@ -1,0 +1,77 @@
+{
+  "id": "exercise_cd6ff574-a550-4385-9037-7f94e6b63fb6",
+  "type": "fill-blank",
+  "instruction": "Identify the sound",
+  "prompt": [
+    {
+      "id": "content_word_cd6ff574-a550-4385-9037-7f94e6b63fb6",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_8a314d72-cc60-4937-aca2-e344a9eae222",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_cd6ff574-a550-4385-9037-7f94e6b63fb6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The sound for ま is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_cd6ff574-a550-4385-9037-7f94e6b63fb6"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_cd6ff574-a550-4385-9037-7f94e6b63fb6",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_cd6ff574-a550-4385-9037-7f94e6b63fb6",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_0ff7b83f-1796-4a10-b881-7f55cce2f55c",
+                "fieldId": "field_meaning"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "cd6ff574-a550-4385-9037-7f94e6b63fb6",
+    "type": "word_cloze"
+  }
+}

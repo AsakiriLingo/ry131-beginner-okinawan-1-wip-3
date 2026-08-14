@@ -1,0 +1,65 @@
+{
+  "id": "exercise_3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+  "type": "fill-blank",
+  "instruction": "Complete the hiragana.",
+  "prompt": [
+    {
+      "id": "content_word_3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_9e29e23f-2d19-4047-ba66-3af646314a61",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Write 'she' in hiragana: "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_3ecdb4dd-6c5f-4c5a-89af-53257a7e1486"
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "しぇ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "3ecdb4dd-6c5f-4c5a-89af-53257a7e1486",
+    "type": "word_cloze"
+  }
+}

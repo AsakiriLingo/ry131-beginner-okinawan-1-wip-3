@@ -1,0 +1,95 @@
+{
+  "id": "exercise_9dd22d70-8497-46f8-8db6-569d731fab0c",
+  "type": "fill-blank",
+  "instruction": "あっちゅん",
+  "prompt": [
+    {
+      "id": "content_word_9dd22d70-8497-46f8-8db6-569d731fab0c",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3969a434-8ec4-4550-bb59-df9b4b16f5c0",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_9dd22d70-8497-46f8-8db6-569d731fab0c",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_3969a434-8ec4-4550-bb59-df9b4b16f5c0",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_9dd22d70-8497-46f8-8db6-569d731fab0c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "The Okinawan word meaning 'to walk' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_9dd22d70-8497-46f8-8db6-569d731fab0c"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_9dd22d70-8497-46f8-8db6-569d731fab0c",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "translation": {
+    "id": "translation_9dd22d70-8497-46f8-8db6-569d731fab0c",
+    "role": "translation",
+    "binding": {
+      "kind": "field",
+      "recordId": "record_3969a434-8ec4-4550-bb59-df9b4b16f5c0",
+      "fieldId": "field_meaning"
+    }
+  },
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_9dd22d70-8497-46f8-8db6-569d731fab0c",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "field",
+                "recordId": "record_935c66df-6bde-4d56-b8c4-f708ae206836",
+                "fieldId": "field_word"
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "9dd22d70-8497-46f8-8db6-569d731fab0c",
+    "type": "word_cloze"
+  }
+}

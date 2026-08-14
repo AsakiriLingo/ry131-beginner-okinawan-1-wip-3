@@ -1,0 +1,88 @@
+{
+  "id": "exercise_9841d006-7cf4-467e-b4c8-4492b04caca9",
+  "type": "fill-blank",
+  "instruction": "Generated exercise 6",
+  "prompt": [
+    {
+      "id": "content_word_9841d006-7cf4-467e-b4c8-4492b04caca9",
+      "role": "primary",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_94994f11-1fd3-4a03-b689-30ac7f126a1e",
+        "fieldId": "field_word"
+      }
+    }
+  ],
+  "stem": [
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_before_9841d006-7cf4-467e-b4c8-4492b04caca9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "In Okinawan, the word for 'branch' is "
+          }
+        }
+      }
+    },
+    {
+      "kind": "blank",
+      "id": "blank_9841d006-7cf4-467e-b4c8-4492b04caca9"
+    },
+    {
+      "kind": "text",
+      "fragment": {
+        "id": "stem_after_9841d006-7cf4-467e-b4c8-4492b04caca9",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "."
+          }
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "filled-blanks",
+    "blanks": [
+      {
+        "blankId": "blank_9841d006-7cf4-467e-b4c8-4492b04caca9",
+        "accepted": {
+          "values": [
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いぃら"
+                }
+              }
+            },
+            {
+              "binding": {
+                "kind": "literal",
+                "value": {
+                  "type": "text",
+                  "text": "いぃだ"
+                }
+              }
+            }
+          ],
+          "normalize": {
+            "ignoreCase": true,
+            "ignoreWhitespace": true
+          }
+        }
+      }
+    ]
+  },
+  "legacy": {
+    "variantId": "9841d006-7cf4-467e-b4c8-4492b04caca9",
+    "type": "word_cloze"
+  }
+}

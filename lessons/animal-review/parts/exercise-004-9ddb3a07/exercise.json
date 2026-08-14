@@ -1,0 +1,173 @@
+{
+  "id": "exercise_9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+  "type": "word-order",
+  "instruction": "あーけーじゅ",
+  "prompt": [
+    {
+      "id": "prompt_9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Arrange the words to form a sentence about あーけーじゅ."
+        }
+      }
+    },
+    {
+      "id": "content_word_9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+      "role": "supporting-text",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+        "fieldId": "field_word"
+      }
+    },
+    {
+      "id": "content_meaning_9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+      "role": "translation",
+      "binding": {
+        "kind": "field",
+        "recordId": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+        "fieldId": "field_meaning"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "id": "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_1",
+      "body": [
+        {
+          "id": "fragment_token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+            "fieldId": "field_word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_2",
+      "body": [
+        {
+          "id": "fragment_token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "means"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_3",
+      "body": [
+        {
+          "id": "fragment_token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_b2e13601-64dd-4c3c-bf61-95055c27a13a",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_4",
+      "body": [
+        {
+          "id": "fragment_token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "id": "distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_1",
+      "body": [
+        {
+          "id": "fragment_distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_1",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_2",
+      "body": [
+        {
+          "id": "fragment_distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_2",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_3",
+      "body": [
+        {
+          "id": "fragment_distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_3",
+          "role": "primary",
+          "binding": {
+            "kind": "field",
+            "recordId": "record_0f7807fe-39a1-4374-85ec-56f479fc166a",
+            "fieldId": "field_meaning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_4",
+      "body": [
+        {
+          "id": "fragment_distractor_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_4",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "is"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "kind": "ordered-tokens",
+    "correctOrder": [
+      "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_1",
+      "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_2",
+      "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_3",
+      "token_9ddb3a07-b9fa-431f-867f-cb9141bb9f24_4"
+    ]
+  },
+  "legacy": {
+    "variantId": "9ddb3a07-b9fa-431f-867f-cb9141bb9f24",
+    "type": "sentence_builder"
+  }
+}

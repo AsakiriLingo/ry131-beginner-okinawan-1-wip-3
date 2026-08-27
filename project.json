@@ -9,7 +9,7 @@
     "description": "",
     "defaultLocale": "English",
     "learningLocales": [
-      "Okinawn"
+      "Okinawan"
     ],
     "level": "a1",
     "estimatedLength": "38 lessons",
@@ -65,7 +65,7 @@
     "taughtFlag": "",
     "version": "77.1",
     "releasedOn": "2026-08-27",
-    "taughtFlagAssetId": "asset_1d4408a8-225e-4786-89fc-2cb46321db61"
+    "taughtFlagAssetId": "asset_56162801-0ea0-4aa2-a895-e72cfa032acc"
   },
   "collections": [
     "content/collections/legacy-exercise-items.json"
@@ -86,7 +86,8 @@
     "media/assets/asset_031bd76c-c3e2-483b-b77f-8f319da641df/asset.json",
     "media/assets/asset_822627d0-902f-478b-b782-fd15d9823850/asset.json",
     "media/assets/asset_3366b4d8-97cf-4134-b0d0-a95eb6e4f968/asset.json",
-    "media/assets/asset_5695630f-f52b-49d2-9587-e228e8beb3ec/asset.json"
+    "media/assets/asset_5695630f-f52b-49d2-9587-e228e8beb3ec/asset.json",
+    "media/assets/asset_56162801-0ea0-4aa2-a895-e72cfa032acc/asset.json"
   ],
   "lessons": [
     "lessons/chapter-0/lesson.json",

@@ -1,0 +1,12 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "asset_56162801-0ea0-4aa2-a895-e72cfa032acc",
+  "kind": "image",
+  "label": "Flag_of_Okinawa_Prefecture",
+  "availability": "ready",
+  "file": "Flag_of_Okinawa_Prefecture.png",
+  "mimeType": "image/png",
+  "sha256": "46d14c5ab9b0b2d82454137bcacb32da1ba4e115b94ba089b6cd30221f8831f9",
+  "byteSize": 21522
+}

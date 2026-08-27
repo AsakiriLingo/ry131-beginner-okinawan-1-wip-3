@@ -3,14 +3,14 @@
   "formatVersion": 1,
   "course": {
     "id": "course_d99e4b9b-f0da-4456-b94f-abc2c728d3a4",
-    "revision": 71,
-    "version": "63.121",
-    "title": "RY131: Beginner Okinawan 1 (WIP, 19/30)",
+    "revision": 2,
+    "version": "77.1",
+    "title": "RY131: Beginner Okinawan 1 [COMPLETED]",
     "defaultLocale": "English",
     "data": {
       "name": "d99e4b9b-f0da-4456-b94f-abc2c728d3a4.akc",
-      "sha256": "4e6f82ea7d4ff18058f1285a21f214b3103f775bee31ed789ca1a602040cf055",
-      "byteSize": 1325580
+      "sha256": "082f8c549909ca6e6e8bffcb3e987238fbab7d8eaf1022d2edfc309a85ce203e",
+      "byteSize": 1339501
     }
   },
   "packs": [
@@ -20,9 +20,9 @@
       "byteSize": 13638
     },
     {
-      "name": "unit-f55d-10f6789d.akp",
-      "sha256": "10f6789dbbc58b53cd5851dc8879846594389918d6490e8c9de502346850f205",
-      "byteSize": 925316
+      "name": "unit-f55d-cc1bd32b.akp",
+      "sha256": "cc1bd32bf9de1fbb746539c4beaef6b067e740e5a05200cb9505e42286f6df7b",
+      "byteSize": 3435988
     },
     {
       "name": "common-17da278d.akp",
@@ -38,19 +38,82 @@
       "mime": "image/jpeg",
       "byteSize": 13412
     },
-    "7eb86d47d6644ee99df5c576c5ad93f7ce0b5e8b10e61d6b4f0140eeaeec3ad0": {
-      "pack": "unit-f55d-10f6789d.akp",
+    "2224809d640b318e732c1348fc528391cb03ca5d32007d270c3256265ac64fd4": {
+      "pack": "unit-f55d-cc1bd32b.akp",
       "offset": 94,
+      "length": 213808,
+      "mime": "image/png",
+      "byteSize": 213808
+    },
+    "2e406a0078b7bd62b7be19cc4fa1c640fdd056d7420d9a8112ba432e624e423b": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 213996,
+      "length": 308453,
+      "mime": "audio/mpeg",
+      "byteSize": 308453
+    },
+    "45c32cdeb0824b58fc93a18512074e0d59d5a89a0916856062c622888a0b8496": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 522543,
+      "length": 611056,
+      "mime": "audio/mpeg",
+      "byteSize": 611056
+    },
+    "54b25defe73fc6d3b4227938829b845bb1a121a6365219bb248e5bd3acf24c2e": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 1133693,
+      "length": 146249,
+      "mime": "image/png",
+      "byteSize": 146249
+    },
+    "5abb899fbfc90e73fe6507655c7859b82b748923ca7233868672f8b7ba7abae6": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 1280036,
+      "length": 318485,
+      "mime": "audio/mpeg",
+      "byteSize": 318485
+    },
+    "5ecc694755456d9447f32be68b7558d9cea7f6a0dc35583ee968a8aa22149b26": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 1598615,
+      "length": 191715,
+      "mime": "image/png",
+      "byteSize": 191715
+    },
+    "7eb86d47d6644ee99df5c576c5ad93f7ce0b5e8b10e61d6b4f0140eeaeec3ad0": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 1790424,
       "length": 325090,
       "mime": "image/png",
       "byteSize": 325090
     },
     "80b14782cbee8fca863e5b8420206cd2f6f599c44bd2a4c31b109a2aa71fe3d4": {
-      "pack": "unit-f55d-10f6789d.akp",
-      "offset": 325278,
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 2115608,
       "length": 599796,
       "mime": "image/png",
       "byteSize": 599796
+    },
+    "c5d76ca26bdef18b23f9bccd8cf8c714c9d981f600e65f35d78d1e532c28eff1": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 2715498,
+      "length": 209816,
+      "mime": "audio/mpeg",
+      "byteSize": 209816
+    },
+    "e2a42a0452689071c113bb0e14cf41d19a1f8f01ea8e9e043149e0b6a6dfe5ec": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 2925408,
+      "length": 339383,
+      "mime": "audio/mpeg",
+      "byteSize": 339383
+    },
+    "e431154ab2564ea82efeffdb8ea87edec258072d852d22cb9ed550adfbec748b": {
+      "pack": "unit-f55d-cc1bd32b.akp",
+      "offset": 3264885,
+      "length": 169871,
+      "mime": "image/png",
+      "byteSize": 169871
     },
     "c872cdaeff896f276ae91a56b6cae7be064c10041f34dcb56c6bf66b445ceaef": {
       "pack": "common-17da278d.akp",

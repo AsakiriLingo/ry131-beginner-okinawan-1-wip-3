@@ -1,12 +1,77 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "These are some words beginning with に　ぬ　ね that are important for exam prep.",
-          "type": "text"
+          "type": "text",
+          "text": "These are some words beginning with に　ぬ　ね that are important for exam prep."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "根（にー）= root"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "根ぐい = root"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Usually the above (根ぐい) is a more casual way"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "にーさん = not tasty or distasteful"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "乗（ぬ）いん or 乗（ぬ）ゆん = to ride"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "虹（ぬーじ）= rainbow"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ねー = earthquake"
         }
       ]
     }

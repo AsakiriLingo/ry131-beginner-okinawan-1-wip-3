@@ -1,12 +1,14 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Parts of the Body",
-          "type": "text"
+          "type": "text",
+          "text": "Parts of the Body"
         },
         {
           "type": "hardBreak"
@@ -15,17 +17,24 @@
           "type": "hardBreak"
         },
         {
-          "text": "Do the 身体 wordlist part in this site: ",
-          "type": "text"
+          "type": "text",
+          "text": "Do the 身体 wordlist part in this site: "
         },
         {
-          "text": "https://shimakutuba.jp/use/wordbook/",
           "type": "text",
           "marks": [
             {
-              "type": "link"
+              "type": "link",
+              "attrs": {
+                "href": null,
+                "target": "_blank",
+                "rel": "noopener noreferrer nofollow",
+                "class": null,
+                "title": null
+              }
             }
-          ]
+          ],
+          "text": "https://shimakutuba.jp/use/wordbook/"
         },
         {
           "type": "hardBreak"
@@ -34,8 +43,8 @@
           "type": "hardBreak"
         },
         {
-          "text": "Use the visuals for translation. Since this is the Okinawan course, please look at the one in the yellow circle like this:",
-          "type": "text"
+          "type": "text",
+          "text": "Use the visuals for translation. Since this is the Okinawan course, please look at the one in the yellow circle like this:"
         }
       ]
     },
@@ -43,7 +52,15 @@
       "type": "paragraph"
     },
     {
-      "type": "image"
+      "type": "image",
+      "attrs": {
+        "src": null,
+        "alt": null,
+        "title": null,
+        "width": null,
+        "height": null,
+        "assetId": null
+      }
     },
     {
       "type": "paragraph"

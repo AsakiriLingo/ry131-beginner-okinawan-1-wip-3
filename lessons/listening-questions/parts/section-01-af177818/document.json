@@ -1,4 +1,6 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
@@ -12,6 +14,74 @@
           "text": "聞ち取い　考ー物 (Listening Questions)"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Instructions (EN): Everything from the instructions to the questions will be in English, but the audio will be in Okinawan. Start the audio immediately. There will be about 5 seconds of silence for you to look at the question. The audio will play for about 5 seconds, and there will be about 5 seconds of silence in the audio before you hear a ding, which signals the end of answering time for that question. Each question is worth 5 points."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "COPYRIGHT DISCLAIMER: The questions as mentioned in the previous part, is from the 2018 しまくとぅば9級 exam from the しまくとぅば普及センター, the audio is recorded by SmaugRyu."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Section 1: Look at the pictures below, then listen to the audio. Then, match the pictures to the order of the word you have listened to. For example, if the first word you hear matches the second picture, write the number “1” in the brackets（　）under the second image."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "However, because of the limitations of the Asakiri system, please type the number, then a comma, then a space."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "For example: “3, 1, 2” (assuming the 1st image is the 3rd word said, the 2nd image is the 1st word said, and the 3rd image is the 2nd word said in the audio)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }

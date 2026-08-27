@@ -1,10 +1,12 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "id": "lesson_aa6d3f2f-06a9-408a-b431-b095e961fedf",
   "title": "Chapter 23",
   "parts": [
     {
       "id": "part_section_701f6420-3b60-418a-b73e-af43ba31ba96",
-      "title": "Part 1",
+      "title": "Lesson 23-1",
       "content": {
         "kind": "tiptap",
         "file": "parts/section-01-701f6420/document.json"
@@ -14,14 +16,19 @@
       }
     },
     {
-      "id": "part_section_ddcd46d8-b551-45d6-99f7-0211b0e4e0c4",
-      "title": "Part 2",
+      "id": "part_114143c4-1884-49c9-8ef8-961fb3774b6a",
+      "title": "Lesson 23-2",
       "content": {
         "kind": "tiptap",
-        "file": "parts/section-02-ddcd46d8/document.json"
-      },
-      "legacy": {
-        "sectionId": "ddcd46d8-b551-45d6-99f7-0211b0e4e0c4"
+        "file": "parts/part_114143c4-1884-49c9-8ef8-961fb3774b6a/document.json"
+      }
+    },
+    {
+      "id": "part_546b16b1-2e16-4ff4-8f30-2c71ca3db0cb",
+      "title": "Lesson 23-3",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_546b16b1-2e16-4ff4-8f30-2c71ca3db0cb/document.json"
       }
     }
   ],

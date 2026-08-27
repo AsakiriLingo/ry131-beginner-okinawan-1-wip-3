@@ -1,12 +1,38 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
-      "type": "codeBlock",
+      "type": "paragraph",
       "content": [
         {
-          "text": "https://youtu.be/QiFiEgo_-Ew",
-          "type": "text"
+          "type": "text",
+          "text": "Watch the video while trying to interpret the meaning from the pictures."
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
+    },
+    {
+      "type": "youtube",
+      "attrs": {
+        "src": "https://youtu.be/QiFiEgo_-Ew",
+        "start": 0,
+        "width": 640,
+        "height": 480
+      }
+    },
+    {
+      "type": "codeBlock",
+      "attrs": {
+        "language": null
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "https://youtu.be/QiFiEgo_-Ew"
         }
       ]
     },

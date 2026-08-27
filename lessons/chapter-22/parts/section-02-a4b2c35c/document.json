@@ -1,12 +1,68 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "These are some words beginning with つ　て　と　な that are important for exam prep.",
-          "type": "text"
+          "type": "text",
+          "text": "These are some words beginning with つ　て　と　な that are important for exam prep."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "っしん = even if"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "てぃーら or てぃーだ = sun"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "とぅい = bird or chicken"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ない = fruit (of a plant)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ながさん = long (adj.)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "涙（なら or なだ）= tears"
         }
       ]
     }

@@ -1,0 +1,57 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Adjectives III"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Watch the video while trying to interpret the meaning from the pictures."
+        }
+      ]
+    },
+    {
+      "type": "youtube",
+      "attrs": {
+        "src": "https://youtu.be/tZk3Bq_ps5A",
+        "start": 0,
+        "width": 640,
+        "height": 480
+      }
+    },
+    {
+      "type": "codeBlock",
+      "attrs": {
+        "language": null
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "https://youtu.be/tZk3Bq_ps5A"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,11 +1,12 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Plants",
           "type": "text",
           "marks": [
             {
@@ -14,9 +15,97 @@
             {
               "type": "underline"
             }
-          ]
+          ],
+          "text": "Plants"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Here are some words pertaining to plants:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "うぅーじ = sugar cane"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "木（きー）= tree"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "九年母（くにぶー or くにぶ） = orange"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Note that the above can represent almost any kind of citrus fruit from lemons, mandarins, oranges, and even the famous しーくゎーさー"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ごーやー = bitter melon, bitter gourd"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "茄子（なーしび） = eggplant"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "竹（らき or だき) = bamboo"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "芋（いむ  or うむ or んむ or っんむ）= potato"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }

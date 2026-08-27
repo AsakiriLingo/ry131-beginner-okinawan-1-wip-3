@@ -1,4 +1,6 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "id": "lesson_635aee50-06f6-42e7-89dd-62453630676b",
   "title": "聞ち取い　考ー物 (Listening Questions)",
   "parts": [
@@ -11,6 +13,78 @@
       },
       "legacy": {
         "sectionId": "af177818-9b25-42d9-936e-77d2a6aba98f"
+      }
+    },
+    {
+      "id": "part_acf6289b-d178-4869-879b-2d6471617cef",
+      "title": "Part 2",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_acf6289b-d178-4869-879b-2d6471617cef/exercise.json"
+      }
+    },
+    {
+      "id": "part_cef31d88-7177-4df9-9d55-3b9180f97aba",
+      "title": "Part 3",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_cef31d88-7177-4df9-9d55-3b9180f97aba/document.json"
+      }
+    },
+    {
+      "id": "part_6568bf3d-1d1d-4a13-a2cd-6ece5975e220",
+      "title": "Part 4",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_6568bf3d-1d1d-4a13-a2cd-6ece5975e220/exercise.json"
+      }
+    },
+    {
+      "id": "part_9dd489eb-eb1f-4b6d-9273-b5c493c5dca1",
+      "title": "Part 5",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_9dd489eb-eb1f-4b6d-9273-b5c493c5dca1/exercise.json"
+      }
+    },
+    {
+      "id": "part_e6503db1-1592-4069-a8a4-c69637f4472c",
+      "title": "Part 6",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_e6503db1-1592-4069-a8a4-c69637f4472c/document.json"
+      }
+    },
+    {
+      "id": "part_128aa97d-b5a9-4656-9a9c-9831cc61caaa",
+      "title": "Part 7",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_128aa97d-b5a9-4656-9a9c-9831cc61caaa/exercise.json"
+      }
+    },
+    {
+      "id": "part_7b0509e8-1531-4108-80bd-92f668fa5e23",
+      "title": "Part 8",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_7b0509e8-1531-4108-80bd-92f668fa5e23/document.json"
+      }
+    },
+    {
+      "id": "part_59097f84-ae7a-49f8-80be-05ef09036785",
+      "title": "Part 9",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_59097f84-ae7a-49f8-80be-05ef09036785/exercise.json"
+      }
+    },
+    {
+      "id": "part_c923ad9e-8835-4625-83ba-bf4ea80d7b29",
+      "title": "Part 10",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_c923ad9e-8835-4625-83ba-bf4ea80d7b29/document.json"
       }
     }
   ],

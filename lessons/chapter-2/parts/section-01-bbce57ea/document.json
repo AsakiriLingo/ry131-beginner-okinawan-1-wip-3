@@ -1,11 +1,12 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Introduction to Greetings",
           "type": "text",
           "marks": [
             {
@@ -14,7 +15,8 @@
             {
               "type": "underline"
             }
-          ]
+          ],
+          "text": "Introduction to Greetings"
         },
         {
           "type": "hardBreak"
@@ -23,25 +25,15 @@
           "type": "hardBreak"
         },
         {
-          "text": "はいさい is \"ciao\" for male speakers",
-          "type": "text"
+          "type": "text",
+          "text": "はいさい is \"ciao\" for male speakers"
         },
         {
           "type": "hardBreak"
         },
         {
-          "text": "はいたい is \"ciao\" for female speakers",
-          "type": "text"
-        },
-        {
-          "type": "hardBreak"
-        },
-        {
-          "type": "hardBreak"
-        },
-        {
-          "text": "Note: はいさい can mean hi/hello (usually), or bye, and can be used as a greeting any time of the day (similar to the Italian \"ciao\", which is why it is used as a translation \"dag\" in Dutch also works, though not used as frequently.)",
-          "type": "text"
+          "type": "text",
+          "text": "はいたい is \"ciao\" for female speakers"
         },
         {
           "type": "hardBreak"
@@ -50,8 +42,99 @@
           "type": "hardBreak"
         },
         {
-          "text": "めんそーれー is welcome.",
-          "type": "text"
+          "type": "text",
+          "text": "Note: はいさい can mean hi/hello (usually), or bye, and can be used as a greeting any time of the day (similar to the Italian \"ciao\", which is why it is used as a translation \"dag\" in Dutch also works, though not used as frequently.)"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "hardBreak"
+        },
+        {
+          "type": "text",
+          "text": "めんそーれー is welcome."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "くゎっちーさびら is when we begin eating."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "くゎっちーさびたん is when we finish eating."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "いー / うー / んー is yes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "んーんー / うぅーうぅー is no."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "しむんろー / しむんどー is okay. The base form is しむん."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "うにげーさびら is please."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "にふぇーでーびる is thank you."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "またやーさい is see you later. The 〜さい / 〜たい ending also applies for whether the speaker is male or female."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "These are fairly common on the test, so please remember them."
         },
         {
           "type": "hardBreak"

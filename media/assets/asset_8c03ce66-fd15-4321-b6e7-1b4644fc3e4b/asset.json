@@ -1,0 +1,12 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "asset_8c03ce66-fd15-4321-b6e7-1b4644fc3e4b",
+  "kind": "audio",
+  "label": "RY131-final1",
+  "availability": "ready",
+  "file": "RY131-final1.mp3",
+  "mimeType": "audio/mpeg",
+  "sha256": "45c32cdeb0824b58fc93a18512074e0d59d5a89a0916856062c622888a0b8496",
+  "byteSize": 611056
+}

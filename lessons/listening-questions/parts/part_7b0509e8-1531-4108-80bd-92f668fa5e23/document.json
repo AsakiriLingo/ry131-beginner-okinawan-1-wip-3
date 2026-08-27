@@ -1,0 +1,21 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Section 4: The speaker will introduce their family. Please choose the correct image that describes their family. There will be no bell."
+        }
+      ]
+    }
+  ]
+}

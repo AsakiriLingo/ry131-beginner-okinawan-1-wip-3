@@ -1,14 +1,109 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Useful words beginning with ふ　へ　ほ　ま",
-          "type": "text"
+          "type": "text",
+          "text": "Useful words beginning with ふ　へ　ほ　ま"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "葉（ふぁー）= leaf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "掘（ふ）いん or 掘（ふ）ゆん = to dig"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ふーたい or ふーじら = cheek"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "袋（ふくる）= bag"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "星（ふし）= star"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ふりー or ふでぃー = lightning"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "灰（へー or ふぇー）= ash"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "鳩（ほーとぅ）= pigeon"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "まーこー　ねーらん = not tasty; (conjugation of まーさん tasty) into negative"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "まきーん or まきゆん = to lose (opposite of to win)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }

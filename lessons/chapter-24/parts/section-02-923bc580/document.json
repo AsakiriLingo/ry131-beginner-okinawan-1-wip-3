@@ -1,11 +1,12 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Quick Grammar Notes / Particles",
           "type": "text",
           "marks": [
             {
@@ -14,7 +15,747 @@
             {
               "type": "underline"
             }
+          ],
+          "text": "Quick Grammar Notes / Particles"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "や or ぬ? [Warning: Bulk Text]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "There are many ways to explain this and people could easily search up the differences between は and が in Japanese, since that’s their equivalent, but here is how this course will explain it. ぬ can also be used for possession. Vocabulary used as examples for this section should be words at this level and you should have learned."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "や is used under one of two conditions:"
+        }
+      ]
+    },
+    {
+      "type": "orderedList",
+      "attrs": {
+        "start": 1,
+        "type": null
+      },
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "It’s the topic of the sentence."
+                }
+              ]
+            },
+            {
+              "type": "orderedList",
+              "attrs": {
+                "start": 1,
+                "type": null
+              },
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NOTE! Often times, you can put something like “Regarding” or “About” in front of the noun to make it make sense."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "orderedList",
+                      "attrs": {
+                        "start": 1,
+                        "type": null
+                      },
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ex. 砂糖（さーたー）や　甘（あま）さん。"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Translation: Sugar is sweet."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "For the NOTE! you can see this sentence like: "
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ],
+                                  "text": "Regarding"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " sugar, it is sweet."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Often times, it becomes longer, there’s a 〜や〜ぬ sentence structure often times. Basically a simple sentence with two particles are often times や followed by ぬ"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ex. 　"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "underline"
+                                    }
+                                  ],
+                                  "text": "いぃー"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ],
+                                  "text": "日（ふぃー）"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "や　"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ],
+                                  "text": "あま"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    },
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ],
+                                  "text": "ぬ"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    }
+                                  ],
+                                  "text": "　すばぬ　まーさん。"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    }
+                                  ],
+                                  "text": "Translation: On a "
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    },
+                                    {
+                                      "type": "underline"
+                                    }
+                                  ],
+                                  "text": "good"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    }
+                                  ],
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    },
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ],
+                                  "text": "day"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    }
+                                  ],
+                                  "text": ", the (Okinawa) soba "
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    },
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ],
+                                  "text": "from over there"
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": "rgb(0, 0, 0)"
+                                      }
+                                    }
+                                  ],
+                                  "text": " is delicious."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "You can notice that the "
+                                },
+                                {
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "textStyle",
+                                      "attrs": {
+                                        "color": ""
+                                      }
+                                    }
+                                  ],
+                                  "text": "“"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "good day” is the topic and the first ぬ is for representing the possession “from over there” belonging to a (store) over there. The second ぬ is part of that 〜や〜ぬ sentence structure."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Also side note that while ゆたさん means good as an adjective いぃー is a prefix for that."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
           ]
+        }
+      ]
+    },
+    {
+      "type": "orderedList",
+      "attrs": {
+        "start": 1,
+        "type": null
+      },
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Contrasting things"
+                }
+              ]
+            },
+            {
+              "type": "orderedList",
+              "attrs": {
+                "start": 1,
+                "type": null
+              },
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "This is more advanced, but when you have a contraster like “(や)しが” (but), it represents a contrast."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ex. あーりー"
+                        },
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "や"
+                        },
+                        {
+                          "type": "text",
+                          "text": "　やーにんじゅ　"
+                        },
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "underline"
+                            }
+                          ],
+                          "text": "やしが"
+                        },
+                        {
+                          "type": "text",
+                          "text": "、えーまー"
+                        },
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "や"
+                        },
+                        {
+                          "type": "text",
+                          "text": "　やーにんじゅ"
+                        },
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "や"
+                        },
+                        {
+                          "type": "text",
+                          "text": "　あらん。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Translation: Ari is family, but Emma is not."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "You can see we are contrasting Ari and Emma here."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "ぬ is used under one of three conditions when it is not used to mark a possessive:"
+        }
+      ]
+    },
+    {
+      "type": "orderedList",
+      "attrs": {
+        "start": 1,
+        "type": null
+      },
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inside an adverbial phrase (e.g., if~then むし + subject + ぬ + verb + らー・さー etc., this is advanced territory, so this will be skipped over for now)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inside a dependent clause."
+                }
+              ]
+            },
+            {
+              "type": "orderedList",
+              "attrs": {
+                "start": 1,
+                "type": null
+              },
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ex. 先生（しんしー）ぬ　すむち　読（ゆ）むん。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Translation: The teacher reads a book OR (I am) reading the teacher’s book. (To clarify that it is the latter, you can put 我（わん）ねー in front of it.)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In the first situation notice that 先生（しんしー）ぬ　すむち \"Teacher (is/’s) book.” is a dependent clause because it doesn’t work like the example of 砂糖（さーたー）や　甘（あま）さん。(see や 1-1-1)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The second situation is simply just the possessive."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "For Japanese learners/speakers, you might be confused why this is the case, but when you say 先生が本を読む and 先生の本を読む, it’s about the teacher’s book that was either being read or written or both by the teacher, so it doesn’t matter too much in Okinawan."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "After a question/interrogative word"
+                }
+              ]
+            },
+            {
+              "type": "orderedList",
+              "attrs": {
+                "start": 1,
+                "type": null
+              },
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ex.誰（ たー）"
+                        },
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "text": "が"
+                        },
+                        {
+                          "type": "text",
+                          "text": "　わーりー　やいびーが？"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Translation: Who is Wally? (Which one of you is Wally?)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Note here that が is what ぬ is replaced by under specific circumstances, in this case, it’s because it’s a person (more on this in a future course). Also it is not や because "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "誰（ たー）can also mean “someone” as a sentence (not a question). In this case, you will still use が even though in English, it is not a question/interrogative word."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Do note that while や and ぬ change depending on circumstance, the exams at this level won’t test you on that. It would be nice if you revisited the earlier lessons on other particles like (ん)かい."
         }
       ]
     },

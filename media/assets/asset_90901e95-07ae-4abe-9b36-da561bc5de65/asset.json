@@ -1,8 +1,10 @@
 {
+  "availability": "ready",
+  "byteSize": 12412,
+  "file": "Hello.mp3",
   "id": "asset_90901e95-07ae-4abe-9b36-da561bc5de65",
   "kind": "audio",
   "label": "Hello",
-  "availability": "ready",
-  "file": "Hello.mp3",
-  "mimeType": "audio/mpeg"
+  "mimeType": "audio/mpeg",
+  "sha256": "a30ca4716e6ddbcaa1bc44a75884519cc8890c108c46099a545f892977ac212a"
 }

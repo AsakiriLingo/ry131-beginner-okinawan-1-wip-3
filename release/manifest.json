@@ -1,0 +1,63 @@
+{
+  "format": "asakiri-package",
+  "formatVersion": 1,
+  "course": {
+    "id": "course_d99e4b9b-f0da-4456-b94f-abc2c728d3a4",
+    "revision": 71,
+    "version": "63.121",
+    "title": "RY131: Beginner Okinawan 1 (WIP, 19/30)",
+    "defaultLocale": "English",
+    "data": {
+      "name": "d99e4b9b-f0da-4456-b94f-abc2c728d3a4.akc",
+      "sha256": "4e6f82ea7d4ff18058f1285a21f214b3103f775bee31ed789ca1a602040cf055",
+      "byteSize": 1325580
+    }
+  },
+  "packs": [
+    {
+      "name": "unit-d444-d6566cba.akp",
+      "sha256": "d6566cba3a9f516a6654bc08b187bd1b5dfd306dfe70e4a16d9a987ad78fab77",
+      "byteSize": 13638
+    },
+    {
+      "name": "unit-f55d-10f6789d.akp",
+      "sha256": "10f6789dbbc58b53cd5851dc8879846594389918d6490e8c9de502346850f205",
+      "byteSize": 925316
+    },
+    {
+      "name": "common-17da278d.akp",
+      "sha256": "17da278d4e2808aed75d7e30b0420f0aec60cf0bd0c8e0c9c9df7e133d4c69ba",
+      "byteSize": 604
+    }
+  ],
+  "assets": {
+    "30a57319a7ad10616a4d5f85ee6b08d9e7206fba8150c167b9417466baeb1de7": {
+      "pack": "unit-d444-d6566cba.akp",
+      "offset": 94,
+      "length": 13412,
+      "mime": "image/jpeg",
+      "byteSize": 13412
+    },
+    "7eb86d47d6644ee99df5c576c5ad93f7ce0b5e8b10e61d6b4f0140eeaeec3ad0": {
+      "pack": "unit-f55d-10f6789d.akp",
+      "offset": 94,
+      "length": 325090,
+      "mime": "image/png",
+      "byteSize": 325090
+    },
+    "80b14782cbee8fca863e5b8420206cd2f6f599c44bd2a4c31b109a2aa71fe3d4": {
+      "pack": "unit-f55d-10f6789d.akp",
+      "offset": 325278,
+      "length": 599796,
+      "mime": "image/png",
+      "byteSize": 599796
+    },
+    "c872cdaeff896f276ae91a56b6cae7be064c10041f34dcb56c6bf66b445ceaef": {
+      "pack": "common-17da278d.akp",
+      "offset": 94,
+      "length": 378,
+      "mime": "image/jpeg",
+      "byteSize": 378
+    }
+  }
+}

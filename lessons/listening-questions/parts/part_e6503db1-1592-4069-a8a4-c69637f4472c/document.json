@@ -1,0 +1,21 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Section 3: The speaker will talk about a person. Please choose the correct information about that person. The audio will begin playing immediately. There will be no bell."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "exercise_09fc6198-c49a-4141-8e3f-504da5beaef4",
+  "type": "listening",
+  "prompt": [
+    {
+      "id": "prompt_929fdbe5-5467-44a4-8c69-936588e89999",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Choose the correct image that describes the speaker’s family. While the teacher of this course isn’t, please assume that the speaker is a girl."
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "correctOptionIds": [
+      "option_0431ca18-9147-406a-9d6b-6ba3d9d8db05"
+    ],
+    "select": "one"
+  },
+  "stimulus": {
+    "id": "stimulus_924c8452-6bda-40a2-906d-8dc6432860b2",
+    "role": "audio",
+    "binding": {
+      "kind": "asset",
+      "assetId": "asset_efffc973-eb3b-4262-9d3b-429230563853"
+    }
+  },
+  "answerMode": "select",
+  "options": [
+    {
+      "id": "option_035c7fc8-c463-4910-b52a-5bce5f318d9f",
+      "body": [
+        {
+          "id": "frag_92867bd9-3190-465c-adad-b00b2dce6b95",
+          "role": "primary",
+          "binding": {
+            "kind": "asset",
+            "assetId": "asset_3366b4d8-97cf-4134-b0d0-a95eb6e4f968"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_0431ca18-9147-406a-9d6b-6ba3d9d8db05",
+      "body": [
+        {
+          "id": "frag_637f68e2-f009-45e6-aea9-60bfa949d98d",
+          "role": "primary",
+          "binding": {
+            "kind": "asset",
+            "assetId": "asset_031bd76c-c3e2-483b-b77f-8f319da641df"
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_c3de135d-ff30-41b6-a692-20a69ae5bf78",
+      "body": [
+        {
+          "id": "frag_f8690309-76fb-40de-8851-a68713d10756",
+          "role": "primary",
+          "binding": {
+            "kind": "asset",
+            "assetId": "asset_822627d0-902f-478b-b782-fd15d9823850"
+          }
+        }
+      ]
+    }
+  ]
+}

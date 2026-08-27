@@ -1,15 +1,15 @@
 {
   "$comment": "Converted from the legacy hosted Asakiri database into the current Studio draft layout.",
-  "format": "asakiri-example",
-  "formatVersion": "0.1-draft",
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "project": {
     "id": "course_d99e4b9b-f0da-4456-b94f-abc2c728d3a4",
-    "title": "RY131: Beginner Okinawan 1 (WIP, 19/30)",
-    "subtitle": "Learn basic greetings and get up to しまくとぅば9級 level (pre-2023 system). (Currently in Beta Testing)",
-    "description": "v.0.46.191",
+    "title": "RY131: Beginner Okinawan 1 [COMPLETED]",
+    "subtitle": "Learn basic greetings and get up to しまくとぅば9級 level (pre-2023 system). (Currently in Gamma Testing)",
+    "description": "",
     "defaultLocale": "English",
     "learningLocales": [
-      "ryu"
+      "Okinawn"
     ],
     "level": "a1",
     "estimatedLength": "38 lessons",
@@ -21,13 +21,51 @@
       {
         "id": "legacy_creator",
         "name": "SmaugRyu",
-        "role": "author",
-        "links": []
+        "role": "lead",
+        "roles": [
+          "lead",
+          "author",
+          "translator",
+          "editor",
+          "reviewer",
+          "nativeSpeaker",
+          "contributor"
+        ],
+        "links": [
+          "https://patreon.com/smaugryu"
+        ]
       }
     ],
-    "funding": [],
-    "sponsors": [],
-    "taughtFlag": ""
+    "funding": [
+      {
+        "id": "b06ad05b-bdc5-4828-a755-fe76df02fde8",
+        "platform": "patreon",
+        "url": "https://patreon.com/smaugryu"
+      },
+      {
+        "id": "8c46d59d-435b-4d1d-8733-dd38b7a9a29f",
+        "platform": "koFi",
+        "url": "https://ko-fi.com/smaugryu"
+      }
+    ],
+    "sponsors": [
+      {
+        "id": "c19c0a2e-92cb-4f06-9d4b-3d3087b156a6",
+        "name": "Asakiri",
+        "tier": "supporter",
+        "url": ""
+      },
+      {
+        "id": "9a501591-0a7a-421e-a837-7edc33f161b1",
+        "name": "SHImakutuba Innovation, Studies, Acquisition and Advancement",
+        "tier": "bronze",
+        "url": ""
+      }
+    ],
+    "taughtFlag": "",
+    "version": "77.1",
+    "releasedOn": "2026-08-27",
+    "taughtFlagAssetId": "asset_1d4408a8-225e-4786-89fc-2cb46321db61"
   },
   "collections": [
     "content/collections/legacy-exercise-items.json"
@@ -35,7 +73,20 @@
   "assets": [
     "media/assets/asset_90901e95-07ae-4abe-9b36-da561bc5de65/asset.json",
     "media/assets/asset_713a8550-0900-440e-83ef-c86d3a246898/asset.json",
-    "media/assets/asset_4f210e1a-83e9-4f23-bf35-61509ddc211a/asset.json"
+    "media/assets/asset_4f210e1a-83e9-4f23-bf35-61509ddc211a/asset.json",
+    "media/assets/asset_94d25dc3-977f-4c01-9634-d27a4f7439a1/asset.json",
+    "media/assets/asset_1d4408a8-225e-4786-89fc-2cb46321db61/asset.json",
+    "media/assets/asset_795ec508-0ceb-4898-8db3-64ce139b427d/asset.json",
+    "media/assets/asset_a62c21e8-9fb9-40f0-b124-10336e2bc6e2/asset.json",
+    "media/assets/asset_efffc973-eb3b-4262-9d3b-429230563853/asset.json",
+    "media/assets/asset_ab1efe6c-8b8d-464b-b251-10d4623c725e/asset.json",
+    "media/assets/asset_2441b889-2e82-4334-a8b4-6b528a582106/asset.json",
+    "media/assets/asset_1a6029f5-5c4f-4d17-a33e-1efde2df231c/asset.json",
+    "media/assets/asset_8c03ce66-fd15-4321-b6e7-1b4644fc3e4b/asset.json",
+    "media/assets/asset_031bd76c-c3e2-483b-b77f-8f319da641df/asset.json",
+    "media/assets/asset_822627d0-902f-478b-b782-fd15d9823850/asset.json",
+    "media/assets/asset_3366b4d8-97cf-4134-b0d0-a95eb6e4f968/asset.json",
+    "media/assets/asset_5695630f-f52b-49d2-9587-e228e8beb3ec/asset.json"
   ],
   "lessons": [
     "lessons/chapter-0/lesson.json",
@@ -63,7 +114,6 @@
     "lessons/chapter-16/lesson.json",
     "lessons/chapter-17/lesson.json",
     "lessons/chapter-18/lesson.json",
-    "lessons/chapter-19/lesson.json",
     "lessons/temporary-chapter-19-while-the-site-is-not-working/lesson.json",
     "lessons/chapter-20/lesson.json",
     "lessons/chapter-21/lesson.json",
@@ -125,7 +175,6 @@
       "title": "Beginner Okinawan 1D (A0.5-0.6)",
       "lessonIds": [
         "lesson_7fcb82f7-8e13-49b1-81e2-907cc5d16466",
-        "lesson_fe0fffcd-5d60-4ad2-b337-b1c1769d205b",
         "lesson_ccf9b26f-cdcf-4344-be67-f27f6d1978e3",
         "lesson_71be9fca-800c-49c2-9cdb-cf9aef5288bb",
         "lesson_e40ce4fb-b8b6-4751-9334-c374777ac154",

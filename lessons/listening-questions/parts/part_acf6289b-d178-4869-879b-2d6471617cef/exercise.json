@@ -1,0 +1,68 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "exercise_44349502-329c-4834-b581-7fdd5b319324",
+  "type": "listening",
+  "prompt": [
+    {
+      "id": "prompt_fab91b57-a322-437c-9873-b7fcf9e35d54",
+      "role": "primary",
+      "binding": {
+        "kind": "asset",
+        "assetId": "asset_a62c21e8-9fb9-40f0-b124-10336e2bc6e2"
+      }
+    }
+  ],
+  "feedback": {
+    "correct": [
+      {
+        "id": "frag_af593026-b5b7-4244-a4da-a082069f05dd",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "うー！"
+          }
+        }
+      }
+    ],
+    "incorrect": [
+      {
+        "id": "frag_153b567c-8843-4f77-b1ac-1ef2a85b7301",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Please review the materials in this course."
+          }
+        }
+      }
+    ]
+  },
+  "evaluation": {
+    "kind": "typed-answer",
+    "accepted": [
+      {
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "2, 1, 3"
+          }
+        }
+      }
+    ]
+  },
+  "stimulus": {
+    "id": "stimulus_03309b97-fff4-466c-9aa7-5008f0338f0a",
+    "role": "audio",
+    "binding": {
+      "kind": "asset",
+      "assetId": "asset_8c03ce66-fd15-4321-b6e7-1b4644fc3e4b"
+    }
+  },
+  "answerMode": "type",
+  "options": []
+}

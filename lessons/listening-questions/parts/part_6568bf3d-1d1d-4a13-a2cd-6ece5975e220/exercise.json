@@ -1,0 +1,113 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "exercise_d395aab7-2432-46e2-a492-c6f292c313a2",
+  "type": "listening",
+  "prompt": [
+    {
+      "id": "prompt_3cc257cb-b707-43b1-a936-4b0c08129f30",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Listen to the speaker. Choose the correct response before the bell rings."
+        }
+      }
+    }
+  ],
+  "feedback": {
+    "correct": [
+      {
+        "id": "frag_0f104a72-1b1d-4efa-a1e4-d94642002152",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "うー！"
+          }
+        }
+      }
+    ],
+    "incorrect": [
+      {
+        "id": "frag_620c7614-6c6c-499c-b372-b7a4dbff6a79",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Please review the course material"
+          }
+        }
+      }
+    ]
+  },
+  "evaluation": {
+    "kind": "selected-options",
+    "correctOptionIds": [
+      "option_5bb4a15b-b28c-454a-8ff1-451e78c6744b"
+    ],
+    "select": "one"
+  },
+  "stimulus": {
+    "id": "stimulus_4b37a1da-e812-4435-9a1c-88f2371a186e",
+    "role": "audio",
+    "binding": {
+      "kind": "asset",
+      "assetId": "asset_1a6029f5-5c4f-4d17-a33e-1efde2df231c"
+    }
+  },
+  "answerMode": "select",
+  "options": [
+    {
+      "id": "option_85e4e5dc-876d-4069-b7c3-3f29f71ecfa3",
+      "body": [
+        {
+          "id": "frag_0e35f8e2-fb7e-48f4-83e4-af03905f18b7",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ゆたさんやー。"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_d2ce9074-19f5-4fc0-815b-e3882ff1819e",
+      "body": [
+        {
+          "id": "frag_4571be19-3524-47dd-8658-04b3abf69ceb",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "いちゃびら。"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_5bb4a15b-b28c-454a-8ff1-451e78c6744b",
+      "body": [
+        {
+          "id": "frag_1647f986-a150-48d8-a668-99d1e005d0eb",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "くゎっちー　さびら。"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,16 +1,15 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "id": "lesson_a8e529b6-0fc6-4540-80a5-c4717f019efd",
   "title": "Chapter 25",
   "parts": [
     {
-      "id": "part_section_5d3a0311-ffec-48ee-9063-a57419d5cdc3",
+      "id": "part_cde15570-7c27-4904-a0b3-caeaa6d73b63",
       "title": "Lesson 25-1",
       "content": {
         "kind": "tiptap",
-        "file": "parts/section-01-5d3a0311/document.json"
-      },
-      "legacy": {
-        "sectionId": "5d3a0311-ffec-48ee-9063-a57419d5cdc3"
+        "file": "parts/part_cde15570-7c27-4904-a0b3-caeaa6d73b63/document.json"
       }
     },
     {

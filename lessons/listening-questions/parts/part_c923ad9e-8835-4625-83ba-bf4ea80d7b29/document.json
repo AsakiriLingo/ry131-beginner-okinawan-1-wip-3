@@ -1,0 +1,22 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "End of Listening Section"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}

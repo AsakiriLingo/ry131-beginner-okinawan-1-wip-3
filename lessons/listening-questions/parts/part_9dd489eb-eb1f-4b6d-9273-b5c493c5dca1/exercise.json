@@ -1,0 +1,96 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "exercise_cc390a01-249e-441a-96d5-d7f746faaa80",
+  "type": "listening",
+  "prompt": [
+    {
+      "id": "prompt_9a6255f6-1212-4dc9-8c9f-a79c6ff9d214",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Listen to the speaker. Choose the correct response before the bell rings."
+        }
+      }
+    }
+  ],
+  "evaluation": {
+    "kind": "selected-options",
+    "correctOptionIds": [
+      "option_c0e6205a-e1ae-4c53-985c-145f2645f114"
+    ],
+    "select": "one"
+  },
+  "stimulus": {
+    "id": "stimulus_bd4bb41a-1f54-4294-8c0e-39ce4c5d7820",
+    "role": "audio",
+    "binding": {
+      "kind": "asset",
+      "assetId": "asset_2441b889-2e82-4334-a8b4-6b528a582106"
+    }
+  },
+  "answerMode": "select",
+  "options": [
+    {
+      "id": "option_c0e6205a-e1ae-4c53-985c-145f2645f114",
+      "body": [
+        {
+          "id": "frag_cb7e3318-3245-42b6-8c63-079a965ad93a",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "いー。しむんろー。"
+            }
+          }
+        },
+        {
+          "id": "frag_c6df7bbf-4608-4b6d-a022-f4dc760fccfd",
+          "role": "supporting",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "(or いー。しむんどー。)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_70387b0e-66a3-4a8a-a8f3-44242f7029ce",
+      "body": [
+        {
+          "id": "frag_1fd450d1-3cda-4279-bb7f-9afb4fbde8ed",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "いー。まじゅーん　あしばな。"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_3c578f4a-4104-427c-a76e-9ef4f8e35840",
+      "body": [
+        {
+          "id": "frag_443fa476-df68-4770-ac8b-021f62f74fd3",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "うー。うにげーさびら。"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

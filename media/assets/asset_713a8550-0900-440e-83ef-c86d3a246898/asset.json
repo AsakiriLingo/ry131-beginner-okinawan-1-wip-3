@@ -1,15 +1,17 @@
 {
+  "availability": "ready",
+  "byteSize": 22174,
+  "file": "tatoeba-eng-12291880.mp3",
   "id": "asset_713a8550-0900-440e-83ef-c86d3a246898",
   "kind": "audio",
   "label": "tatoeba-eng-12291880",
-  "availability": "ready",
-  "file": "tatoeba-eng-12291880.mp3",
-  "mimeType": "audio/mpeg",
   "metadata": {
-    "provider": "Tatoeba",
     "author": "CK",
-    "sourceUrl": "https://tatoeba.org/en/sentences/show/12291880",
     "license": "CC BY 2.0 FR",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
-  }
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "provider": "Tatoeba",
+    "sourceUrl": "https://tatoeba.org/en/sentences/show/12291880"
+  },
+  "mimeType": "audio/mpeg",
+  "sha256": "69375b1feb8d8b5478ad83d611499ff3bfe23cd36b444b90c04561a67f0afd5f"
 }

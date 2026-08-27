@@ -1,4 +1,6 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
@@ -12,6 +14,94 @@
           "text": "Structure of the Exam"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "The exam will have listening and reading sections."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "The combined score is out of 100."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "60 is a pass."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "The answers are at the end. Please grade yourself and be honest."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "The questions are taken from the 2018 しまくとぅば検定9級 exam."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "The exam will fully be in hiragana."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "DISCLAIMER: This will be in the intonation of the Shuri Dialect, which is unfortunately considered the standard, though this is not the teacher’s main dialect, so it might come out slightly wonky."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Another thing for advanced learners who are just taking this for fun, while the particle や has its own inflections, but the official exam at this level does not distinguish the inflections of this particle, so they will all be in や as it is beyond the scope of this course."
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }

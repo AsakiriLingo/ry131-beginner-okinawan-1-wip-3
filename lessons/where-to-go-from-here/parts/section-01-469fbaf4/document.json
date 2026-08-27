@@ -1,4 +1,6 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 1,
   "type": "doc",
   "content": [
     {
@@ -12,6 +14,36 @@
           "text": "Where to go from here"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Path 1: You could continue onto the Beginner Part 2 and 3 [CEFR approx. A1] once that is done. That plus this course is about ~1600 words. From there, there is Pre-Intermediate 1 and 2 [CEFR approx. A2], which are about ~2400 words, followed by Intermediate 1 and 2 [approx. B1] and Advanced [approx. B1/B2 border], which focus mostly on grammar, while learning vocabulary would be on your own (ideally an additionally 2000-4000 by the end of Intermediate 2, and an additional 5000 by the end of Advanced)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Path 2: I would highly suggest continuing to build up your vocabulary to about ~2000 words and then from there start watching videos and searching them up online to understand the meaning. A little bit of Japanese knowledge along the way won’t hurt for searching up some things."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hope you had fun learning and またやーさい！"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }

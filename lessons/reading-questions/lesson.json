@@ -1,4 +1,6 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 1,
   "id": "lesson_58206dd5-3e9e-402f-9902-236a91762870",
   "title": "読み応い　考ー物 (Reading Questions)",
   "parts": [
@@ -7,10 +9,44 @@
       "title": "Part 1",
       "content": {
         "kind": "tiptap",
-        "file": "parts/section-01-26e35205/document.json"
+        "file": "parts/section-01-26e35205/document.json",
+        "title": "読み応い　考ー物 (Reading Questions)"
       },
       "legacy": {
         "sectionId": "26e35205-c6a2-4584-a6e0-07b174057101"
+      }
+    },
+    {
+      "id": "part_6806ddda-23ae-4b8e-8774-8d73a1ce453e",
+      "title": "Part 2",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_6806ddda-23ae-4b8e-8774-8d73a1ce453e/exercise.json"
+      }
+    },
+    {
+      "id": "part_b8e14aeb-c7b0-4fa4-93d6-c4b404d13033",
+      "title": "Part 3",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_b8e14aeb-c7b0-4fa4-93d6-c4b404d13033/exercise.json"
+      }
+    },
+    {
+      "id": "part_76ddfdd6-a37f-4da9-86f2-dcf7d6633482",
+      "title": "Part 4",
+      "content": {
+        "kind": "exercise",
+        "file": "parts/part_76ddfdd6-a37f-4da9-86f2-dcf7d6633482/exercise.json"
+      }
+    },
+    {
+      "id": "part_61451826-fef9-4916-872f-c6c20e28b9f7",
+      "title": "Part 5",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_61451826-fef9-4916-872f-c6c20e28b9f7/document.json",
+        "title": "読み応い　考ー物 (Reading Questions)"
       }
     }
   ],

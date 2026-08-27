@@ -1,12 +1,14 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Here are the video links while it is not working:",
-          "type": "text"
+          "type": "text",
+          "text": "Watch the video while trying to interpret the meaning from the pictures."
         },
         {
           "type": "hardBreak"
@@ -14,11 +16,23 @@
       ]
     },
     {
+      "type": "youtube",
+      "attrs": {
+        "src": "https://youtu.be/NMR1QSfv1Wg",
+        "start": 0,
+        "width": 640,
+        "height": 480
+      }
+    },
+    {
       "type": "codeBlock",
+      "attrs": {
+        "language": null
+      },
       "content": [
         {
-          "text": "https://youtu.be/NMR1QSfv1Wg",
-          "type": "text"
+          "type": "text",
+          "text": "https://youtu.be/NMR1QSfv1Wg"
         }
       ]
     },

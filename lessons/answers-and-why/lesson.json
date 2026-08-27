@@ -1,16 +1,26 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "id": "lesson_e4051782-1bcd-4ea8-9351-13ea530bee73",
   "title": "(応・答)いんとぅ　ぬーんちが (Answers and Why)",
   "parts": [
     {
       "id": "part_section_78f02016-dc7a-4c32-8419-df27d0a30007",
-      "title": "Part 1",
+      "title": "Reading Section 1, 2, 4 Answers",
       "content": {
         "kind": "tiptap",
         "file": "parts/section-01-78f02016/document.json"
       },
       "legacy": {
         "sectionId": "78f02016-dc7a-4c32-8419-df27d0a30007"
+      }
+    },
+    {
+      "id": "part_3b925ca6-9a66-4737-9393-796530531946",
+      "title": "(応・答)いんとぅ　ぬーんちが (Answers and Why)",
+      "content": {
+        "kind": "tiptap",
+        "file": "parts/part_3b925ca6-9a66-4737-9393-796530531946/document.json"
       }
     }
   ],

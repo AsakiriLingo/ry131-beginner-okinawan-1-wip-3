@@ -1,11 +1,12 @@
 {
+  "format": "asakiri-course",
+  "formatVersion": 2,
   "type": "doc",
   "content": [
     {
       "type": "paragraph",
       "content": [
         {
-          "text": "Adjectives II",
           "type": "text",
           "marks": [
             {
@@ -14,16 +15,38 @@
             {
               "type": "underline"
             }
-          ]
-        },
+          ],
+          "text": "Adjectives II"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
         {
-          "type": "hardBreak"
-        },
+          "type": "text",
+          "text": "Watch the video while trying to interpret the meaning from the pictures."
+        }
+      ]
+    },
+    {
+      "type": "youtube",
+      "attrs": {
+        "src": "https://youtu.be/f991jpNqPwU",
+        "start": 0,
+        "width": 640,
+        "height": 480
+      }
+    },
+    {
+      "type": "codeBlock",
+      "attrs": {
+        "language": null
+      },
+      "content": [
         {
-          "type": "hardBreak"
-        },
-        {
-          "type": "hardBreak"
+          "type": "text",
+          "text": "https://youtu.be/f991jpNqPwU"
         }
       ]
     },

@@ -1,0 +1,21 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Section 2: The audio will play immediately. Please choose the correct multiple choice response to respond to the speaker within five seconds before the “ding” sound."
+        }
+      ]
+    }
+  ]
+}

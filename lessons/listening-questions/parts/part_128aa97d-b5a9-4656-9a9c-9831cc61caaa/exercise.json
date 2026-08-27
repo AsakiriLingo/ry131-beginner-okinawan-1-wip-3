@@ -1,0 +1,113 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 2,
+  "id": "exercise_cb9460e2-2290-459d-a042-9cec06eabed4",
+  "type": "listening",
+  "prompt": [
+    {
+      "id": "prompt_593d8939-abd7-451c-a11e-128db7ea5c1e",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Who is Sachiko according to the speaker?"
+        }
+      }
+    }
+  ],
+  "feedback": {
+    "correct": [
+      {
+        "id": "frag_36fd6b1d-5609-4eae-829f-ac1a2820a8f8",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "うー！"
+          }
+        }
+      }
+    ],
+    "incorrect": [
+      {
+        "id": "frag_b82dc00c-a697-41a0-87d3-c12930bdba22",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Please review the course materials."
+          }
+        }
+      }
+    ]
+  },
+  "evaluation": {
+    "kind": "selected-options",
+    "correctOptionIds": [
+      "option_5e5a8886-2cce-4f97-bbfa-3206c3002c1b"
+    ],
+    "select": "one"
+  },
+  "stimulus": {
+    "id": "stimulus_62c890b8-c45e-471a-8a89-ad7f0061e70e",
+    "role": "audio",
+    "binding": {
+      "kind": "asset",
+      "assetId": "asset_ab1efe6c-8b8d-464b-b251-10d4623c725e"
+    }
+  },
+  "answerMode": "select",
+  "options": [
+    {
+      "id": "option_4a1a9b77-c44f-4ec6-9095-61a06bead3ae",
+      "body": [
+        {
+          "id": "frag_a09d6e13-3462-473e-83f4-da91e08ea029",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "She is a teacher, and was born in Ginowan."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_4df3b25d-4fb6-496d-b47d-d77d6857dacc",
+      "body": [
+        {
+          "id": "frag_289c8640-5bf4-40e5-b207-80400038fe96",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "She is a university student, and was born in Naha."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_5e5a8886-2cce-4f97-bbfa-3206c3002c1b",
+      "body": [
+        {
+          "id": "frag_70593d1e-addf-4ad5-91a6-5da53792012f",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "She is an elementary school student, and was born in Urasoe."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

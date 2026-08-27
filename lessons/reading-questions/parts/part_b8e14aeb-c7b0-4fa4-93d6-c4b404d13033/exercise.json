@@ -1,0 +1,120 @@
+{
+  "format": "asakiri-course",
+  "formatVersion": 1,
+  "id": "exercise_023ac3bf-3cc2-4ea6-8c47-3116f70f431f",
+  "type": "multiple-choice",
+  "prompt": [
+    {
+      "id": "prompt_c6e1b2b4-61e0-4a8b-9cb5-53e235514945",
+      "role": "primary",
+      "binding": {
+        "kind": "literal",
+        "value": {
+          "type": "text",
+          "text": "Choose the correct particle: まじゅーん　がっこー__　いちゅん。"
+        }
+      }
+    }
+  ],
+  "feedback": {
+    "correct": [
+      {
+        "id": "frag_96e3300f-99af-4c9a-b994-2eaf36ea18ae",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "いー！"
+          }
+        }
+      }
+    ],
+    "incorrect": [
+      {
+        "id": "frag_7a369614-ecd8-4b84-b0ad-dd5190f82d68",
+        "role": "primary",
+        "binding": {
+          "kind": "literal",
+          "value": {
+            "type": "text",
+            "text": "Please review the course material."
+          }
+        }
+      }
+    ]
+  },
+  "evaluation": {
+    "kind": "selected-options",
+    "correctOptionIds": [
+      "option_ffe6cd10-06d7-42f8-aa75-be2330bb3809"
+    ],
+    "select": "one"
+  },
+  "options": [
+    {
+      "id": "option_73816b11-e526-4d27-a25e-e0a2525f28de",
+      "body": [
+        {
+          "id": "frag_705e6623-329b-49c5-b17f-07ec3b51d554",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "っし"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_a3b2d15c-f2cf-4a00-b6d1-ca5de9cc5795",
+      "body": [
+        {
+          "id": "frag_93d957e2-ce88-4053-8661-528288574ebd",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "んじ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_ffe6cd10-06d7-42f8-aa75-be2330bb3809",
+      "body": [
+        {
+          "id": "frag_d17ec4dc-db1d-4064-b446-3ce3b4bb6b7c",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "かい"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "option_3eb5bf12-0d86-4ef4-b60a-2146b4ff5eb8",
+      "body": [
+        {
+          "id": "frag_9031d95a-311c-4fbc-b629-1ceb0c32367e",
+          "role": "primary",
+          "binding": {
+            "kind": "literal",
+            "value": {
+              "type": "text",
+              "text": "ぬ"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
